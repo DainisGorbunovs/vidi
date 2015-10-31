@@ -1,6 +1,10 @@
 # SurvivalRate
 Application for presenting mortality rates in children for various diseases based on area.
 
+### Map rendering guide that may be useful
+
+https://parall.ax/blog/view/2985/tutorial-creating-an-interactive-svg-map
+
 ### Running the site under polymer:
 
 This does not use app.js in the root, instead it uses the elements in the app folder.
