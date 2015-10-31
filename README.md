@@ -5,7 +5,7 @@ Application for presenting mortality rates in children for various diseases base
 
 This does not use app.js in the root, instead it uses the elements in the app folder.
 
-In order to run the polymer application, navigate into the project folder and then:
+In order to run the polymer application, navigate into the project folder and then /app and:
 
 On Linux:
 
