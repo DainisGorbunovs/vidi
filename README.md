@@ -1,25 +1,13 @@
-# SurvivalRate
+SurvivalRate
+===================
+
 Application for presenting mortality rates in children for various diseases based on area.
+
+----------
 
 ### Map rendering guide that may be useful
 
 https://parall.ax/blog/view/2985/tutorial-creating-an-interactive-svg-map
-
-### Running the site under polymer:
-
-This does not use app.js in the root, instead it uses the elements in the app folder.
-
-In order to run the polymer application, navigate into the project folder and then /app and:
-
-On Linux:
-
-(Make sure you have Python installed)
-
-python -m SimpleHTTPServer 8080
-
-On Windows:
-
-python -m http.server 8080
 
 ### Polymer guide
 
@@ -30,6 +18,10 @@ https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html
 js code seems to go under the /app/scripts directory.
 
 ### Running the site
+Server uses the app.js in the root, and serves the files and elements in the "app" folder.
+
+In order to run the polymer application, navigate into the project folder and run commands:
+
 ```
 npm install
 bower install
@@ -37,9 +29,10 @@ node app.js
 ```
 
 ### Installing Bower
-
-npm install bower (may need sudo permissions)
-
+```
+#(may need sudo permissions)
+npm install bower
+```
 ### Datasources
 
 List of databases: (includes potential databases, some may not be useful, please add a * or some indicator to databases you think may be useful).
@@ -70,8 +63,6 @@ Some data on hospitals:
 
 - https://data.gov.uk/dataset/hospitals_
 - https://data.gov.uk/dataset/hospital_statistics
-
->>>>>>> f73e187d1ba973f7c67dc4e3c3c8e0bc40b7a201
-
-
-http://www.bbc.co.uk/news/health-15897345
+- http://www.bbc.co.uk/news/health-15897345
+- 
+https://data.gov.uk/dataset/index-of-multiple-deprivation
