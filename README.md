@@ -17,6 +17,12 @@ On Windows:
 
 python -m http.server 8080
 
+### Polymer guide
+
+The polymer developer guide is located here:
+
+https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html
+
 
 ### Running the site
 ```
