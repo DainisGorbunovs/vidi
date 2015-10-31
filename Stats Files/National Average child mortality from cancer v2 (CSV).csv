@@ -1,0 +1,69 @@
+Year of diagnosis,Period of coverage,Breakdown,Age,Number of patients,Indicator value,Lower CI,Upper CI
+2006,Diagnosis: 1/1 to 31/12/2006 Followed up until 31/12/2011,England,Age standardised 0 to 14 years,"1,351",81.3,77.6,85.0
+2005,Diagnosis: 1/1 to 31/12/2005 Followed up until 31/12/2010,England,Age standardised 0 to 14 years,"1,329",80.4,76.6,84.2
+2004,Diagnosis: 1/1 to 31/12/2004 Followed up until 31/12/2009,England,Age standardised 0 to 14 years,"1,340",80.7,76.9,84.4
+2003,Diagnosis: 1/1 to 31/12/2003 Followed up until 31/12/2008,England,Age standardised 0 to 14 years,"1,281",75.3,71.1,79.6
+2002,Diagnosis: 1/1 to 31/12/2002 Followed up until 31/12/2007,England,Age standardised 0 to 14 years,"1,423",78.5,74.7,82.3
+2001,Diagnosis: 1/1 to 31/12/2001 Followed up until 31/12/2006,England,Age standardised 0 to 14 years,"1,307",77.2,73.2,81.2
+2000,Diagnosis: 1/1 to 31/12/2000 Followed up until 31/12/2005,England,Age standardised 0 to 14 years,"1,260",80.2,76.2,84.1
+1999,Diagnosis: 1/1 to 31/12/1999 Followed up until 31/12/2004,England,Age standardised 0 to 14 years,"1,303",73.7,69.4,77.9
+1998,Diagnosis: 1/1 to 31/12/1998 Followed up until 31/12/2003,England,Age standardised 0 to 14 years,"1,264",76.9,72.7,81.1
+1997,Diagnosis: 1/1 to 31/12/1997 Followed up until 31/12/2002,England,Age standardised 0 to 14 years,"1,292",76.9,72.8,80.9
+1996,Diagnosis: 1/1 to 31/12/1996 Followed up until 31/12/2001,England,Age standardised 0 to 14 years,"1,273",75.9,71.7,80.1
+1995,Diagnosis: 1/1 to 31/12/1995 Followed up until 31/12/2000,England,Age standardised 0 to 14 years,"1,287",73.6,69.3,77.9
+1994,Diagnosis: 1/1 to 31/12/1994 Followed up until 31/12/1999,England,Age standardised 0 to 14 years,"1,267",74.7,70.5,79.0
+1993,Diagnosis: 1/1 to 31/12/1993 Followed up until 31/12/1998,England,Age standardised 0 to 14 years,"1,248",73.4,69.0,77.9
+1992,Diagnosis: 1/1 to 31/12/1992 Followed up until 31/12/1997,England,Age standardised 0 to 14 years,"1,206",71.9,67.2,76.5
+1991,Diagnosis: 1/1 to 31/12/1991 Followed up until 31/12/1996,England,Age standardised 0 to 14 years,"1,162",71.2,66.4,76.0
+1990,Diagnosis: 1/1 to 31/12/1990 Followed up until 31/12/1995,England,Age standardised 0 to 14 years,"1,202",66.6,61.7,71.4
+2006,Diagnosis: 1/1 to 31/12/2006 Followed up until 31/12/2011,Age,0 to 4 years,598,79.0,75.5,82.1
+2005,Diagnosis: 1/1 to 31/12/2005 Followed up until 31/12/2010,Age,0 to 4 years,601,78.4,74.9,81.5
+2004,Diagnosis: 1/1 to 31/12/2004 Followed up until 31/12/2009,Age,0 to 4 years,558,79.1,75.5,82.3
+2003,Diagnosis: 1/1 to 31/12/2003 Followed up until 31/12/2008,Age,0 to 4 years,591,79.7,76.2,82.7
+2002,Diagnosis: 1/1 to 31/12/2002 Followed up until 31/12/2007,Age,0 to 4 years,628,80.6,77.3,83.5
+2001,Diagnosis: 1/1 to 31/12/2001 Followed up until 31/12/2006,Age,0 to 4 years,563,76.9,73.2,80.2
+2000,Diagnosis: 1/1 to 31/12/2000 Followed up until 31/12/2005,Age,0 to 4 years,566,80.7,77.2,83.8
+1999,Diagnosis: 1/1 to 31/12/1999 Followed up until 31/12/2004,Age,0 to 4 years,589,73.9,70.2,77.3
+1998,Diagnosis: 1/1 to 31/12/1998 Followed up until 31/12/2003,Age,0 to 4 years,602,76.0,72.4,79.3
+1997,Diagnosis: 1/1 to 31/12/1997 Followed up until 31/12/2002,Age,0 to 4 years,564,75.2,71.4,78.6
+1996,Diagnosis: 1/1 to 31/12/1996 Followed up until 31/12/2001,Age,0 to 4 years,596,73.2,69.5,76.6
+1995,Diagnosis: 1/1 to 31/12/1995 Followed up until 31/12/2000,Age,0 to 4 years,557,73.8,69.9,77.2
+1994,Diagnosis: 1/1 to 31/12/1994 Followed up until 31/12/1999,Age,0 to 4 years,577,72.2,68.4,75.7
+1993,Diagnosis: 1/1 to 31/12/1993 Followed up until 31/12/1998,Age,0 to 4 years,593,75.0,71.4,78.3
+1992,Diagnosis: 1/1 to 31/12/1992 Followed up until 31/12/1997,Age,0 to 4 years,571,75.1,71.3,78.4
+1991,Diagnosis: 1/1 to 31/12/1991 Followed up until 31/12/1996,Age,0 to 4 years,602,68.9,65.0,72.4
+1990,Diagnosis: 1/1 to 31/12/1990 Followed up until 31/12/1995,Age,0 to 4 years,578,66.5,62.5,70.2
+2006,Diagnosis: 1/1 to 31/12/2006 Followed up until 31/12/2011,Age,5 to 9 years,324,83.5,79.0,87.2
+2005,Diagnosis: 1/1 to 31/12/2005 Followed up until 31/12/2010,Age,5 to 9 years,337,78.6,73.8,82.6
+2004,Diagnosis: 1/1 to 31/12/2004 Followed up until 31/12/2009,Age,5 to 9 years,360,81.6,77.2,85.2
+2003,Diagnosis: 1/1 to 31/12/2003 Followed up until 31/12/2008,Age,5 to 9 years,329,75.3,70.2,79.6
+2002,Diagnosis: 1/1 to 31/12/2002 Followed up until 31/12/2007,Age,5 to 9 years,369,77.5,72.8,81.4
+2001,Diagnosis: 1/1 to 31/12/2001 Followed up until 31/12/2006,Age,5 to 9 years,343,78.4,73.7,82.4
+2000,Diagnosis: 1/1 to 31/12/2000 Followed up until 31/12/2005,Age,5 to 9 years,344,79.6,74.9,83.5
+1999,Diagnosis: 1/1 to 31/12/1999 Followed up until 31/12/2004,Age,5 to 9 years,363,74.5,69.7,78.7
+1998,Diagnosis: 1/1 to 31/12/1998 Followed up until 31/12/2003,Age,5 to 9 years,346,77.1,72.3,81.2
+1997,Diagnosis: 1/1 to 31/12/1997 Followed up until 31/12/2002,Age,5 to 9 years,367,74.0,69.1,78.2
+1996,Diagnosis: 1/1 to 31/12/1996 Followed up until 31/12/2001,Age,5 to 9 years,358,81.0,76.6,84.7
+1995,Diagnosis: 1/1 to 31/12/1995 Followed up until 31/12/2000,Age,5 to 9 years,343,76.5,71.6,80.6
+1994,Diagnosis: 1/1 to 31/12/1994 Followed up until 31/12/1999,Age,5 to 9 years,346,77.2,72.4,81.2
+1993,Diagnosis: 1/1 to 31/12/1993 Followed up until 31/12/1998,Age,5 to 9 years,330,74.4,69.3,78.8
+1992,Diagnosis: 1/1 to 31/12/1992 Followed up until 31/12/1997,Age,5 to 9 years,321,70.8,65.4,75.4
+1991,Diagnosis: 1/1 to 31/12/1991 Followed up until 31/12/1996,Age,5 to 9 years,304,69.4,63.9,74.3
+1990,Diagnosis: 1/1 to 31/12/1990 Followed up until 31/12/1995,Age,5 to 9 years,322,66.5,61.0,71.4
+2006,Diagnosis: 1/1 to 31/12/2006 Followed up until 31/12/2011,Age,10 to 14 years,429,81.3,77.3,84.7
+2005,Diagnosis: 1/1 to 31/12/2005 Followed up until 31/12/2010,Age,10 to 14 years,391,84.2,80.2,87.5
+2004,Diagnosis: 1/1 to 31/12/2004 Followed up until 31/12/2009,Age,10 to 14 years,422,81.2,77.2,84.7
+2003,Diagnosis: 1/1 to 31/12/2003 Followed up until 31/12/2008,Age,10 to 14 years,361,71.1,66.1,75.5
+2002,Diagnosis: 1/1 to 31/12/2002 Followed up until 31/12/2007,Age,10 to 14 years,426,77.4,73.1,81.1
+2001,Diagnosis: 1/1 to 31/12/2001 Followed up until 31/12/2006,Age,10 to 14 years,401,76.3,71.8,80.2
+2000,Diagnosis: 1/1 to 31/12/2000 Followed up until 31/12/2005,Age,10 to 14 years,350,80.2,75.6,84.0
+1999,Diagnosis: 1/1 to 31/12/1999 Followed up until 31/12/2004,Age,10 to 14 years,351,72.6,67.6,76.9
+1998,Diagnosis: 1/1 to 31/12/1998 Followed up until 31/12/2003,Age,10 to 14 years,316,77.4,72.4,81.7
+1997,Diagnosis: 1/1 to 31/12/1997 Followed up until 31/12/2002,Age,10 to 14 years,361,81.4,77.0,85.1
+1996,Diagnosis: 1/1 to 31/12/1996 Followed up until 31/12/2001,Age,10 to 14 years,319,73.4,68.1,77.9
+1995,Diagnosis: 1/1 to 31/12/1995 Followed up until 31/12/2000,Age,10 to 14 years,387,70.5,65.7,74.8
+1994,Diagnosis: 1/1 to 31/12/1994 Followed up until 31/12/1999,Age,10 to 14 years,344,74.7,69.8,79.0
+1993,Diagnosis: 1/1 to 31/12/1993 Followed up until 31/12/1998,Age,10 to 14 years,325,70.8,65.5,75.5
+1992,Diagnosis: 1/1 to 31/12/1992 Followed up until 31/12/1997,Age,10 to 14 years,314,69.7,64.3,74.5
+1991,Diagnosis: 1/1 to 31/12/1991 Followed up until 31/12/1996,Age,10 to 14 years,256,75.3,69.5,80.1
+1990,Diagnosis: 1/1 to 31/12/1990 Followed up until 31/12/1995,Age,10 to 14 years,302,66.7,61.1,71.8
