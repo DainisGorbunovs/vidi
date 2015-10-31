@@ -64,3 +64,5 @@ Some data on hospitals:
 - https://data.gov.uk/dataset/hospitals_
 - https://data.gov.uk/dataset/hospital_statistics
 - http://www.bbc.co.uk/news/health-15897345
+- 
+https://data.gov.uk/dataset/index-of-multiple-deprivation
