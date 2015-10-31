@@ -39,6 +39,8 @@ npm install bower (may need sudo permissions)
 
 List of databases: (includes potential databases, some may not be useful, please add a * or some indicator to databases you think may be useful).
 
+- API based on data.gov.uk | http://www.opendatadeveloper.co.uk/Docs/HealthPrevalence/
+
 - Main page: https://data.gov.uk/data/search?q=child+mortality&page=1
 - https://data.gov.uk/dataset/child_mortality_statistics-childhood_infant_and_perinatal
 - https://data.gov.uk/dataset/childhood_hospital_admissions_and_mortality/resource/0a8c3292-f5b6-4453-ba23-dbc74bb8c809
