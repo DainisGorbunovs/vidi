@@ -1,6 +1,13 @@
-# survivalrate
-
+# SurvivalRate
 Application for presenting mortality rates in children for various diseases based on area.
+
+### Running the site
+```
+npm install
+node app.js
+```
+
+### Datasources
 
 List of databases: (includes potential databases, some may not be useful, please add a * or some indicator to databases you think may be useful).
 
@@ -20,3 +27,5 @@ List of databases: (includes potential databases, some may not be useful, please
 - https://data.gov.uk/dataset/mortality_monitoring_bulletin
 
 Need links for regional statistics(?)
+
+>>>>>>> f73e187d1ba973f7c67dc4e3c3c8e0bc40b7a201

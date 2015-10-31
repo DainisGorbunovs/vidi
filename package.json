@@ -1,0 +1,26 @@
+{
+  "name": "survivalrate",
+  "version": "1.0.0",
+  "description": "Doctor, what are my chances?",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DainisGorbunovs/survivalrate.git"
+  },
+  "keywords": [
+    "survival",
+    "rate"
+  ],
+  "author": "Survival Rate team",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DainisGorbunovs/survivalrate/issues"
+  },
+  "homepage": "https://github.com/DainisGorbunovs/survivalrate#readme",
+  "dependencies": {
+    "express": "^4.13.3"
+  }
+}
