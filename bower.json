@@ -1,0 +1,28 @@
+{
+  "name": "survivalrate",
+  "description": "Doctor, what are my chances?",
+  "main": "app.js",
+  "authors": [
+    "Vidi"
+  ],
+  "license": "GPL-3.0",
+  "keywords": [
+    "survival",
+    "rate"
+  ],
+  "homepage": "https://github.com/DainisGorbunovs/survivalrate",
+  "moduleType": [
+    "node"
+  ],
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "polymer": "Polymer/polymer#^1.2.0"
+  }
+}
