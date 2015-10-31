@@ -7,6 +7,10 @@ npm install
 node app.js
 ```
 
+### Installing Bower
+
+npm install bower (may need sudo permissions)
+
 ### Datasources
 
 List of databases: (includes potential databases, some may not be useful, please add a * or some indicator to databases you think may be useful).
