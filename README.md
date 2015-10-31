@@ -23,6 +23,7 @@ The polymer developer guide is located here:
 
 https://www.polymer-project.org/1.0/docs/devguide/feature-overview.html
 
+js code seems to go under the /app/scripts directory.
 
 ### Running the site
 ```
