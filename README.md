@@ -28,6 +28,7 @@ js code seems to go under the /app/scripts directory.
 ### Running the site
 ```
 npm install
+bower install
 node app.js
 ```
 
