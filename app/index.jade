@@ -107,6 +107,39 @@ html(lang="en").
 
           <!-- Main Content -->
           <div class="content">
+<style>
+	    .card { width: 400px; }
+	    .row { padding: 5px;}
+	    paper-button { background-color: #777;}
+	    .button { width: 50%;}
+	    div.button { margin: 0 5px; }
+	  </style>
+	  <template id="app" is="dom-bind">
+	    <paper-material class="card">
+	      <div class="vertical layout">
+		<div class="horizontal layout row">
+		  <paper-button raised class="button" data-dialog="loans">Student Loans</paper-button>
+		  <paper-button raised class="button" data-dialog="wage">Minimum Wage</paper-button>
+		</div>
+		<div class="horizontal layout row">
+		  <paper-button raised class="button" data-dialog="racism">Racism</paper-button>
+		  <paper-button raised class="button" data-dialog="climate">Climate Change</paper-button>
+		</div>
+		<div class="horizontal layout row">
+		  <paper-button raised class="button" data-dialog="privacy">Internet Privacy</paper-button>
+		  <div class="button" >&nbsp;</div>
+		</div>
+	      </div>
+	    </paper-material>
+	  </template>
+	  
+	  <script>
+	    app=document.querySelector('#app');      
+	    window.addEventListener('WebComponentsReady',function() {
+	    });
+	  </script>
+
+
             <iron-pages attr-for-selected="data-route" selected="{{route}}">
 
               <section data-route="home">
