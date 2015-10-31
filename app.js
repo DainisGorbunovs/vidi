@@ -4,7 +4,8 @@ var path = require('path');
 var routes = require('./routes/index');
 
 app.use(express.static(path.join(__dirname, 'app')));
-
+app.set('views', './app')
+app.set('view engine', 'jade');
 app.use('/', routes);
 
 var server = app.listen(3000, function () {
