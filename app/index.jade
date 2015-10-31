@@ -53,33 +53,7 @@ html(lang="en").
 	  <span id="browser-sync-binding"></span>
 	  <template is="dom-bind" id="app">
 
-	    <paper-drawer-panel id="paperDrawerPanel">
-	      <!-- Drawer Scroll Header Panel -->
-	      <paper-scroll-header-panel drawer fixed>
-
-		<!-- Drawer Toolbar -->
-		<paper-toolbar id="drawerToolbar">
-		  <span class="paper-font-title">Menu</span>
-		</paper-toolbar>
-
-		<!-- Drawer Content -->
-		<paper-menu class="list" attr-for-selected="data-route" selected="[[route]]">
-		  <a data-route="home" href="/" on-click="onDataRouteClick">
-		    <iron-icon icon="home"></iron-icon>
-		    <span>Home</span>
-		  </a>
-
-		  <a data-route="users" href="/users" on-click="onDataRouteClick">
-		    <iron-icon icon="info"></iron-icon>
-		    <span>Users</span>
-		  </a>
-
-		  <a data-route="contact" href="/contact" on-click="onDataRouteClick">
-		    <iron-icon icon="mail"></iron-icon>
-		    <span>Contact</span>
-		  </a>
-		</paper-menu>
-	      </paper-scroll-header-panel>
+	   
 
 	      <!-- Main Area -->
 	      <paper-scroll-header-panel main condenses keep-condensed-header>
@@ -95,51 +69,78 @@ html(lang="en").
 
 		  <!-- Application name -->
 		  <div class="middle middle-container center horizontal layout">
-		    <div class="app-name">What're the chances?</div>
+		    <div class="app-name">Veni</div>
 		  </div>
 
 		  <!-- Application sub title -->
 		  <div class="bottom bottom-container center horizontal layout">
-		    <div class="bottom-title paper-font-subhead">Don't gamble with your child's life.</div>
+		    <div class="bottom-title paper-font-subhead">I saw, I helped.</div>
 		  </div>
 
 		</paper-toolbar>
 
 		<!-- Main Content -->
 		<div class="content">
+
 		  <style>
-		    .card { width: 400px; }
-		    .row { padding: 5px;}
-		    paper-button { background-color: #777;}
-		    .button { width: 50%;}
-		    div.button { margin: 0 5px; }
+		    #container {
+		    margin-left: 5%;
+		    margin-right: 5%;
+		    padding: 0px;
+		    }
+		    #container > #divleft {
+		    padding: 16px;
+		    margin-left: 0px;
+		    
+		    }
+		    #container > #divright {
+		    padding: 16px;
+		    margin-right: 0px;
+		    }
 		  </style>
-		  <template id="app" is="dom-bind">
-		    <paper-material class="card">
-		      <div class="vertical layout">
-		        <div class="horizontal layout row">
-		          <paper-button raised class="button" data-dialog="loans">Student Loans</paper-button>
-		          <paper-button raised class="button" data-dialog="wage">Minimum Wage</paper-button>
-		        </div>
-		        <div class="horizontal layout row">
-		          <paper-button raised class="button" data-dialog="racism">Racism</paper-button>
-		          <paper-button raised class="button" data-dialog="climate">Climate Change</paper-button>
-		        </div>
-		        <div class="horizontal layout row">
-		          <paper-button raised class="button" data-dialog="privacy">Internet Privacy</paper-button>
-		          <div class="button" >&nbsp;</div>
-		        </div>
-		      </div>
-		    </paper-material>
-		  </template>
 		  
-		  <script>
-		    app=document.querySelector('#app');      
-		    window.addEventListener('WebComponentsReady',function() {
-		    });
-		  </script>
+		  <div class="layout horizontal" id="container">
+		    <div class="flex" id="divleft">
+		      <paper-material elevation="1">
+			<p class="paper-font-subhead">Section for map</p>
+		      </paper-material>
+		    </div>
+		    <div class="inline" id="divright">
+		      <paper-material elevation="1">
+			<div class="layout vertical">
+			  <p class="paper-font-subhead">Section for fields</p>
 
+			  <paper-dropdown-menu label="Your favourite pastry">
+		            <paper-menu class="dropdown-content">
+		              <paper-item>Croissant</paper-item>
+		              <paper-item>Donut</paper-item>
+		              <paper-item>Financier</paper-item>
+		              <paper-item>Madeleine</paper-item>
+		            </paper-menu>
+		          </paper-dropdown-menu>
 
+			  <paper-dropdown-menu label="Your favourite pastry">
+		            <paper-menu class="dropdown-content">
+		              <paper-item>Croissant</paper-item>
+		              <paper-item>Donut</paper-item>
+		              <paper-item>Financier</paper-item>
+		              <paper-item>Madeleine</paper-item>
+		            </paper-menu>
+		          </paper-dropdown-menu>
+
+			  <paper-dropdown-menu label="Your favourite pastry">
+		            <paper-menu class="dropdown-content">
+		              <paper-item>Croissant</paper-item>
+		              <paper-item>Donut</paper-item>
+		              <paper-item>Financier</paper-item>
+		              <paper-item>Madeleine</paper-item>
+		            </paper-menu>
+		          </paper-dropdown-menu>
+		      </paper-material>
+		      </div>
+		    </div>
+		  </div>
+		  
 		  <iron-pages attr-for-selected="data-route" selected="{{route}}">
 
 		    <section data-route="home">
@@ -213,7 +214,6 @@ html(lang="en").
 		  </iron-pages>
 		</div>
 	      </paper-scroll-header-panel>
-	    </paper-drawer-panel>
 
 	    <!-- Uncomment next block to enable Service Worker support (1/2) -->
 	    <!--
