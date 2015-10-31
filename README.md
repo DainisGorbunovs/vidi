@@ -1,6 +1,23 @@
 # SurvivalRate
 Application for presenting mortality rates in children for various diseases based on area.
 
+### Running the site under polymer:
+
+This does not use app.js in the root, instead it uses the elements in the app folder.
+
+In order to run the polymer application, navigate into the project folder and then:
+
+On Linux:
+
+(Make sure you have Python installed)
+
+python -m SimpleHTTPServer 8080
+
+On Windows:
+
+python -m http.server 8080
+
+
 ### Running the site
 ```
 npm install
