@@ -1,0 +1,12 @@
+# Temporary and swap files
+*~
+*.swp
+*.swo
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directory
+node_modules
