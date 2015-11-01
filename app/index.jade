@@ -64,6 +64,11 @@ html(lang="en").
 		  #mainToolbar {
 		  background: #F44336;
 		  }
+		  a {
+		  text-decoration: none;
+		  colour: white;
+		  height: auto !important;
+		  }
 		</style>
 		
 		<paper-toolbar id="mainToolbar" class="tall">
@@ -71,12 +76,14 @@ html(lang="en").
 
 		  <!-- Application name -->
 
+		  
+
 		  <div class="middle middle-container center horizontal layout" style="margin: 12px;">
 		    <div class="app-name" style="margin-right: 24px;">VIDI: I saw, I helped.</div>
 		    <div>
 		    <paper-tabs selected="0">
 			<paper-tab>Category</paper-tab>
-			<paper-tab>Locale</paper-tab>
+			<paper-tab link><a href="http://192.168.66.64">Locale</paper-tab>
 		    </paper-tabs>
 		    </div>
 		  </div>
@@ -173,6 +180,10 @@ html(lang="en").
 			      <div class="layout vertical">
 				<p class="paper-font-title">What would you like to look at?</p>
 				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+				<form action="index.php" method="post">
+				<input name="name" type="text" placeholder="Your county" required autofocus>
+				<input type="submit" class="btn-login">
+				</form>
 				<paper-dropdown-menu label="Choose a factor">
 				  <paper-menu class="dropdown-content">
 				    <paper-item>Living Environment</paper-item>
@@ -205,7 +216,9 @@ html(lang="en").
 			</paper-material>
 		      </div>
 		    </div>
-		    <div>Page Two</div>
+		    <!-- <div>
+		      CODE GOES HERE
+		      </div> -->
 		  </iron-pages>
 
 		  <script>
