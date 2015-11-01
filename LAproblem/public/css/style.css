@@ -1,0 +1,73 @@
+*{
+  margin: 0;
+}
+
+body 
+{
+  text-align: center;
+  background: white;
+  color: black;
+  font-family: helvetica;
+}
+
+p {
+  font-size: 22px;
+}
+
+input {
+  border: 0;
+  padding: 10px;
+  font-size: 18px;
+  border: solid black 1px;
+  margin-top: 25px;
+}
+
+input[type="submit"] {
+  background: red;
+  color: white;
+}
+
+.navig {
+  background: rgba(241, 69, 61, 1);
+  padding: 50px;
+  color: white;
+  margin-bottom: 50px;
+  font-size: 28px;
+}
+
+.greeting {
+  font-weight: 600;
+  margin: 20px;
+}
+
+.ans {
+  margin: 10px;
+  font-size: 14px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+.hint {
+  margin-top: 10px;
+  color: rgba(30, 30, 30, 0.5);
+}
+
+.charlink {
+  width: 150px;
+  display: inline-block;
+  background: rgba(255, 0, 0, 1);
+  padding: 25px;
+  font-size: 18px;
+}
+
+.charlink:hover {
+  background: rgba(255, 0, 0, 0.5);
+}
+
+.problem {
+  margin: 25px;
+  font-size: 18px;
+}

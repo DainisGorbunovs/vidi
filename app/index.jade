@@ -64,6 +64,11 @@ html(lang="en").
 		  #mainToolbar {
 		  background: #F44336;
 		  }
+		  a {
+		  text-decoration: none;
+		  colour: white;
+		  height: auto !important;
+		  }
 		</style>
 		
 		<paper-toolbar id="mainToolbar" class="tall">
@@ -71,12 +76,19 @@ html(lang="en").
 
 		  <!-- Application name -->
 
+		  
+
 		  <div class="middle middle-container center horizontal layout" style="margin: 12px;">
 		    <div class="app-name" style="margin-right: 24px;">VIDI: I saw, I helped.</div>
 		    <div>
 		    <paper-tabs selected="0">
+<<<<<<< HEAD
 			<paper-tab id="test">Category</paper-tab>
 			<paper-tab>Locale</paper-tab>
+=======
+			<paper-tab>Category</paper-tab>
+			<paper-tab link><a href="http://192.168.66.64">Locale</a></paper-tab>
+>>>>>>> b5ccd740610f9caaca8922643d54436d12d6d86e
 		    </paper-tabs>
 		    </div>
 		  </div>
@@ -134,12 +146,34 @@ html(lang="en").
 					}
 				}
 				// returns a color based on the value given when the function is called
-				function getColor(coli) {
+				function getColor(info) {	
+					var multiply = 0;
+					switch(dropDownMenuData) {
+			    case "educationScore":
+			        multiply = 1-(info-6622.312883)/28230;
+			        break;
+			    case "healthScore":
+			        multiply = 1-(info-2772.007722)/31393.22642;
+			        break;
+			    case "crimeScore":
+			        multiply = 1-(info-4089.735849)/31690;
+			        break;
+					}
 
-				 return coli >= 121 ? '#89a844' :
-				 coli > 110 ? '#acd033' :
-				 coli > 102.5 ? '#cbd97c' :
-				 coli > 100 ? '#c2c083' :
+					if (typeof info === "undefined")
+						multiply = 0;
+					var red = (256 * multiply).toString(16).slice(0,2);
+					var green = (150 * multiply).toString(16).slice(0,2);
+					var blue = (150 * multiply).toString(16).slice(0,2);
+					if (multiply == 0)
+						console.log(red + ":" + green + ":" + blue + " [" + multiply + "], " + info + " and " + localAuthority);
+					var color = "#" + (256 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2);
+				 return color;
+
+				 return info >= 121 ? '#89a844' :
+				 info > 110 ? '#acd033' :
+				 info > 102.5 ? '#cbd97c' :
+				 info > 100 ? '#c2c083' :
 				 '#d1ccad';
 				}
 			      </script>
@@ -153,6 +187,11 @@ html(lang="en").
 			      <div class="layout vertical">
 				<p class="paper-font-title">What would you like to look at?</p>
 				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+				
+				<form action="index.php" method="post">
+				<input name="name" type="text" placeholder="Your county" required autofocus>
+				<input type="submit" class="btn-login">
+				</form>
 				<paper-dropdown-menu label="Choose a factor" id="dropDownMenu">
 				  <paper-menu class="dropdown-content" onclick="myfunction()">
 				    <paper-item>Living Environment</paper-item>
@@ -185,7 +224,9 @@ html(lang="en").
 			</paper-material>
 		      </div>
 		    </div>
-		    <div>Page Two</div>
+		    <!-- <div>
+		      CODE GOES HERE
+		      </div> -->
 		  </iron-pages>
 
 		  <script>
