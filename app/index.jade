@@ -69,25 +69,16 @@ html(lang="en").
 		<paper-toolbar id="mainToolbar" class="tall">
 		  <span class="flex"></span>
 
-		  <!-- Toolbar icons -->
-		  <paper-icon-button icon="refresh"></paper-icon-button>
-		  <paper-icon-button icon="search"></paper-icon-button>
-
 		  <!-- Application name -->
-		  <div class="middle middle-container center horizontal layout">
-		    <div class="app-name">Vidi. I saw, I helped.</div>
-		  </div>
 
-		  <!-- Application sub title -->
-		  <div class="bottom bottom-container center horizontal layout">
-		    <div class="bottom-title paper-font-subhead">Country-wide statistics.</div>
-		    <div class="bottom self-end flex">
-		      <paper-tabs selected="0">
+		  <div class="middle middle-container center horizontal layout" style="margin: 12px;">
+		    <div class="app-name" style="margin-right: 24px;">Vidi. I saw, I helped.</div>
+		    <div>
+		    <paper-tabs selected="0">
 			<paper-tab>Category</paper-tab>
 			<paper-tab>Locale</paper-tab>
-		      </paper-tabs>
+		    </paper-tabs>
 		    </div>
-		    
 		  </div>
 
 		</paper-toolbar>
@@ -114,7 +105,7 @@ html(lang="en").
 		      <div class="layout horizontal" id="container">
 			<div class="flex" id="divleft">
 			  <paper-material elevation="1">
-			    <p class="paper-font-subhead">MAP</p>
+			    <p class="paper-font-title">Regional Heatmap</p>
 
 			    <div id="map" style="height: 400px;"></div>
 			    <script>
@@ -176,9 +167,9 @@ html(lang="en").
 		    pages.selected = tabs.selected;
 		    });
 		  </script>
-				  
-		  <!-- <iron-pages attr-for-selected="data-route" selected="{{route}}">
 
+		  <div>
+		  <iron-pages>
 		    <section data-route="home">
 		      <paper-material elevation="1">
 		        <my-greeting></my-greeting>
@@ -247,7 +238,7 @@ html(lang="en").
 		      </paper-material>
 		    </section>
 
-		  </iron-pages> -->
+		  </iron-pages>
 		</div>
 	      </paper-scroll-header-panel>
 
