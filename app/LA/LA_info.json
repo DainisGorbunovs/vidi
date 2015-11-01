@@ -1,6 +1,6 @@
 [{
     "areaID":"1",
-    "areaName":"City of London",
+    "areaName":"London",
     "educationScore":"26711.6",
     "educationRank":"5",
     "healthScore":"27341.2",
@@ -352,7 +352,7 @@
   },
   {
     "areaID":"33",
-    "areaName":"City of Westminster",
+    "areaName":"Westminster",
     "educationScore":"23924.025",
     "educationRank":"25",
     "healthScore":"20804.50833",
@@ -363,7 +363,7 @@
   },
   {
     "areaID":"34",
-    "areaName":"Bolton District",
+    "areaName":"Bolton",
     "educationScore":"13501.04571",
     "educationRank":"228",
     "healthScore":"6879.217143",
@@ -374,7 +374,7 @@
   },
   {
     "areaID":"35",
-    "areaName":"Bury District",
+    "areaName":"Bury",
     "educationScore":"18174.625",
     "educationRank":"127",
     "healthScore":"10457.40833",
@@ -385,7 +385,7 @@
   },
   {
     "areaID":"36",
-    "areaName":"Manchester District",
+    "areaName":"Manchester",
     "educationScore":"10627.19305",
     "educationRank":"295",
     "healthScore":"2772.007722",
@@ -396,7 +396,7 @@
   },
   {
     "areaID":"37",
-    "areaName":"Oldham District",
+    "areaName":"Oldham",
     "educationScore":"11166.81944",
     "educationRank":"283",
     "healthScore":"9443.375",
@@ -407,7 +407,7 @@
   },
   {
     "areaID":"38",
-    "areaName":"Rochdale District",
+    "areaName":"Rochdale",
     "educationScore":"11934.27407",
     "educationRank":"265",
     "healthScore":"5287.911111",
@@ -418,7 +418,7 @@
   },
   {
     "areaID":"39",
-    "areaName":"Salford District",
+    "areaName":"Salford",
     "educationScore":"11499.84028",
     "educationRank":"280",
     "healthScore":"4919.402778",
@@ -429,7 +429,7 @@
   },
   {
     "areaID":"40",
-    "areaName":"Stockport District",
+    "areaName":"Stockport",
     "educationScore":"19069.22105",
     "educationRank":"104",
     "healthScore":"12062.45789",
@@ -440,7 +440,7 @@
   },
   {
     "areaID":"41",
-    "areaName":"Tameside District",
+    "areaName":"Tameside",
     "educationScore":"11114.82979",
     "educationRank":"286",
     "healthScore":"7429.723404",
@@ -451,7 +451,7 @@
   },
   {
     "areaID":"42",
-    "areaName":"Trafford District",
+    "areaName":"Trafford",
     "educationScore":"22466.34058",
     "educationRank":"43",
     "healthScore":"14960.42754",
@@ -462,7 +462,7 @@
   },
   {
     "areaID":"43",
-    "areaName":"Wigan District",
+    "areaName":"Wigan",
     "educationScore":"13303.375",
     "educationRank":"238",
     "healthScore":"10251.21",
@@ -473,7 +473,7 @@
   },
   {
     "areaID":"44",
-    "areaName":"Knowsley District",
+    "areaName":"Knowsley",
     "educationScore":"8270.878788",
     "educationRank":"320",
     "healthScore":"5258.777778",
@@ -484,7 +484,7 @@
   },
   {
     "areaID":"45",
-    "areaName":"Liverpool District",
+    "areaName":"Liverpool",
     "educationScore":"10910.65292",
     "educationRank":"288",
     "healthScore":"3709.955326",
@@ -495,7 +495,7 @@
   },
   {
     "areaID":"46",
-    "areaName":"St. Helens District",
+    "areaName":"St Helens",
     "educationScore":"13363.9661",
     "educationRank":"236",
     "healthScore":"8510.694915",
@@ -506,7 +506,7 @@
   },
   {
     "areaID":"47",
-    "areaName":"Sefton District",
+    "areaName":"Sefton",
     "educationScore":"17217.86316",
     "educationRank":"157",
     "healthScore":"9359.057895",
@@ -517,7 +517,7 @@
   },
   {
     "areaID":"48",
-    "areaName":"Wirral District",
+    "areaName":"Wirral",
     "educationScore":"17836.71014",
     "educationRank":"140",
     "healthScore":"8672.855072",
@@ -528,51 +528,51 @@
   },
   {
     "areaID":"49",
-    "areaName":"Barnsley District",
+    "areaName":"Barnsley",
     "educationScore":"8813.204082",
     "educationRank":"316",
     "healthScore":"9958.428571",
     "healthRank":"271",
     "crimeScore":"15239.01361",
     "crimeRank":"223",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"50",
-    "areaName":"Doncaster District",
+    "areaName":"Doncaster",
     "educationScore":"10134.55959",
     "educationRank":"304",
     "healthScore":"8912.015544",
     "healthRank":"280",
     "crimeScore":"8810.476684",
     "crimeRank":"301",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"51",
-    "areaName":"Rotherham District",
+    "areaName":"Rotherham",
     "educationScore":"10202.48795",
     "educationRank":"303",
     "healthScore":"6696.590361",
     "healthRank":"305",
     "crimeScore":"12683.4759",
     "crimeRank":"258",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"52",
-    "areaName":"Sheffield District",
+    "areaName":"Sheffield",
     "educationScore":"13205.24484",
     "educationRank":"240",
     "healthScore":"11385.67847",
     "healthRank":"256",
     "crimeScore":"10661.86431",
     "crimeRank":"284",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"53",
-    "areaName":"Gateshead District",
+    "areaName":"Gateshead",
     "educationScore":"12134.83333",
     "educationRank":"263",
     "healthScore":"6057.857143",
@@ -583,7 +583,7 @@
   },
   {
     "areaID":"54",
-    "areaName":"Newcastle upon Tyne District",
+    "areaName":"Newcastle upon Tyne",
     "educationScore":"13667.08671",
     "educationRank":"226",
     "healthScore":"6214.485549",
@@ -594,7 +594,7 @@
   },
   {
     "areaID":"55",
-    "areaName":"North Tyneside District",
+    "areaName":"North Tyneside",
     "educationScore":"15805.86822",
     "educationRank":"186",
     "healthScore":"11981.37984",
@@ -605,7 +605,7 @@
   },
   {
     "areaID":"56",
-    "areaName":"South Tyneside District",
+    "areaName":"South Tyneside",
     "educationScore":"11633.54369",
     "educationRank":"274",
     "healthScore":"10524.71845",
@@ -616,7 +616,7 @@
   },
   {
     "areaID":"57",
-    "areaName":"Sunderland District",
+    "areaName":"Sunderland",
     "educationScore":"10888.29787",
     "educationRank":"289",
     "healthScore":"6632.760638",
@@ -627,7 +627,7 @@
   },
   {
     "areaID":"58",
-    "areaName":"Birmingham District",
+    "areaName":"Birmingham",
     "educationScore":"11851.3869",
     "educationRank":"271",
     "healthScore":"8196.567863",
@@ -638,7 +638,7 @@
   },
   {
     "areaID":"59",
-    "areaName":"Coventry District",
+    "areaName":"Coventry",
     "educationScore":"12682.2335",
     "educationRank":"251",
     "healthScore":"12239.07614",
@@ -649,7 +649,7 @@
   },
   {
     "areaID":"60",
-    "areaName":"Dudley District",
+    "areaName":"Dudley",
     "educationScore":"12644.07426",
     "educationRank":"253",
     "healthScore":"17842.4901",
@@ -660,7 +660,7 @@
   },
   {
     "areaID":"61",
-    "areaName":"Sandwell District",
+    "areaName":"Sandwell",
     "educationScore":"6772.68984",
     "educationRank":"325",
     "healthScore":"5816.946524",
@@ -671,7 +671,7 @@
   },
   {
     "areaID":"62",
-    "areaName":"Solihull District",
+    "areaName":"Solihull",
     "educationScore":"19475.03759",
     "educationRank":"92",
     "healthScore":"20469.33083",
@@ -682,7 +682,7 @@
   },
   {
     "areaID":"63",
-    "areaName":"Walsall District",
+    "areaName":"Walsall",
     "educationScore":"9315.532544",
     "educationRank":"312",
     "healthScore":"9756.544379",
@@ -693,7 +693,7 @@
   },
   {
     "areaID":"64",
-    "areaName":"City of Wolverhampton District",
+    "areaName":"Wolverhampton",
     "educationScore":"10371.46203",
     "educationRank":"299",
     "healthScore":"8064.981013",
@@ -704,58 +704,58 @@
   },
   {
     "areaID":"65",
-    "areaName":"Bradford District",
+    "areaName":"Bradford",
     "educationScore":"11290.28013",
     "educationRank":"281",
     "healthScore":"8401.045603",
     "healthRank":"286",
     "crimeScore":"11363.91205",
     "crimeRank":"276",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"66",
-    "areaName":"Calderdale District",
+    "areaName":"Calderdale",
     "educationScore":"15169.46512",
     "educationRank":"194",
     "healthScore":"14155.52713",
     "healthRank":"219",
     "crimeScore":"13071.09302",
     "crimeRank":"255",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"67",
-    "areaName":"Kirklees District",
+    "areaName":"Kirklees",
     "educationScore":"13879.39231",
     "educationRank":"222",
     "healthScore":"14704.39231",
     "healthRank":"210",
     "crimeScore":"10964.86538",
     "crimeRank":"281",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"68",
-    "areaName":"Leeds District",
+    "areaName":"Leeds",
     "educationScore":"14308.78782",
     "educationRank":"216",
     "healthScore":"14002.42647",
     "healthRank":"222",
     "crimeScore":"11263.82773",
     "crimeRank":"278",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"69",
-    "areaName":"Wakefield District",
+    "areaName":"Wakefield",
     "educationScore":"10666.85167",
     "educationRank":"294",
     "healthScore":"9851.794258",
     "healthRank":"275",
     "crimeScore":"12422.70813",
     "crimeRank":"268",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"70",
@@ -814,7 +814,7 @@
   },
   {
     "areaID":"75",
-    "areaName":"Durham County",
+    "areaName":"Durham",
     "educationScore":"12641.23125",
     "educationRank":"254",
     "healthScore":"7462.040625",
@@ -865,7 +865,7 @@
     "healthRank":"229",
     "crimeScore":"19519.912",
     "crimeRank":"142",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"80",
@@ -876,7 +876,7 @@
     "healthRank":"176",
     "crimeScore":"18370.92891",
     "crimeRank":"161",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"81",
@@ -887,7 +887,7 @@
     "healthRank":"311",
     "crimeScore":"13833.40659",
     "crimeRank":"244",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"82",
@@ -898,18 +898,18 @@
     "healthRank":"323",
     "crimeScore":"11186",
     "crimeRank":"279",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"83",
-    "areaName":"City of Kingston upon Hull",
+    "areaName":"Kingston upon Hull",
     "educationScore":"6622.312883",
     "educationRank":"326",
     "healthScore":"9950.680982",
     "healthRank":"272",
     "crimeScore":"7933.202454",
     "crimeRank":"310",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"84",
@@ -957,7 +957,7 @@
   },
   {
     "areaID":"88",
-    "areaName":"City of Derby",
+    "areaName":"Derby",
     "educationScore":"13973.46259",
     "educationRank":"221",
     "healthScore":"15725.94558",
@@ -968,7 +968,7 @@
   },
   {
     "areaID":"89",
-    "areaName":"City of Leicester",
+    "areaName":"Leicester",
     "educationScore":"9618.053476",
     "educationRank":"309",
     "healthScore":"7920.481283",
@@ -990,7 +990,7 @@
   },
   {
     "areaID":"91",
-    "areaName":"City of Nottingham",
+    "areaName":"Nottingham",
     "educationScore":"9076.982955",
     "educationRank":"313",
     "healthScore":"6293.375",
@@ -1001,7 +1001,7 @@
   },
   {
     "areaID":"92",
-    "areaName":"County of Herefordshire",
+    "areaName":"Herefordshire",
     "educationScore":"17455.63793",
     "educationRank":"146",
     "healthScore":"20649.30172",
@@ -1034,7 +1034,7 @@
   },
   {
     "areaID":"95",
-    "areaName":"City of Stoke-on-Trent",
+    "areaName":"Stoke-on-Trent",
     "educationScore":"7589.475",
     "educationRank":"324",
     "healthScore":"6198.8",
@@ -1056,7 +1056,7 @@
   },
   {
     "areaID":"97",
-    "areaName":"City of Bristol",
+    "areaName":"Bristol",
     "educationScore":"14263.97222",
     "educationRank":"217",
     "healthScore":"14388.89286",
@@ -1111,7 +1111,7 @@
   },
   {
     "areaID":"102",
-    "areaName":"City of Plymouth",
+    "areaName":"Plymouth",
     "educationScore":"13801.76875",
     "educationRank":"224",
     "healthScore":"11517.6625",
@@ -1177,7 +1177,7 @@
   },
   {
     "areaID":"108",
-    "areaName":"City of Peterborough",
+    "areaName":"Peterborough",
     "educationScore":"12614.59615",
     "educationRank":"256",
     "healthScore":"16317.47115",
@@ -1199,7 +1199,7 @@
   },
   {
     "areaID":"110",
-    "areaName":"Bedford Unitary",
+    "areaName":"Bedford",
     "educationScore":"17420.94118",
     "educationRank":"148",
     "healthScore":"17434.13725",
@@ -1331,7 +1331,7 @@
   },
   {
     "areaID":"122",
-    "areaName":"The City of Brighton & Hove",
+    "areaName":"Brighton and Hove",
     "educationScore":"19401.02439",
     "educationRank":"94",
     "healthScore":"8521.695122",
@@ -1342,7 +1342,7 @@
   },
   {
     "areaID":"123",
-    "areaName":"City of Portsmouth",
+    "areaName":"Portsmouth",
     "educationScore":"12067.39024",
     "educationRank":"264",
     "healthScore":"15252.26829",
@@ -1353,7 +1353,7 @@
   },
   {
     "areaID":"124",
-    "areaName":"City of Southampton",
+    "areaName":"Southampton",
     "educationScore":"12947.72603",
     "educationRank":"245",
     "healthScore":"13395.18493",
@@ -1375,7 +1375,7 @@
   },
   {
     "areaID":"126",
-    "areaName":"Aylesbury Vale District",
+    "areaName":"Aylesbury Vale",
     "educationScore":"20996.55357",
     "educationRank":"73",
     "healthScore":"25343.33929",
@@ -1386,7 +1386,7 @@
   },
   {
     "areaID":"127",
-    "areaName":"Chiltern District",
+    "areaName":"Chiltern",
     "educationScore":"26840.77193",
     "educationRank":"4",
     "healthScore":"28396.10526",
@@ -1397,7 +1397,7 @@
   },
   {
     "areaID":"128",
-    "areaName":"South Bucks District",
+    "areaName":"South Bucks",
     "educationScore":"24826.875",
     "educationRank":"20",
     "healthScore":"29355.1",
@@ -1408,7 +1408,7 @@
   },
   {
     "areaID":"129",
-    "areaName":"Wycombe District",
+    "areaName":"Wycombe",
     "educationScore":"22256.19626",
     "educationRank":"47",
     "healthScore":"24302.2243",
@@ -1419,7 +1419,7 @@
   },
   {
     "areaID":"130",
-    "areaName":"Cambridge District",
+    "areaName":"Cambridge",
     "educationScore":"21881.38235",
     "educationRank":"56",
     "healthScore":"16230.88235",
@@ -1430,7 +1430,7 @@
   },
   {
     "areaID":"131",
-    "areaName":"East Cambridgeshire District",
+    "areaName":"East Cambridgeshire",
     "educationScore":"17658.80851",
     "educationRank":"143",
     "healthScore":"25880.61702",
@@ -1441,7 +1441,7 @@
   },
   {
     "areaID":"132",
-    "areaName":"Fenland District",
+    "areaName":"Fenland",
     "educationScore":"8892.222222",
     "educationRank":"315",
     "healthScore":"15797.61111",
@@ -1452,7 +1452,7 @@
   },
   {
     "areaID":"133",
-    "areaName":"Huntingdonshire District",
+    "areaName":"Huntingdonshire",
     "educationScore":"18882.16981",
     "educationRank":"111",
     "healthScore":"23915.77358",
@@ -1463,7 +1463,7 @@
   },
   {
     "areaID":"134",
-    "areaName":"South Cambridgeshire District",
+    "areaName":"South Cambridgeshire",
     "educationScore":"25063.68889",
     "educationRank":"18",
     "healthScore":"27016.07778",
@@ -1474,7 +1474,7 @@
   },
   {
     "areaID":"135",
-    "areaName":"Allerdale District",
+    "areaName":"Allerdale",
     "educationScore":"14777.21667",
     "educationRank":"202",
     "healthScore":"11725.08333",
@@ -1485,7 +1485,7 @@
   },
   {
     "areaID":"136",
-    "areaName":"Barrow-in-Furness District",
+    "areaName":"Barrow-in-Furness",
     "educationScore":"13384.78",
     "educationRank":"235",
     "healthScore":"3986.58",
@@ -1496,7 +1496,7 @@
   },
   {
     "areaID":"137",
-    "areaName":"Carlisle District",
+    "areaName":"Carlisle",
     "educationScore":"12633.39706",
     "educationRank":"255",
     "healthScore":"10409.52941",
@@ -1507,7 +1507,7 @@
   },
   {
     "areaID":"138",
-    "areaName":"Copeland District",
+    "areaName":"Copeland",
     "educationScore":"11863.14286",
     "educationRank":"269",
     "healthScore":"7686.163265",
@@ -1518,7 +1518,7 @@
   },
   {
     "areaID":"139",
-    "areaName":"Eden District",
+    "areaName":"Eden",
     "educationScore":"17162.25",
     "educationRank":"159",
     "healthScore":"21577.22222",
@@ -1529,7 +1529,7 @@
   },
   {
     "areaID":"140",
-    "areaName":"South Lakeland District",
+    "areaName":"South Lakeland",
     "educationScore":"22394.9322",
     "educationRank":"46",
     "healthScore":"16703.32203",
@@ -1540,7 +1540,7 @@
   },
   {
     "areaID":"141",
-    "areaName":"Amber Valley District",
+    "areaName":"Amber Valley",
     "educationScore":"13537.85897",
     "educationRank":"227",
     "healthScore":"18762.58974",
@@ -1551,7 +1551,7 @@
   },
   {
     "areaID":"142",
-    "areaName":"Bolsover District",
+    "areaName":"Bolsover",
     "educationScore":"8546.354167",
     "educationRank":"318",
     "healthScore":"10111.35417",
@@ -1562,7 +1562,7 @@
   },
   {
     "areaID":"143",
-    "areaName":"Chesterfield District",
+    "areaName":"Chesterfield",
     "educationScore":"12884.94118",
     "educationRank":"246",
     "healthScore":"11193.32353",
@@ -1573,7 +1573,7 @@
   },
   {
     "areaID":"144",
-    "areaName":"Derbyshire Dales District",
+    "areaName":"Derbyshire Dales",
     "educationScore":"21587.11628",
     "educationRank":"62",
     "healthScore":"23883.93023",
@@ -1584,7 +1584,7 @@
   },
   {
     "areaID":"145",
-    "areaName":"Erewash District",
+    "areaName":"Erewash",
     "educationScore":"13778.45205",
     "educationRank":"225",
     "healthScore":"18587.08219",
@@ -1595,7 +1595,7 @@
   },
   {
     "areaID":"146",
-    "areaName":"High Peak District",
+    "areaName":"High Peak",
     "educationScore":"18437.67797",
     "educationRank":"122",
     "healthScore":"15148.64407",
@@ -1606,7 +1606,7 @@
   },
   {
     "areaID":"147",
-    "areaName":"North East Derbyshire District",
+    "areaName":"North East Derbyshire",
     "educationScore":"14318.53968",
     "educationRank":"214",
     "healthScore":"18126.57143",
@@ -1617,7 +1617,7 @@
   },
   {
     "areaID":"148",
-    "areaName":"South Derbyshire District",
+    "areaName":"South Derbyshire",
     "educationScore":"16638.07407",
     "educationRank":"175",
     "healthScore":"20478.18519",
@@ -1628,7 +1628,7 @@
   },
   {
     "areaID":"149",
-    "areaName":"East Devon District",
+    "areaName":"East Devon",
     "educationScore":"19394.53659",
     "educationRank":"95",
     "healthScore":"24033.85366",
@@ -1639,7 +1639,7 @@
   },
   {
     "areaID":"150",
-    "areaName":"Exeter District",
+    "areaName":"Exeter",
     "educationScore":"15976.35616",
     "educationRank":"183",
     "healthScore":"18320.63014",
@@ -1650,7 +1650,7 @@
   },
   {
     "areaID":"151",
-    "areaName":"Mid Devon District",
+    "areaName":"Mid Devon",
     "educationScore":"16285.83721",
     "educationRank":"179",
     "healthScore":"23193.11628",
@@ -1661,7 +1661,7 @@
   },
   {
     "areaID":"152",
-    "areaName":"North Devon District",
+    "areaName":"North Devon",
     "educationScore":"14492.60345",
     "educationRank":"208",
     "healthScore":"16282.72414",
@@ -1672,7 +1672,7 @@
   },
   {
     "areaID":"153",
-    "areaName":"South Hams District",
+    "areaName":"South Hams",
     "educationScore":"22736.87755",
     "educationRank":"36",
     "healthScore":"22195.71429",
@@ -1683,7 +1683,7 @@
   },
   {
     "areaID":"154",
-    "areaName":"Teignbridge District",
+    "areaName":"Teignbridge",
     "educationScore":"17969.63095",
     "educationRank":"136",
     "healthScore":"20596.02381",
@@ -1694,7 +1694,7 @@
   },
   {
     "areaID":"155",
-    "areaName":"Torridge District",
+    "areaName":"Torridge",
     "educationScore":"13260.62162",
     "educationRank":"239",
     "healthScore":"19469.32432",
@@ -1705,7 +1705,7 @@
   },
   {
     "areaID":"156",
-    "areaName":"West Devon District",
+    "areaName":"West Devon",
     "educationScore":"19289.09677",
     "educationRank":"97",
     "healthScore":"20685.83871",
@@ -1716,7 +1716,7 @@
   },
   {
     "areaID":"157",
-    "areaName":"Christchurch District",
+    "areaName":"Christchurch",
     "educationScore":"19558.96667",
     "educationRank":"90",
     "healthScore":"22927.1",
@@ -1727,7 +1727,7 @@
   },
   {
     "areaID":"158",
-    "areaName":"East Dorset District",
+    "areaName":"East Dorset",
     "educationScore":"21429.31579",
     "educationRank":"64",
     "healthScore":"27393.63158",
@@ -1738,7 +1738,7 @@
   },
   {
     "areaID":"159",
-    "areaName":"North Dorset District",
+    "areaName":"North Dorset",
     "educationScore":"17487.25714",
     "educationRank":"145",
     "healthScore":"20173.45714",
@@ -1749,7 +1749,7 @@
   },
   {
     "areaID":"160",
-    "areaName":"Purbeck District",
+    "areaName":"Purbeck",
     "educationScore":"16805.06897",
     "educationRank":"173",
     "healthScore":"19712.13793",
@@ -1760,7 +1760,7 @@
   },
   {
     "areaID":"161",
-    "areaName":"West Dorset District",
+    "areaName":"West Dorset",
     "educationScore":"20392.14035",
     "educationRank":"80",
     "healthScore":"17246.47368",
@@ -1771,7 +1771,7 @@
   },
   {
     "areaID":"162",
-    "areaName":"Weymouth and Portland District",
+    "areaName":"Weymouth and Portland",
     "educationScore":"14135.76923",
     "educationRank":"219",
     "healthScore":"8217.128205",
@@ -1782,7 +1782,7 @@
   },
   {
     "areaID":"163",
-    "areaName":"Eastbourne District",
+    "areaName":"Eastbourne",
     "educationScore":"14961.25424",
     "educationRank":"198",
     "healthScore":"9899.559322",
@@ -1793,7 +1793,7 @@
   },
   {
     "areaID":"164",
-    "areaName":"Hastings District",
+    "areaName":"Hastings",
     "educationScore":"9871.056604",
     "educationRank":"306",
     "healthScore":"5851.849057",
@@ -1804,7 +1804,7 @@
   },
   {
     "areaID":"165",
-    "areaName":"Lewes District",
+    "areaName":"Lewes",
     "educationScore":"17298.75806",
     "educationRank":"153",
     "healthScore":"17464.3871",
@@ -1815,7 +1815,7 @@
   },
   {
     "areaID":"166",
-    "areaName":"Rother District",
+    "areaName":"Rother",
     "educationScore":"16667.36207",
     "educationRank":"174",
     "healthScore":"14966.13793",
@@ -1826,7 +1826,7 @@
   },
   {
     "areaID":"167",
-    "areaName":"Wealden District",
+    "areaName":"Wealden",
     "educationScore":"21293.07368",
     "educationRank":"69",
     "healthScore":"23755.47368",
@@ -1837,7 +1837,7 @@
   },
   {
     "areaID":"168",
-    "areaName":"Basildon District",
+    "areaName":"Basildon",
     "educationScore":"11096",
     "educationRank":"287",
     "healthScore":"20372.88182",
@@ -1848,7 +1848,7 @@
   },
   {
     "areaID":"169",
-    "areaName":"Braintree District",
+    "areaName":"Braintree",
     "educationScore":"14546.7619",
     "educationRank":"207",
     "healthScore":"25102.84524",
@@ -1859,7 +1859,7 @@
   },
   {
     "areaID":"170",
-    "areaName":"Brentwood District",
+    "areaName":"Brentwood",
     "educationScore":"22203.02222",
     "educationRank":"49",
     "healthScore":"27885.17778",
@@ -1870,7 +1870,7 @@
   },
   {
     "areaID":"171",
-    "areaName":"Castle Point District",
+    "areaName":"Castle Point",
     "educationScore":"11502.19298",
     "educationRank":"279",
     "healthScore":"23362.96491",
@@ -1881,7 +1881,7 @@
   },
   {
     "areaID":"172",
-    "areaName":"Chelmsford District",
+    "areaName":"Chelmsford",
     "educationScore":"20244.68269",
     "educationRank":"84",
     "healthScore":"27576.28846",
@@ -1892,7 +1892,7 @@
   },
   {
     "areaID":"173",
-    "areaName":"Colchester District",
+    "areaName":"Colchester",
     "educationScore":"17009.50962",
     "educationRank":"163",
     "healthScore":"20713.15385",
@@ -1903,7 +1903,7 @@
   },
   {
     "areaID":"174",
-    "areaName":"Epping Forest District",
+    "areaName":"Epping Forest",
     "educationScore":"16893.73077",
     "educationRank":"167",
     "healthScore":"21523.05128",
@@ -1914,7 +1914,7 @@
   },
   {
     "areaID":"175",
-    "areaName":"Harlow District",
+    "areaName":"Harlow",
     "educationScore":"9323.722222",
     "educationRank":"311",
     "healthScore":"11502.12963",
@@ -1925,7 +1925,7 @@
   },
   {
     "areaID":"176",
-    "areaName":"Maldon District",
+    "areaName":"Maldon",
     "educationScore":"14920.46341",
     "educationRank":"200",
     "healthScore":"24116.5122",
@@ -1936,7 +1936,7 @@
   },
   {
     "areaID":"177",
-    "areaName":"Rochford District",
+    "areaName":"Rochford",
     "educationScore":"16622.9434",
     "educationRank":"176",
     "healthScore":"27858.32075",
@@ -1947,7 +1947,7 @@
   },
   {
     "areaID":"178",
-    "areaName":"Tendring District",
+    "areaName":"Tendring",
     "educationScore":"9914.433333",
     "educationRank":"305",
     "healthScore":"14920.63333",
@@ -1958,7 +1958,7 @@
   },
   {
     "areaID":"179",
-    "areaName":"Uttlesford District",
+    "areaName":"Uttlesford",
     "educationScore":"23709.51163",
     "educationRank":"28",
     "healthScore":"28158.2093",
@@ -1969,7 +1969,7 @@
   },
   {
     "areaID":"180",
-    "areaName":"Cheltenham District",
+    "areaName":"Cheltenham",
     "educationScore":"21756.14667",
     "educationRank":"59",
     "healthScore":"23219.57333",
@@ -1980,7 +1980,7 @@
   },
   {
     "areaID":"181",
-    "areaName":"Cotswold District",
+    "areaName":"Cotswold",
     "educationScore":"22681.21569",
     "educationRank":"37",
     "healthScore":"26545.45098",
@@ -1991,7 +1991,7 @@
   },
   {
     "areaID":"182",
-    "areaName":"Forest of Dean District",
+    "areaName":"Forest of Dean",
     "educationScore":"14958.02",
     "educationRank":"199",
     "healthScore":"21920.74",
@@ -2002,7 +2002,7 @@
   },
   {
     "areaID":"183",
-    "areaName":"Gloucester District",
+    "areaName":"Gloucester",
     "educationScore":"13984.90541",
     "educationRank":"220",
     "healthScore":"19644.16216",
@@ -2013,7 +2013,7 @@
   },
   {
     "areaID":"184",
-    "areaName":"Stroud District",
+    "areaName":"Stroud",
     "educationScore":"21194.88406",
     "educationRank":"71",
     "healthScore":"24291.37681",
@@ -2024,7 +2024,7 @@
   },
   {
     "areaID":"185",
-    "areaName":"Tewkesbury District",
+    "areaName":"Tewkesbury",
     "educationScore":"21254.9375",
     "educationRank":"70",
     "healthScore":"27067.22917",
@@ -2035,7 +2035,7 @@
   },
   {
     "areaID":"186",
-    "areaName":"Basingstoke and Deane District",
+    "areaName":"Basingstoke and Deane",
     "educationScore":"18819.72115",
     "educationRank":"112",
     "healthScore":"24467.00962",
@@ -2046,7 +2046,7 @@
   },
   {
     "areaID":"187",
-    "areaName":"East Hampshire District",
+    "areaName":"East Hampshire",
     "educationScore":"22471.97222",
     "educationRank":"42",
     "healthScore":"25215.84722",
@@ -2057,7 +2057,7 @@
   },
   {
     "areaID":"188",
-    "areaName":"Eastleigh District",
+    "areaName":"Eastleigh",
     "educationScore":"18652.46753",
     "educationRank":"115",
     "healthScore":"26048.92208",
@@ -2068,7 +2068,7 @@
   },
   {
     "areaID":"189",
-    "areaName":"Fareham District",
+    "areaName":"Fareham",
     "educationScore":"20892.18919",
     "educationRank":"75",
     "healthScore":"29324.90541",
@@ -2079,7 +2079,7 @@
   },
   {
     "areaID":"190",
-    "areaName":"Gosport District",
+    "areaName":"Gosport",
     "educationScore":"11857.51923",
     "educationRank":"270",
     "healthScore":"18596.65385",
@@ -2090,7 +2090,7 @@
   },
   {
     "areaID":"191",
-    "areaName":"Hart District",
+    "areaName":"Hart",
     "educationScore":"26088.92453",
     "educationRank":"8",
     "healthScore":"31393.22642",
@@ -2101,7 +2101,7 @@
   },
   {
     "areaID":"192",
-    "areaName":"Havant District",
+    "areaName":"Havant",
     "educationScore":"12828.03846",
     "educationRank":"248",
     "healthScore":"19682.02564",
@@ -2112,7 +2112,7 @@
   },
   {
     "areaID":"193",
-    "areaName":"New Forest District",
+    "areaName":"New Forest",
     "educationScore":"19257.30702",
     "educationRank":"98",
     "healthScore":"24821.14035",
@@ -2123,7 +2123,7 @@
   },
   {
     "areaID":"194",
-    "areaName":"Rushmoor District",
+    "areaName":"Rushmoor",
     "educationScore":"15452",
     "educationRank":"188",
     "healthScore":"20861.83051",
@@ -2134,7 +2134,7 @@
   },
   {
     "areaID":"195",
-    "areaName":"Test Valley District",
+    "areaName":"Test Valley",
     "educationScore":"20215.08571",
     "educationRank":"85",
     "healthScore":"26223.21429",
@@ -2145,7 +2145,7 @@
   },
   {
     "areaID":"196",
-    "areaName":"Winchester District",
+    "areaName":"Winchester",
     "educationScore":"25337.97101",
     "educationRank":"16",
     "healthScore":"26281.37681",
@@ -2156,7 +2156,7 @@
   },
   {
     "areaID":"197",
-    "areaName":"Broxbourne District",
+    "areaName":"Broxbourne",
     "educationScore":"13466.78571",
     "educationRank":"229",
     "healthScore":"23658.125",
@@ -2167,7 +2167,7 @@
   },
   {
     "areaID":"198",
-    "areaName":"Dacorum District",
+    "areaName":"Dacorum",
     "educationScore":"19880.27957",
     "educationRank":"87",
     "healthScore":"25255.03226",
@@ -2178,7 +2178,7 @@
   },
   {
     "areaID":"199",
-    "areaName":"East Hertfordshire District",
+    "areaName":"East Hertfordshire",
     "educationScore":"24892.51765",
     "educationRank":"19",
     "healthScore":"27771.68235",
@@ -2189,7 +2189,7 @@
   },
   {
     "areaID":"200",
-    "areaName":"Hertsmere District",
+    "areaName":"Hertsmere",
     "educationScore":"20972.12903",
     "educationRank":"74",
     "healthScore":"25290.20968",
@@ -2200,7 +2200,7 @@
   },
   {
     "areaID":"201",
-    "areaName":"North Hertfordshire District",
+    "areaName":"North Hertfordshire",
     "educationScore":"21319.60759",
     "educationRank":"67",
     "healthScore":"24465",
@@ -2211,7 +2211,7 @@
   },
   {
     "areaID":"202",
-    "areaName":"St. Albans District",
+    "areaName":"St Albans",
     "educationScore":"27317.83721",
     "educationRank":"3",
     "healthScore":"28150.5814",
@@ -2222,7 +2222,7 @@
   },
   {
     "areaID":"203",
-    "areaName":"Stevenage District",
+    "areaName":"Stevenage",
     "educationScore":"12381.32692",
     "educationRank":"259",
     "healthScore":"19501.76923",
@@ -2233,7 +2233,7 @@
   },
   {
     "areaID":"204",
-    "areaName":"Three Rivers District",
+    "areaName":"Three Rivers",
     "educationScore":"22509.58491",
     "educationRank":"40",
     "healthScore":"28322.83019",
@@ -2244,7 +2244,7 @@
   },
   {
     "areaID":"205",
-    "areaName":"Watford District",
+    "areaName":"Watford",
     "educationScore":"19228.0566",
     "educationRank":"100",
     "healthScore":"18536.41509",
@@ -2255,7 +2255,7 @@
   },
   {
     "areaID":"206",
-    "areaName":"Welwyn Hatfield District",
+    "areaName":"Welwyn Hatfield",
     "educationScore":"19204.96875",
     "educationRank":"102",
     "healthScore":"23716.15625",
@@ -2266,7 +2266,7 @@
   },
   {
     "areaID":"207",
-    "areaName":"Ashford District",
+    "areaName":"Ashford",
     "educationScore":"15390.21429",
     "educationRank":"189",
     "healthScore":"20387.52857",
@@ -2277,7 +2277,7 @@
   },
   {
     "areaID":"208",
-    "areaName":"Canterbury District",
+    "areaName":"Canterbury",
     "educationScore":"17087.7",
     "educationRank":"160",
     "healthScore":"15321.47778",
@@ -2288,7 +2288,7 @@
   },
   {
     "areaID":"209",
-    "areaName":"Dartford District",
+    "areaName":"Dartford",
     "educationScore":"14422.72414",
     "educationRank":"209",
     "healthScore":"23149.87931",
@@ -2299,7 +2299,7 @@
   },
   {
     "areaID":"210",
-    "areaName":"Dover District",
+    "areaName":"Dover",
     "educationScore":"14380.50746",
     "educationRank":"212",
     "healthScore":"13979.92537",
@@ -2310,7 +2310,7 @@
   },
   {
     "areaID":"211",
-    "areaName":"Gravesham District",
+    "areaName":"Gravesham",
     "educationScore":"12703.1746",
     "educationRank":"250",
     "healthScore":"21970.11111",
@@ -2321,7 +2321,7 @@
   },
   {
     "areaID":"212",
-    "areaName":"Maidstone District",
+    "areaName":"Maidstone",
     "educationScore":"18031.57609",
     "educationRank":"132",
     "healthScore":"21124.45652",
@@ -2332,7 +2332,7 @@
   },
   {
     "areaID":"213",
-    "areaName":"Sevenoaks District",
+    "areaName":"Sevenoaks",
     "educationScore":"20599.51351",
     "educationRank":"78",
     "healthScore":"27431.10811",
@@ -2343,7 +2343,7 @@
   },
   {
     "areaID":"214",
-    "areaName":"Shepway District",
+    "areaName":"Shepway",
     "educationScore":"13040.72308",
     "educationRank":"242",
     "healthScore":"12334.53846",
@@ -2354,7 +2354,7 @@
   },
   {
     "areaID":"215",
-    "areaName":"Swale District",
+    "areaName":"Swale",
     "educationScore":"10680.23171",
     "educationRank":"292",
     "healthScore":"14172.56098",
@@ -2365,7 +2365,7 @@
   },
   {
     "areaID":"216",
-    "areaName":"Thanet District",
+    "areaName":"Thanet",
     "educationScore":"11583.82143",
     "educationRank":"277",
     "healthScore":"11553.15476",
@@ -2376,7 +2376,7 @@
   },
   {
     "areaID":"217",
-    "areaName":"Tonbridge and Malling District",
+    "areaName":"Tonbridge and Malling",
     "educationScore":"19072.28571",
     "educationRank":"103",
     "healthScore":"25114.01429",
@@ -2387,7 +2387,7 @@
   },
   {
     "areaID":"218",
-    "areaName":"Tunbridge Wells District",
+    "areaName":"Tunbridge Wells",
     "educationScore":"23065.11765",
     "educationRank":"33",
     "healthScore":"20751.38235",
@@ -2398,7 +2398,7 @@
   },
   {
     "areaID":"219",
-    "areaName":"Burnley District",
+    "areaName":"Burnley",
     "educationScore":"9683.05",
     "educationRank":"308",
     "healthScore":"5253.75",
@@ -2409,7 +2409,7 @@
   },
   {
     "areaID":"220",
-    "areaName":"Chorley District",
+    "areaName":"Chorley",
     "educationScore":"18481.22727",
     "educationRank":"119",
     "healthScore":"10459.5303",
@@ -2420,7 +2420,7 @@
   },
   {
     "areaID":"221",
-    "areaName":"Fylde District",
+    "areaName":"Fylde",
     "educationScore":"22548.35294",
     "educationRank":"39",
     "healthScore":"17765.17647",
@@ -2431,7 +2431,7 @@
   },
   {
     "areaID":"222",
-    "areaName":"Hyndburn District",
+    "areaName":"Hyndburn",
     "educationScore":"11218.92453",
     "educationRank":"282",
     "healthScore":"6746.811321",
@@ -2442,7 +2442,7 @@
   },
   {
     "areaID":"223",
-    "areaName":"Lancaster District",
+    "areaName":"Lancaster",
     "educationScore":"18014.14607",
     "educationRank":"133",
     "healthScore":"10308.04494",
@@ -2453,7 +2453,7 @@
   },
   {
     "areaID":"224",
-    "areaName":"Pendle District",
+    "areaName":"Pendle",
     "educationScore":"10335.26316",
     "educationRank":"300",
     "healthScore":"7197.087719",
@@ -2464,7 +2464,7 @@
   },
   {
     "areaID":"225",
-    "areaName":"Preston District",
+    "areaName":"Preston",
     "educationScore":"14310.52381",
     "educationRank":"215",
     "healthScore":"5919.630952",
@@ -2475,7 +2475,7 @@
   },
   {
     "areaID":"226",
-    "areaName":"Ribble Valley District",
+    "areaName":"Ribble Valley",
     "educationScore":"24569.775",
     "educationRank":"24",
     "healthScore":"21269.55",
@@ -2486,7 +2486,7 @@
   },
   {
     "areaID":"227",
-    "areaName":"Rossendale District",
+    "areaName":"Rossendale",
     "educationScore":"15359.25",
     "educationRank":"190",
     "healthScore":"7525.931818",
@@ -2497,7 +2497,7 @@
   },
   {
     "areaID":"228",
-    "areaName":"South Ribble District",
+    "areaName":"South Ribble",
     "educationScore":"18467.36232",
     "educationRank":"120",
     "healthScore":"12570.78261",
@@ -2508,7 +2508,7 @@
   },
   {
     "areaID":"229",
-    "areaName":"West Lancashire District",
+    "areaName":"West Lancashire",
     "educationScore":"18007.16438",
     "educationRank":"134",
     "healthScore":"11644.39726",
@@ -2519,7 +2519,7 @@
   },
   {
     "areaID":"230",
-    "areaName":"Wyre District",
+    "areaName":"Wyre",
     "educationScore":"16978.91304",
     "educationRank":"165",
     "healthScore":"16077.97101",
@@ -2530,7 +2530,7 @@
   },
   {
     "areaID":"231",
-    "areaName":"Blaby District",
+    "areaName":"Blaby",
     "educationScore":"16909.38333",
     "educationRank":"166",
     "healthScore":"23224.43333",
@@ -2541,7 +2541,7 @@
   },
   {
     "areaID":"232",
-    "areaName":"Charnwood District",
+    "areaName":"Charnwood",
     "educationScore":"17450.12",
     "educationRank":"147",
     "healthScore":"21140.72",
@@ -2552,7 +2552,7 @@
   },
   {
     "areaID":"233",
-    "areaName":"Harborough District",
+    "areaName":"Harborough",
     "educationScore":"22611.91489",
     "educationRank":"38",
     "healthScore":"26393.38298",
@@ -2563,7 +2563,7 @@
   },
   {
     "areaID":"234",
-    "areaName":"Hinckley and Bosworth District",
+    "areaName":"Hinckley and Bosworth",
     "educationScore":"15823.95455",
     "educationRank":"184",
     "healthScore":"22842.86364",
@@ -2574,7 +2574,7 @@
   },
   {
     "areaID":"235",
-    "areaName":"Melton District",
+    "areaName":"Melton",
     "educationScore":"17409",
     "educationRank":"149",
     "healthScore":"26252.46667",
@@ -2585,7 +2585,7 @@
   },
   {
     "areaID":"236",
-    "areaName":"North West Leicestershire District",
+    "areaName":"North West Leicestershire",
     "educationScore":"14359.82456",
     "educationRank":"213",
     "healthScore":"16871.50877",
@@ -2596,7 +2596,7 @@
   },
   {
     "areaID":"237",
-    "areaName":"Oadby and Wigston District",
+    "areaName":"Oadby and Wigston",
     "educationScore":"18039.88889",
     "educationRank":"131",
     "healthScore":"21322.11111",
@@ -2607,7 +2607,7 @@
   },
   {
     "areaID":"238",
-    "areaName":"Boston District",
+    "areaName":"Boston",
     "educationScore":"9813.388889",
     "educationRank":"307",
     "healthScore":"12725.47222",
@@ -2618,7 +2618,7 @@
   },
   {
     "areaID":"239",
-    "areaName":"East Lindsey District",
+    "areaName":"East Lindsey",
     "educationScore":"12338.3",
     "educationRank":"261",
     "healthScore":"11463.4125",
@@ -2629,7 +2629,7 @@
   },
   {
     "areaID":"240",
-    "areaName":"Lincoln District",
+    "areaName":"Lincoln",
     "educationScore":"12977.26316",
     "educationRank":"243",
     "healthScore":"7704.035088",
@@ -2640,7 +2640,7 @@
   },
   {
     "areaID":"241",
-    "areaName":"North Kesteven District",
+    "areaName":"North Kesteven",
     "educationScore":"18955.68333",
     "educationRank":"107",
     "healthScore":"22286.13333",
@@ -2651,7 +2651,7 @@
   },
   {
     "areaID":"242",
-    "areaName":"South Holland District",
+    "areaName":"South Holland",
     "educationScore":"10775.125",
     "educationRank":"290",
     "healthScore":"20253.3125",
@@ -2662,7 +2662,7 @@
   },
   {
     "areaID":"243",
-    "areaName":"South Kesteven District",
+    "areaName":"South Kesteven",
     "educationScore":"18667.13924",
     "educationRank":"114",
     "healthScore":"23149.46835",
@@ -2673,7 +2673,7 @@
   },
   {
     "areaID":"244",
-    "areaName":"West Lindsey District",
+    "areaName":"West Lindsey",
     "educationScore":"17773.84906",
     "educationRank":"141",
     "healthScore":"16425.77358",
@@ -2684,7 +2684,7 @@
   },
   {
     "areaID":"245",
-    "areaName":"Breckland District",
+    "areaName":"Breckland",
     "educationScore":"11873.75641",
     "educationRank":"267",
     "healthScore":"23135.96154",
@@ -2695,7 +2695,7 @@
   },
   {
     "areaID":"246",
-    "areaName":"Broadland District",
+    "areaName":"Broadland",
     "educationScore":"16989.32143",
     "educationRank":"164",
     "healthScore":"27197.02381",
@@ -2706,7 +2706,7 @@
   },
   {
     "areaID":"247",
-    "areaName":"Great Yarmouth District",
+    "areaName":"Great Yarmouth",
     "educationScore":"8675.557377",
     "educationRank":"317",
     "healthScore":"16021.36066",
@@ -2717,7 +2717,7 @@
   },
   {
     "areaID":"248",
-    "areaName":"King's Lynn and West Norfolk District",
+    "areaName":"King's Lynn and West Norfolk",
     "educationScore":"10678.83908",
     "educationRank":"293",
     "healthScore":"14540.33333",
@@ -2728,7 +2728,7 @@
   },
   {
     "areaID":"249",
-    "areaName":"North Norfolk District",
+    "areaName":"North Norfolk",
     "educationScore":"11519.41935",
     "educationRank":"278",
     "healthScore":"20892.67742",
@@ -2739,7 +2739,7 @@
   },
   {
     "areaID":"250",
-    "areaName":"Norwich District",
+    "areaName":"Norwich",
     "educationScore":"11716.51899",
     "educationRank":"273",
     "healthScore":"14261.89873",
@@ -2750,7 +2750,7 @@
   },
   {
     "areaID":"251",
-    "areaName":"South Norfolk District",
+    "areaName":"South Norfolk",
     "educationScore":"18559.60759",
     "educationRank":"117",
     "healthScore":"26919.08861",
@@ -2761,7 +2761,7 @@
   },
   {
     "areaID":"252",
-    "areaName":"Corby District",
+    "areaName":"Corby",
     "educationScore":"8029.135135",
     "educationRank":"322",
     "healthScore":"7763.783784",
@@ -2772,7 +2772,7 @@
   },
   {
     "areaID":"253",
-    "areaName":"Daventry District",
+    "areaName":"Daventry",
     "educationScore":"20576.4",
     "educationRank":"79",
     "healthScore":"21847.64444",
@@ -2783,7 +2783,7 @@
   },
   {
     "areaID":"254",
-    "areaName":"East Northamptonshire District",
+    "areaName":"East Northamptonshire",
     "educationScore":"16811.08333",
     "educationRank":"169",
     "healthScore":"24485.95833",
@@ -2794,7 +2794,7 @@
   },
   {
     "areaID":"255",
-    "areaName":"Kettering District",
+    "areaName":"Kettering",
     "educationScore":"15282.92453",
     "educationRank":"191",
     "healthScore":"19506.75472",
@@ -2805,7 +2805,7 @@
   },
   {
     "areaID":"256",
-    "areaName":"Northampton District",
+    "areaName":"Northampton",
     "educationScore":"12486.50388",
     "educationRank":"257",
     "healthScore":"13487.09302",
@@ -2816,84 +2816,84 @@
   },
   {
     "areaID":"257",
-    "areaName":"South Northamptonshire District",
+    "areaName":"South Northamptonshire",
     "educationScore":"22140.79167",
     "educationRank":"51",
     "healthScore":"27691",
     "healthRank":"19",
     "crimeScore":"25324.375",
     "crimeRank":"32",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"258",
-    "areaName":"Wellingborough District",
+    "areaName":"Wellingborough",
     "educationScore":"12277.59574",
     "educationRank":"262",
     "healthScore":"18143.31915",
     "healthRank":"169",
     "crimeScore":"10544.61702",
     "crimeRank":"287",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"259",
-    "areaName":"Craven District",
+    "areaName":"Craven",
     "educationScore":"22000.53125",
     "educationRank":"53",
     "healthScore":"21032.375",
     "healthRank":"128",
     "crimeScore":"26981.28125",
     "crimeRank":"15",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"260",
-    "areaName":"Hambleton District",
+    "areaName":"Hambleton",
     "educationScore":"21932.35294",
     "educationRank":"55",
     "healthScore":"23922.41176",
     "healthRank":"73",
     "crimeScore":"25714.5098",
     "crimeRank":"27",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"261",
-    "areaName":"Harrogate District",
+    "areaName":"Harrogate",
     "educationScore":"23771.39423",
     "educationRank":"27",
     "healthScore":"22608.79808",
     "healthRank":"98",
     "crimeScore":"25472.06731",
     "crimeRank":"31",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"262",
-    "areaName":"Richmondshire District",
+    "areaName":"Richmondshire",
     "educationScore":"19732.125",
     "educationRank":"88",
     "healthScore":"22474.875",
     "healthRank":"101",
     "crimeScore":"26396.34375",
     "crimeRank":"20",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"263",
-    "areaName":"Ryedale District",
+    "areaName":"Ryedale",
     "educationScore":"18114.23333",
     "educationRank":"129",
     "healthScore":"24895.56667",
     "healthRank":"57",
     "crimeScore":"27502.13333",
     "crimeRank":"11",
-    "areaGov":"Yorkshire and The Humber"
+    "areaGov":"Yorkshire and Humber"
   },
   {
     "areaID":"264",
-    "areaName":"Scarborough District",
+    "areaName":"Scarborough",
     "educationScore":"14383.83099",
     "educationRank":"211",
     "healthScore":"10716.35211",
@@ -2904,7 +2904,7 @@
   },
   {
     "areaID":"265",
-    "areaName":"Selby District",
+    "areaName":"Selby",
     "educationScore":"17243.62",
     "educationRank":"155",
     "healthScore":"24467.48",
@@ -2915,7 +2915,7 @@
   },
   {
     "areaID":"266",
-    "areaName":"Ashfield District",
+    "areaName":"Ashfield",
     "educationScore":"7969.162162",
     "educationRank":"323",
     "healthScore":"10909.74324",
@@ -2926,7 +2926,7 @@
   },
   {
     "areaID":"267",
-    "areaName":"Bassetlaw District",
+    "areaName":"Bassetlaw",
     "educationScore":"11599.9",
     "educationRank":"276",
     "healthScore":"9272.914286",
@@ -2937,7 +2937,7 @@
   },
   {
     "areaID":"268",
-    "areaName":"Broxtowe District",
+    "areaName":"Broxtowe",
     "educationScore":"17757.94521",
     "educationRank":"142",
     "healthScore":"21247.64384",
@@ -2948,7 +2948,7 @@
   },
   {
     "areaID":"269",
-    "areaName":"Gedling District",
+    "areaName":"Gedling",
     "educationScore":"17203.93506",
     "educationRank":"158",
     "healthScore":"18145.67532",
@@ -2959,7 +2959,7 @@
   },
   {
     "areaID":"270",
-    "areaName":"Mansfield District",
+    "areaName":"Mansfield",
     "educationScore":"8340.984848",
     "educationRank":"319",
     "healthScore":"8583.727273",
@@ -2970,7 +2970,7 @@
   },
   {
     "areaID":"271",
-    "areaName":"Newark and Sherwood District",
+    "areaName":"Newark and Sherwood",
     "educationScore":"14758.21739",
     "educationRank":"204",
     "healthScore":"14956.17391",
@@ -2981,7 +2981,7 @@
   },
   {
     "areaID":"272",
-    "areaName":"Rushcliffe District",
+    "areaName":"Rushcliffe",
     "educationScore":"25873.10294",
     "educationRank":"12",
     "healthScore":"27488.33824",
@@ -2992,7 +2992,7 @@
   },
   {
     "areaID":"273",
-    "areaName":"Cherwell District",
+    "areaName":"Cherwell",
     "educationScore":"17340.37363",
     "educationRank":"151",
     "healthScore":"21201.08791",
@@ -3003,7 +3003,7 @@
   },
   {
     "areaID":"274",
-    "areaName":"Oxford District",
+    "areaName":"Oxford",
     "educationScore":"18219.65882",
     "educationRank":"124",
     "healthScore":"15660.29412",
@@ -3014,7 +3014,7 @@
   },
   {
     "areaID":"275",
-    "areaName":"South Oxfordshire District",
+    "areaName":"South Oxfordshire",
     "educationScore":"22430.08989",
     "educationRank":"44",
     "healthScore":"26183.74157",
@@ -3025,7 +3025,7 @@
   },
   {
     "areaID":"276",
-    "areaName":"Vale of White Horse District",
+    "areaName":"Vale of White Horse",
     "educationScore":"22486.74667",
     "educationRank":"41",
     "healthScore":"27841.22667",
@@ -3036,7 +3036,7 @@
   },
   {
     "areaID":"277",
-    "areaName":"West Oxfordshire District",
+    "areaName":"West Oxfordshire",
     "educationScore":"21496.9375",
     "educationRank":"63",
     "healthScore":"26716.29688",
@@ -3047,7 +3047,7 @@
   },
   {
     "areaID":"278",
-    "areaName":"Mendip District",
+    "areaName":"Mendip",
     "educationScore":"17079.32836",
     "educationRank":"161",
     "healthScore":"18437.34328",
@@ -3058,7 +3058,7 @@
   },
   {
     "areaID":"279",
-    "areaName":"Sedgemoor District",
+    "areaName":"Sedgemoor",
     "educationScore":"14618.89706",
     "educationRank":"206",
     "healthScore":"17871.92647",
@@ -3069,7 +3069,7 @@
   },
   {
     "areaID":"280",
-    "areaName":"South Somerset District",
+    "areaName":"South Somerset",
     "educationScore":"16443.37864",
     "educationRank":"178",
     "healthScore":"21240.53398",
@@ -3080,7 +3080,7 @@
   },
   {
     "areaID":"281",
-    "areaName":"Taunton Deane District",
+    "areaName":"Taunton Deane",
     "educationScore":"18522.95455",
     "educationRank":"118",
     "healthScore":"17522.51515",
@@ -3091,7 +3091,7 @@
   },
   {
     "areaID":"282",
-    "areaName":"West Somerset District",
+    "areaName":"West Somerset",
     "educationScore":"13449.69565",
     "educationRank":"231",
     "healthScore":"12286.73913",
@@ -3102,7 +3102,7 @@
   },
   {
     "areaID":"283",
-    "areaName":"Cannock Chase District",
+    "areaName":"Cannock Chase",
     "educationScore":"10394.53333",
     "educationRank":"298",
     "healthScore":"14010.5",
@@ -3113,7 +3113,7 @@
   },
   {
     "areaID":"284",
-    "areaName":"East Staffordshire District",
+    "areaName":"East Staffordshire",
     "educationScore":"16101.15714",
     "educationRank":"181",
     "healthScore":"16282.1",
@@ -3124,7 +3124,7 @@
   },
   {
     "areaID":"285",
-    "areaName":"Lichfield District",
+    "areaName":"Lichfield",
     "educationScore":"19445.59649",
     "educationRank":"93",
     "healthScore":"22150.78947",
@@ -3135,7 +3135,7 @@
   },
   {
     "areaID":"286",
-    "areaName":"Newcastle-under-Lyme District",
+    "areaName":"Newcastle-under-Lyme",
     "educationScore":"15025.75309",
     "educationRank":"197",
     "healthScore":"13537.98765",
@@ -3146,7 +3146,7 @@
   },
   {
     "areaID":"287",
-    "areaName":"South Staffordshire District",
+    "areaName":"South Staffordshire",
     "educationScore":"18128.14706",
     "educationRank":"128",
     "healthScore":"24365.58824",
@@ -3157,7 +3157,7 @@
   },
   {
     "areaID":"288",
-    "areaName":"Stafford District",
+    "areaName":"Stafford",
     "educationScore":"20668.025",
     "educationRank":"77",
     "healthScore":"20667.0125",
@@ -3168,7 +3168,7 @@
   },
   {
     "areaID":"289",
-    "areaName":"Staffordshire Moorlands District",
+    "areaName":"Staffordshire Moorlands",
     "educationScore":"16825.54237",
     "educationRank":"168",
     "healthScore":"17166.62712",
@@ -3179,7 +3179,7 @@
   },
   {
     "areaID":"290",
-    "areaName":"Tamworth District",
+    "areaName":"Tamworth",
     "educationScore":"10461.86",
     "educationRank":"297",
     "healthScore":"17623.7",
@@ -3190,7 +3190,7 @@
   },
   {
     "areaID":"291",
-    "areaName":"Babergh District",
+    "areaName":"Babergh",
     "educationScore":"18044.92593",
     "educationRank":"130",
     "healthScore":"23328.77778",
@@ -3201,7 +3201,7 @@
   },
   {
     "areaID":"292",
-    "areaName":"Forest Heath District",
+    "areaName":"Forest Heath",
     "educationScore":"13404.17647",
     "educationRank":"234",
     "healthScore":"24330",
@@ -3212,7 +3212,7 @@
   },
   {
     "areaID":"293",
-    "areaName":"Ipswich District",
+    "areaName":"Ipswich",
     "educationScore":"11629.62025",
     "educationRank":"275",
     "healthScore":"14685.63291",
@@ -3223,7 +3223,7 @@
   },
   {
     "areaID":"294",
-    "areaName":"Mid Suffolk District",
+    "areaName":"Mid Suffolk",
     "educationScore":"19232.03704",
     "educationRank":"99",
     "healthScore":"28237.92593",
@@ -3234,7 +3234,7 @@
   },
   {
     "areaID":"295",
-    "areaName":"St. Edmundsbury District",
+    "areaName":"St Edmundsbury",
     "educationScore":"17525.55738",
     "educationRank":"144",
     "healthScore":"21051.47541",
@@ -3245,7 +3245,7 @@
   },
   {
     "areaID":"296",
-    "areaName":"Suffolk Coastal District",
+    "areaName":"Suffolk Coastal",
     "educationScore":"18976.46479",
     "educationRank":"106",
     "healthScore":"24288.28169",
@@ -3256,7 +3256,7 @@
   },
   {
     "areaID":"297",
-    "areaName":"Waveney District",
+    "areaName":"Waveney",
     "educationScore":"10493.45205",
     "educationRank":"296",
     "healthScore":"18451.9589",
@@ -3267,7 +3267,7 @@
   },
   {
     "areaID":"298",
-    "areaName":"Elmbridge District",
+    "areaName":"Elmbridge",
     "educationScore":"26000.23457",
     "educationRank":"9",
     "healthScore":"29067.1358",
@@ -3278,7 +3278,7 @@
   },
   {
     "areaID":"299",
-    "areaName":"Epsom and Ewell District",
+    "areaName":"Epsom and Ewell",
     "educationScore":"24671.90909",
     "educationRank":"23",
     "healthScore":"27093.02273",
@@ -3289,7 +3289,7 @@
   },
   {
     "areaID":"300",
-    "areaName":"Guildford District",
+    "areaName":"Guildford",
     "educationScore":"23070.22619",
     "educationRank":"32",
     "healthScore":"26442.03571",
@@ -3300,7 +3300,7 @@
   },
   {
     "areaID":"301",
-    "areaName":"Mole Valley District",
+    "areaName":"Mole Valley",
     "educationScore":"25388.85185",
     "educationRank":"15",
     "healthScore":"27293",
@@ -3311,7 +3311,7 @@
   },
   {
     "areaID":"302",
-    "areaName":"Reigate and Banstead District",
+    "areaName":"Reigate and Banstead",
     "educationScore":"21748.01163",
     "educationRank":"61",
     "healthScore":"23839.45349",
@@ -3322,7 +3322,7 @@
   },
   {
     "areaID":"303",
-    "areaName":"Runnymede District",
+    "areaName":"Runnymede",
     "educationScore":"20333.69231",
     "educationRank":"82",
     "healthScore":"25571.53846",
@@ -3333,7 +3333,7 @@
   },
   {
     "areaID":"304",
-    "areaName":"Spelthorne District",
+    "areaName":"Spelthorne",
     "educationScore":"18200.98333",
     "educationRank":"125",
     "healthScore":"24521.7",
@@ -3344,7 +3344,7 @@
   },
   {
     "areaID":"305",
-    "areaName":"Surrey Heath District",
+    "areaName":"Surrey Heath",
     "educationScore":"24695.32727",
     "educationRank":"22",
     "healthScore":"28191.74545",
@@ -3355,7 +3355,7 @@
   },
   {
     "areaID":"306",
-    "areaName":"Tandridge District",
+    "areaName":"Tandridge",
     "educationScore":"21821.54",
     "educationRank":"57",
     "healthScore":"26883.66",
@@ -3366,7 +3366,7 @@
   },
   {
     "areaID":"307",
-    "areaName":"Waverley District",
+    "areaName":"Waverley",
     "educationScore":"25682.53659",
     "educationRank":"13",
     "healthScore":"26676.68293",
@@ -3377,7 +3377,7 @@
   },
   {
     "areaID":"308",
-    "areaName":"Woking District",
+    "areaName":"Woking",
     "educationScore":"22833.04918",
     "educationRank":"35",
     "healthScore":"22827.39344",
@@ -3388,7 +3388,7 @@
   },
   {
     "areaID":"309",
-    "areaName":"North Warwickshire District",
+    "areaName":"North Warwickshire",
     "educationScore":"13073.92105",
     "educationRank":"241",
     "healthScore":"18569.71053",
@@ -3399,7 +3399,7 @@
   },
   {
     "areaID":"310",
-    "areaName":"Nuneaton and Bedworth District",
+    "areaName":"Nuneaton and Bedworth",
     "educationScore":"11163.81707",
     "educationRank":"284",
     "healthScore":"12662.5122",
@@ -3410,7 +3410,7 @@
   },
   {
     "areaID":"311",
-    "areaName":"Rugby District",
+    "areaName":"Rugby",
     "educationScore":"18220.53448",
     "educationRank":"123",
     "healthScore":"19767.7069",
@@ -3421,7 +3421,7 @@
   },
   {
     "areaID":"312",
-    "areaName":"Stratford-on-Avon District",
+    "areaName":"Stratford-on-Avon",
     "educationScore":"23239.04225",
     "educationRank":"29",
     "healthScore":"22552.59155",
@@ -3432,7 +3432,7 @@
   },
   {
     "areaID":"313",
-    "areaName":"Warwick District",
+    "areaName":"Warwick",
     "educationScore":"22402.67857",
     "educationRank":"45",
     "healthScore":"21777.45238",
@@ -3443,7 +3443,7 @@
   },
   {
     "areaID":"314",
-    "areaName":"Adur District",
+    "areaName":"Adur",
     "educationScore":"11150.7619",
     "educationRank":"285",
     "healthScore":"13358.02381",
@@ -3454,7 +3454,7 @@
   },
   {
     "areaID":"315",
-    "areaName":"Arun District",
+    "areaName":"Arun",
     "educationScore":"14719.15957",
     "educationRank":"205",
     "healthScore":"15841.29787",
@@ -3465,7 +3465,7 @@
   },
   {
     "areaID":"316",
-    "areaName":"Chichester District",
+    "areaName":"Chichester",
     "educationScore":"20282.44444",
     "educationRank":"83",
     "healthScore":"22651.11111",
@@ -3476,7 +3476,7 @@
   },
   {
     "areaID":"317",
-    "areaName":"Crawley District",
+    "areaName":"Crawley",
     "educationScore":"13433.81538",
     "educationRank":"232",
     "healthScore":"19418.12308",
@@ -3487,7 +3487,7 @@
   },
   {
     "areaID":"318",
-    "areaName":"Horsham District",
+    "areaName":"Horsham",
     "educationScore":"24756.37037",
     "educationRank":"21",
     "healthScore":"26825.66667",
@@ -3498,7 +3498,7 @@
   },
   {
     "areaID":"319",
-    "areaName":"Mid Sussex District",
+    "areaName":"Mid Sussex",
     "educationScore":"23830.38095",
     "educationRank":"26",
     "healthScore":"25633.97619",
@@ -3509,7 +3509,7 @@
   },
   {
     "areaID":"320",
-    "areaName":"Worthing District",
+    "areaName":"Worthing",
     "educationScore":"17332.6",
     "educationRank":"152",
     "healthScore":"12557.6",
@@ -3520,7 +3520,7 @@
   },
   {
     "areaID":"321",
-    "areaName":"Bromsgrove District",
+    "areaName":"Bromsgrove",
     "educationScore":"21769.31579",
     "educationRank":"58",
     "healthScore":"21648.14035",
@@ -3531,7 +3531,7 @@
   },
   {
     "areaID":"322",
-    "areaName":"Malvern Hills District",
+    "areaName":"Malvern Hills",
     "educationScore":"22840.91111",
     "educationRank":"34",
     "healthScore":"20352.26667",
@@ -3542,7 +3542,7 @@
   },
   {
     "areaID":"323",
-    "areaName":"Redditch District",
+    "areaName":"Redditch",
     "educationScore":"12816.29091",
     "educationRank":"249",
     "healthScore":"10302.18182",
@@ -3553,7 +3553,7 @@
   },
   {
     "areaID":"324",
-    "areaName":"Worcester District",
+    "areaName":"Worcester",
     "educationScore":"16806.32787",
     "educationRank":"172",
     "healthScore":"15580.68852",
@@ -3564,7 +3564,7 @@
   },
   {
     "areaID":"325",
-    "areaName":"Wychavon District",
+    "areaName":"Wychavon",
     "educationScore":"18955.39744",
     "educationRank":"108",
     "healthScore":"22012.48718",
@@ -3575,7 +3575,7 @@
   },
   {
     "areaID":"326",
-    "areaName":"Wyre Forest District",
+    "areaName":"Wyre Forest",
     "educationScore":"13423.53846",
     "educationRank":"233",
     "healthScore":"16699.58462",

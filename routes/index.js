@@ -11,8 +11,4 @@ router.get('/map', function (req, res) {
   res.render('map', indexData);
 });
 
-router.get('/lad.json', function (req, res) {
-  res.render('LA/lad.json', indexData);
-});
-
 module.exports = router;

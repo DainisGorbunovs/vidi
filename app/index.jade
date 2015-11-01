@@ -121,8 +121,9 @@ html(lang="en").
 					map.data.loadGeoJson('LA/ladata.json');
 
 					map.data.setStyle(function(feature) {
+					 whichScore = 'healthScore';
 					 return {
-					 fillColor: getColor(feature.getProperty('crimeScore')), // call function to get color for state based on the COLI (Cost of Living Index)
+					 fillColor: getColor(feature.getProperty(whichScore), whichScore), // call function to get color for state based on the COLI (Cost of Living Index)
 					 fillOpacity: 0.8,
 					 strokeColor: '#b3b3b3',
 					 strokeWeight: 1,
@@ -131,7 +132,29 @@ html(lang="en").
 					});
 				}
 				// returns a color based on the value given when the function is called
-				function getColor(coli) {
+				function getColor(coli, scoreType) {	
+					var multiply = 0;
+					switch(scoreType) {
+			    case "educationScore":
+			        multiply = 1-(coli-6622.312883)/28230;
+			        break;
+			    case "healthScore":
+			        multiply = 1-(coli-2772.007722)/31393.22642;
+			        break;
+			    case "crimeScore":
+			        multiply = 1-(coli-4089.735849)/31690;
+			        break;
+					}
+
+					if (typeof coli === "undefined")
+						multiply = 0;
+					var red = (256 * multiply).toString(16).slice(0,2);
+					var green = (80 * multiply).toString(16).slice(0,2);
+					var blue = (80 * multiply).toString(16).slice(0,2);
+					if (multiply == 0)
+						console.log(red + ":" + green + ":" + blue + " [" + multiply + "], " + coli + " and " + localAuthority);
+					var color = "#" + (256 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2);
+				 return color;
 
 				 return coli >= 121 ? '#89a844' :
 				 coli > 110 ? '#acd033' :
