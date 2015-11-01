@@ -72,7 +72,7 @@ html(lang="en").
 		  <!-- Application name -->
 
 		  <div class="middle middle-container center horizontal layout" style="margin: 12px;">
-		    <div class="app-name" style="margin-right: 24px;">Vidi. I saw, I helped.</div>
+		    <div class="app-name" style="margin-right: 24px;">VIDI: I saw, I helped.</div>
 		    <div>
 		    <paper-tabs selected="0">
 			<paper-tab>Category</paper-tab>
@@ -84,6 +84,7 @@ html(lang="en").
 		</paper-toolbar>
 		  <iron-pages selected="0">
 		    <div>
+		      
 		      <style type="text/css">
 			#container {
 			margin-left: 5%;
@@ -101,59 +102,65 @@ html(lang="en").
 			max-width: 30%;
 			}
 		      </style>
+		      <div class="layout vertical">
+			<div class="layout horizontal" id="container">
+			  <div class="flex" id="divleft">
+			    <paper-material elevation="1">
+			      <p class="paper-font-title">Regional Heatmap</p>
 
-		      <div class="layout horizontal" id="container">
-			<div class="flex" id="divleft">
-			  <paper-material elevation="1">
-			    <p class="paper-font-title">Regional Heatmap</p>
+			      <div id="map" style="height: 600px;"></div>
+			      <script>
+				var map;
+				function initMap() {
+				map = new google.maps.Map(document.getElementById('map'), {
+				zoom: 8,
+				center: {lat: 51.5142, lng: -0.0931}
+				});
 
-			    <div id="map" style="height: 400px;"></div>
-			    <script>
-			      var map;
-			      function initMap() {
-			      map = new google.maps.Map(document.getElementById('map'), {
-			      zoom: 8,
-			      center: {lat: 51.5142, lng: -0.0931}
-			      });
+				// NOTE: This uses cross-domain XHR, and may not work on older browsers.
+				map.data.loadGeoJson('LA/lad.json');
+				}
+			      </script>
+			      <script async defer
+				      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBgVOMZAP6bgiZKXqmQDiw-R3JR49mNaM&signed_in=true&callback=initMap"></script>
 
-			      // NOTE: This uses cross-domain XHR, and may not work on older browsers.
-			      map.data.loadGeoJson('LA/lad.json');
-			      }
-			    </script>
-			    <script async defer
-				    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBgVOMZAP6bgiZKXqmQDiw-R3JR49mNaM&signed_in=true&callback=initMap"></script>
-
-			  </paper-material>
-			</div>
-			<div class="inline" id="divright">
-			  <paper-material elevation="1">
-			    <div class="layout vertical">
-			      <p class="paper-font-title">What would you like to look at?</p>
-			      <p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
-			      <paper-dropdown-menu label="Choose a factor">
-				<paper-menu class="dropdown-content">
-				  <paper-item>Living Environment</paper-item>
-				  <paper-item>PCT Summaries</paper-item>
-				  <paper-item>Education, Skills and Training</paper-item>
-				  <paper-item>Barriers to Housing & Services</paper-item>
-				  <paper-item>Population Denominators</paper-item>
-				  <paper-item>County Summaries</paper-item>
-				  <paper-item>Employment Domain</paper-item>
-				  <paper-item>Supplementary Indices</paper-item>
-				  <paper-item>Deprivation</paper-item>
-				  <paper-item>Local Authority Summaries</paper-item>
-				  <paper-item>Overall</paper-item>
-				  <paper-item>Living Environment</paper-item>
-				  <paper-item>Children & Older People</paper-item>
-				  <paper-item>Barriers to Housing & Services</paper-item>
-				  <paper-item>Income</paper-item>
-				  <paper-item>Crime</paper-item>
-				  <paper-item>Health, Deprivation & Disability</paper-item>
-			      </paper-dropdown-menu>
-			      <p>From there you can see how each part of the country stacks up and filter down to see your area.</p>
-			  </paper-material>
+			    </paper-material>
+			  </div>
+			  <div class="inline" id="divright">
+			    <paper-material elevation="1">
+			      <div class="layout vertical">
+				<p class="paper-font-title">What would you like to look at?</p>
+				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+				<paper-dropdown-menu label="Choose a factor">
+				  <paper-menu class="dropdown-content">
+				    <paper-item>Living Environment</paper-item>
+				    <paper-item>PCT Summaries</paper-item>
+				    <paper-item>Education, Skills and Training</paper-item>
+				    <paper-item>Barriers to Housing & Services</paper-item>
+				    <paper-item>Population Denominators</paper-item>
+				    <paper-item>County Summaries</paper-item>
+				    <paper-item>Employment Domain</paper-item>
+				    <paper-item>Supplementary Indices</paper-item>
+				    <paper-item>Deprivation</paper-item>
+				    <paper-item>Local Authority Summaries</paper-item>
+				    <paper-item>Overall</paper-item>
+				    <paper-item>Living Environment</paper-item>
+				    <paper-item>Children & Older People</paper-item>
+				    <paper-item>Barriers to Housing & Services</paper-item>
+				    <paper-item>Income</paper-item>
+				    <paper-item>Crime</paper-item>
+				    <paper-item>Health, Deprivation & Disability</paper-item>
+				</paper-dropdown-menu>
+				<p>From there you can see how each part of the country stacks up and filter down to see your area.</p>
+				<p>Scroll down to view rankings.</p>
+			    </paper-material>
+			    </div>
 			  </div>
 			</div>
+		      </div>
+		      <div id="container">
+			<paper-material elevation="1">
+			</paper-material>
 		      </div>
 		    </div>
 		    <div>Page Two</div>
@@ -168,78 +175,7 @@ html(lang="en").
 		    });
 		  </script>
 
-		  <div>
-		  <iron-pages>
-		    <section data-route="home">
-		      <paper-material elevation="1">
-		        <my-greeting></my-greeting>
-
-		        <p class="paper-font-subhead">You now have:</p>
-		        <my-list></my-list>
-
-		        <paper-dropdown-menu label="Your favourite pastry">
-		          <paper-menu class="dropdown-content">
-		            <paper-item>Croissant</paper-item>
-		            <paper-item>Donut</paper-item>
-		            <paper-item>Financier</paper-item>
-		            <paper-item>Madeleine</paper-item>
-		          </paper-menu>
-		        </paper-dropdown-menu>
-		        
-		        
-		        <p class="paper-font-body2">Looking for more Web App layouts? Check out our <a href="https://github.com/PolymerElements/app-layout-templates">layouts</a> collection. You can also <a href="http://polymerelements.github.io/app-layout-templates/">preview</a> them live.</p>
-		      </paper-material>
-		      <paper-material elevation="1">
-		        <p class="paper-font-body2">#{ anothercard }</p>
-		      </paper-material>
-
-		      <paper-material elevation="1" class="paper-font-body2">
-		        <h1 id="license">License</h1>
-		        <p>Everything in this repo is BSD style license unless otherwise specified.</p>
-		        <p>Copyright (c) 2015 The Polymer Authors. All rights reserved.</p>
-		        <p>Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:</p>
-		        <ul>
-		          <li>Redistributions of source code must retain the above copyright
-		            notice, this list of conditions and the following disclaimer.</li>
-		          <li>Redistributions in binary form must reproduce the above
-		            copyright notice, this list of conditions and the following disclaimer
-		            in the documentation and/or other materials provided with the
-		            distribution.</li>
-		          <li>Neither the name of Google Inc. nor the names of its
-		            contributors may be used to endorse or promote products derived from
-		            this software without specific prior written permission.</li>
-		        </ul>
-		        <p>THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS &quot;AS IS&quot; AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.</p>
-		      </paper-material>
-
-		    </section>
-
-		    <section data-route="users">
-		      <paper-material elevation="1">
-		        <h2 class="page-title">Users</h2>
-		        <p>This is the users section</p>
-		        <a href="/users/Rob">Rob</a>
-		      </paper-material>
-		    </section>
-
-		    <section data-route="user-info">
-		      <paper-material elevation="1">
-		        <h2 class="page-title">
-		          User:<span>{{params.name}}</span>
-		        </h2>
-		        <div>This is <span>{{params.name}}</span>'s section</div>
-		      </paper-material>
-		    </section>
-
-		    <section data-route="contact">
-		      <paper-material elevation="1">
-		        <h2 class="page-title">Contact</h2>
-		        <p>This is the contact section</p>
-		      </paper-material>
-		    </section>
-
-		  </iron-pages>
-		</div>
+		  
 	      </paper-scroll-header-panel>
 
 	    <!-- Uncomment next block to enable Service Worker support (1/2) -->
