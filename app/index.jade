@@ -59,8 +59,14 @@ html(lang="en").
 	      <paper-scroll-header-panel main condenses keep-condensed-header>
 
 		<!-- Main Toolbar -->
+		
+		<style>
+		  #mainToolbar {
+		  background: #F44336;
+		  }
+		</style>
+		
 		<paper-toolbar id="mainToolbar" class="tall">
-		  <paper-icon-button id="paperToggle" icon="menu" paper-drawer-toggle></paper-icon-button>
 		  <span class="flex"></span>
 
 		  <!-- Toolbar icons -->
@@ -69,12 +75,19 @@ html(lang="en").
 
 		  <!-- Application name -->
 		  <div class="middle middle-container center horizontal layout">
-		    <div class="app-name">Veni</div>
+		    <div class="app-name">Vidi. I saw, I helped.</div>
 		  </div>
 
 		  <!-- Application sub title -->
 		  <div class="bottom bottom-container center horizontal layout">
-		    <div class="bottom-title paper-font-subhead">I saw, I helped.</div>
+		    <div class="bottom-title paper-font-subhead">Country-wide statistics.</div>
+		    <div class="bottom self-end flex">
+		      <paper-tabs attr-for-selected="data-route" selected="{{route}}">
+			<paper-tab data-route="finished">Finished</paper-tab>
+			<paper-tab data-route="inprogress">In progress</paper-tab>
+		      </paper-tabs>
+		    </div>
+		    
 		  </div>
 
 		</paper-toolbar>
@@ -96,6 +109,7 @@ html(lang="en").
 		    #container > #divright {
 		    padding: 16px;
 		    margin-right: 0px;
+		    max-width: 30%;
 		    }
 		  </style>
 		  
@@ -108,34 +122,29 @@ html(lang="en").
 		    <div class="inline" id="divright">
 		      <paper-material elevation="1">
 			<div class="layout vertical">
-			  <p class="paper-font-subhead">Section for fields</p>
-
-			  <paper-dropdown-menu label="Your favourite pastry">
+			  <p class="paper-font-title">What would you like to look at?</p>
+			  <p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+			  <paper-dropdown-menu label="Choose a factor">
 		            <paper-menu class="dropdown-content">
-		              <paper-item>Croissant</paper-item>
-		              <paper-item>Donut</paper-item>
-		              <paper-item>Financier</paper-item>
-		              <paper-item>Madeleine</paper-item>
-		            </paper-menu>
+		              <paper-item>Living Environment</paper-item>
+		              <paper-item>PCT Summaries</paper-item>
+		              <paper-item>Education, Skills and Training</paper-item>
+			      <paper-item>Barriers to Housing & Services</paper-item>
+		              <paper-item>Population Denominators</paper-item>
+			      <paper-item>County Summaries</paper-item>
+			      <paper-item>Employment Domain</paper-item>
+			      <paper-item>Supplementary Indices</paper-item>
+			      <paper-item>Deprivation</paper-item>
+			      <paper-item>Local Authority Summaries</paper-item>
+			      <paper-item>Overall</paper-item>
+			      <paper-item>Living Environment</paper-item>
+			      <paper-item>Children & Older People</paper-item>
+			      <paper-item>Barriers to Housing & Services</paper-item>
+			      <paper-item>Income</paper-item>
+			      <paper-item>Crime</paper-item>
+			      <paper-item>Health, Deprivation & Disability</paper-item>
 		          </paper-dropdown-menu>
-
-			  <paper-dropdown-menu label="Your favourite pastry">
-		            <paper-menu class="dropdown-content">
-		              <paper-item>Croissant</paper-item>
-		              <paper-item>Donut</paper-item>
-		              <paper-item>Financier</paper-item>
-		              <paper-item>Madeleine</paper-item>
-		            </paper-menu>
-		          </paper-dropdown-menu>
-
-			  <paper-dropdown-menu label="Your favourite pastry">
-		            <paper-menu class="dropdown-content">
-		              <paper-item>Croissant</paper-item>
-		              <paper-item>Donut</paper-item>
-		              <paper-item>Financier</paper-item>
-		              <paper-item>Madeleine</paper-item>
-		            </paper-menu>
-		          </paper-dropdown-menu>
+			  <p>From there you can see how each part of the country stacks up and filter down to see your area.</p>
 		      </paper-material>
 		      </div>
 		    </div>
