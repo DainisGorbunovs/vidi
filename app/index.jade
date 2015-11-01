@@ -64,6 +64,11 @@ html(lang="en").
 		  #mainToolbar {
 		  background: #F44336;
 		  }
+		  a {
+		  text-decoration: none;
+		  colour: white;
+		  height: auto !important;
+		  }
 		</style>
 		
 		<paper-toolbar id="mainToolbar" class="tall">
@@ -71,12 +76,14 @@ html(lang="en").
 
 		  <!-- Application name -->
 
+		  
+
 		  <div class="middle middle-container center horizontal layout" style="margin: 12px;">
 		    <div class="app-name" style="margin-right: 24px;">VIDI: I saw, I helped.</div>
 		    <div>
 		    <paper-tabs selected="0">
 			<paper-tab>Category</paper-tab>
-			<paper-tab link><a href="http://192.168.66.64" class="horizontal center-center layout">Locale</a></paper-tab>
+			<paper-tab link><a href="http://192.168.66.64">Locale</paper-tab>
 		    </paper-tabs>
 		    </div>
 		  </div>
@@ -186,6 +193,9 @@ html(lang="en").
 			</paper-material>
 		      </div>
 		    </div>
+		    <!-- <div>
+		      CODE GOES HERE
+		      </div> -->
 		  </iron-pages>
 
 		  <script>
