@@ -83,7 +83,7 @@ html(lang="en").
 		    <div>
 		    <paper-tabs selected="0">
 			<paper-tab>Category</paper-tab>
-			<paper-tab link><a href="http://192.168.66.64">Locale</paper-tab>
+			<paper-tab link><a href="http://192.168.66.64">Locale</a></paper-tab>
 		    </paper-tabs>
 		    </div>
 		  </div>
@@ -156,8 +156,8 @@ html(lang="en").
 					if (typeof coli === "undefined")
 						multiply = 0;
 					var red = (256 * multiply).toString(16).slice(0,2);
-					var green = (80 * multiply).toString(16).slice(0,2);
-					var blue = (80 * multiply).toString(16).slice(0,2);
+					var green = (150 * multiply).toString(16).slice(0,2);
+					var blue = (150 * multiply).toString(16).slice(0,2);
 					if (multiply == 0)
 						console.log(red + ":" + green + ":" + blue + " [" + multiply + "], " + coli + " and " + localAuthority);
 					var color = "#" + (256 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2);
