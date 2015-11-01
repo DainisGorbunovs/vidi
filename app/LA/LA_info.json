@@ -1,0 +1,3586 @@
+  {
+    "areaID":"1",
+    "areaName":"City of London",
+    "educationScore":"26711.6",
+    "educationRank":"5",
+    "healthScore":"27341.2",
+    "healthRank":"24",
+    "crimeScore":"30753.6",
+    "crimeRank":"2",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"2",
+    "areaName":"Barking and Dagenham",
+    "educationScore":"8188.568807",
+    "educationRank":"321",
+    "healthScore":"10157.89908",
+    "healthRank":"269",
+    "crimeScore":"6632.330275",
+    "crimeRank":"317",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"3",
+    "areaName":"Barnet",
+    "educationScore":"25925.4381",
+    "educationRank":"10",
+    "healthScore":"26817.15714",
+    "healthRank":"34",
+    "crimeScore":"13562.22857",
+    "crimeRank":"249",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"4",
+    "areaName":"Bexley",
+    "educationScore":"15092.94521",
+    "educationRank":"195",
+    "healthScore":"22387.43836",
+    "healthRank":"102",
+    "crimeScore":"15812.46575",
+    "crimeRank":"206",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"5",
+    "areaName":"Brent",
+    "educationScore":"21311.26437",
+    "educationRank":"68",
+    "healthScore":"15320.74713",
+    "healthRank":"203",
+    "crimeScore":"8747.867816",
+    "crimeRank":"302",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"6",
+    "areaName":"Bromley",
+    "educationScore":"21753.8731",
+    "educationRank":"60",
+    "healthScore":"23905.81218",
+    "healthRank":"75",
+    "crimeScore":"12352.6599",
+    "crimeRank":"269",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"7",
+    "areaName":"Camden",
+    "educationScore":"21130.05263",
+    "educationRank":"72",
+    "healthScore":"12467.72932",
+    "healthRank":"238",
+    "crimeScore":"12672.66165",
+    "crimeRank":"259",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"8",
+    "areaName":"Croydon",
+    "educationScore":"18467.32273",
+    "educationRank":"121",
+    "healthScore":"18859.22273",
+    "healthRank":"159",
+    "crimeScore":"11528.17727",
+    "crimeRank":"274",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"9",
+    "areaName":"Ealing",
+    "educationScore":"22075.53333",
+    "educationRank":"52",
+    "healthScore":"16797.62564",
+    "healthRank":"187",
+    "crimeScore":"10204.66154",
+    "crimeRank":"290",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"10",
+    "areaName":"Enfield",
+    "educationScore":"17903.59116",
+    "educationRank":"137",
+    "healthScore":"19592.38674",
+    "healthRank":"151",
+    "crimeScore":"11713.64641",
+    "crimeRank":"271",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"11",
+    "areaName":"Greenwich",
+    "educationScore":"15217.12587",
+    "educationRank":"192",
+    "healthScore":"8520.986014",
+    "healthRank":"284",
+    "crimeScore":"5083.370629",
+    "crimeRank":"323",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"12",
+    "areaName":"Hackney",
+    "educationScore":"15812.75182",
+    "educationRank":"185",
+    "healthScore":"7192.262774",
+    "healthRank":"299",
+    "crimeScore":"7519.890511",
+    "crimeRank":"313",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"13",
+    "areaName":"Hammersmith and Fulham",
+    "educationScore":"21985.04505",
+    "educationRank":"54",
+    "healthScore":"12649.56757",
+    "healthRank":"235",
+    "crimeScore":"9060.522523",
+    "crimeRank":"300",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"14",
+    "areaName":"Haringey",
+    "educationScore":"18744.70833",
+    "educationRank":"113",
+    "healthScore":"11853.29861",
+    "healthRank":"248",
+    "crimeScore":"5588.541667",
+    "crimeRank":"320",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"15",
+    "areaName":"Harrow",
+    "educationScore":"25514.21168",
+    "educationRank":"14",
+    "healthScore":"25131.0365",
+    "healthRank":"54",
+    "crimeScore":"16198.47445",
+    "crimeRank":"195",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"16",
+    "areaName":"Havering",
+    "educationScore":"14139.18792",
+    "educationRank":"218",
+    "healthScore":"22312.15436",
+    "healthRank":"103",
+    "crimeScore":"15499.24832",
+    "crimeRank":"215",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"17",
+    "areaName":"Hillingdon",
+    "educationScore":"17974.15337",
+    "educationRank":"135",
+    "healthScore":"19117.57669",
+    "healthRank":"157",
+    "crimeScore":"10784.31902",
+    "crimeRank":"283",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"18",
+    "areaName":"Hounslow",
+    "educationScore":"19658.08633",
+    "educationRank":"89",
+    "healthScore":"19376.02878",
+    "healthRank":"156",
+    "crimeScore":"11072.2518",
+    "crimeRank":"280",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"19",
+    "areaName":"Islington",
+    "educationScore":"17342.98305",
+    "educationRank":"150",
+    "healthScore":"5181.788136",
+    "healthRank":"320",
+    "crimeScore":"6851.788136",
+    "crimeRank":"316",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"20",
+    "areaName":"Kensington and Chelsea",
+    "educationScore":"26110.35922",
+    "educationRank":"7",
+    "healthScore":"24126.99029",
+    "healthRank":"70",
+    "crimeScore":"15448.03883",
+    "crimeRank":"216",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"21",
+    "areaName":"Kingston upon Thames",
+    "educationScore":"25906.95876",
+    "educationRank":"11",
+    "healthScore":"28342.1134",
+    "healthRank":"9",
+    "crimeScore":"20987.5567",
+    "crimeRank":"108",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"22",
+    "areaName":"Lambeth",
+    "educationScore":"19493.27684",
+    "educationRank":"91",
+    "healthScore":"9918.971751",
+    "healthRank":"273",
+    "crimeScore":"8239.028249",
+    "crimeRank":"307",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"23",
+    "areaName":"Lewisham",
+    "educationScore":"17224.99398",
+    "educationRank":"156",
+    "healthScore":"10577.78916",
+    "healthRank":"260",
+    "crimeScore":"5990.542169",
+    "crimeRank":"319",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"24",
+    "areaName":"Merton",
+    "educationScore":"22216.28226",
+    "educationRank":"48",
+    "healthScore":"23804.20968",
+    "healthRank":"78",
+    "crimeScore":"15508.03226",
+    "crimeRank":"214",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"25",
+    "areaName":"Newham",
+    "educationScore":"13466.52201",
+    "educationRank":"230",
+    "healthScore":"7432.201258",
+    "healthRank":"296",
+    "crimeScore":"4089.735849",
+    "crimeRank":"326",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"26",
+    "areaName":"Redbridge",
+    "educationScore":"22168.90566",
+    "educationRank":"50",
+    "healthScore":"20005.1761",
+    "healthRank":"146",
+    "crimeScore":"10495.23899",
+    "crimeRank":"288",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"27",
+    "areaName":"Richmond upon Thames",
+    "educationScore":"28077.17544",
+    "educationRank":"2",
+    "healthScore":"30234.76316",
+    "healthRank":"3",
+    "crimeScore":"18771.07018",
+    "crimeRank":"157",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"28",
+    "areaName":"Southwark",
+    "educationScore":"17837.25455",
+    "educationRank":"139",
+    "healthScore":"12410.90303",
+    "healthRank":"239",
+    "crimeScore":"7952.218182",
+    "crimeRank":"308",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"29",
+    "areaName":"Sutton",
+    "educationScore":"20783.69421",
+    "educationRank":"76",
+    "healthScore":"22476.33058",
+    "healthRank":"100",
+    "crimeScore":"15350.92562",
+    "crimeRank":"221",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"30",
+    "areaName":"Tower Hamlets",
+    "educationScore":"12949.79231",
+    "educationRank":"244",
+    "healthScore":"7124.407692",
+    "healthRank":"300",
+    "crimeScore":"9876.030769",
+    "crimeRank":"294",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"31",
+    "areaName":"Waltham Forest",
+    "educationScore":"16806.64138",
+    "educationRank":"171",
+    "healthScore":"11859.55862",
+    "healthRank":"247",
+    "crimeScore":"5405.510345",
+    "crimeRank":"321",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"32",
+    "areaName":"Wandsworth",
+    "educationScore":"23089.5977",
+    "educationRank":"30",
+    "healthScore":"14034.61494",
+    "healthRank":"220",
+    "crimeScore":"12496.9023",
+    "crimeRank":"266",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"33",
+    "areaName":"City of Westminster",
+    "educationScore":"23924.025",
+    "educationRank":"25",
+    "healthScore":"20804.50833",
+    "healthRank":"132",
+    "crimeScore":"15351.75833",
+    "crimeRank":"220",
+    "areaGov":"London"
+  }
+  {
+    "areaID":"34",
+    "areaName":"Bolton District",
+    "educationScore":"13501.04571",
+    "educationRank":"228",
+    "healthScore":"6879.217143",
+    "healthRank":"302",
+    "crimeScore":"14578.21714",
+    "crimeRank":"235",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"35",
+    "areaName":"Bury District",
+    "educationScore":"18174.625",
+    "educationRank":"127",
+    "healthScore":"10457.40833",
+    "healthRank":"263",
+    "crimeScore":"16455.55833",
+    "crimeRank":"192",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"36",
+    "areaName":"Manchester District",
+    "educationScore":"10627.19305",
+    "educationRank":"295",
+    "healthScore":"2772.007722",
+    "healthRank":"326",
+    "crimeScore":"5011.150579",
+    "crimeRank":"324",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"37",
+    "areaName":"Oldham District",
+    "educationScore":"11166.81944",
+    "educationRank":"283",
+    "healthScore":"9443.375",
+    "healthRank":"277",
+    "crimeScore":"15257.65278",
+    "crimeRank":"222",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"38",
+    "areaName":"Rochdale District",
+    "educationScore":"11934.27407",
+    "educationRank":"265",
+    "healthScore":"5287.911111",
+    "healthRank":"317",
+    "crimeScore":"8298.185185",
+    "crimeRank":"306",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"39",
+    "areaName":"Salford District",
+    "educationScore":"11499.84028",
+    "educationRank":"280",
+    "healthScore":"4919.402778",
+    "healthRank":"322",
+    "crimeScore":"9280.791667",
+    "crimeRank":"299",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"40",
+    "areaName":"Stockport District",
+    "educationScore":"19069.22105",
+    "educationRank":"104",
+    "healthScore":"12062.45789",
+    "healthRank":"244",
+    "crimeScore":"16078.71053",
+    "crimeRank":"200",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"41",
+    "areaName":"Tameside District",
+    "educationScore":"11114.82979",
+    "educationRank":"286",
+    "healthScore":"7429.723404",
+    "healthRank":"297",
+    "crimeScore":"9883.411348",
+    "crimeRank":"293",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"42",
+    "areaName":"Trafford District",
+    "educationScore":"22466.34058",
+    "educationRank":"43",
+    "healthScore":"14960.42754",
+    "healthRank":"207",
+    "crimeScore":"16855.86232",
+    "crimeRank":"188",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"43",
+    "areaName":"Wigan District",
+    "educationScore":"13303.375",
+    "educationRank":"238",
+    "healthScore":"10251.21",
+    "healthRank":"268",
+    "crimeScore":"15532.8",
+    "crimeRank":"211",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"44",
+    "areaName":"Knowsley District",
+    "educationScore":"8270.878788",
+    "educationRank":"320",
+    "healthScore":"5258.777778",
+    "healthRank":"318",
+    "crimeScore":"13847.9697",
+    "crimeRank":"243",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"45",
+    "areaName":"Liverpool District",
+    "educationScore":"10910.65292",
+    "educationRank":"288",
+    "healthScore":"3709.955326",
+    "healthRank":"325",
+    "crimeScore":"9826.457045",
+    "crimeRank":"295",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"46",
+    "areaName":"St. Helens District",
+    "educationScore":"13363.9661",
+    "educationRank":"236",
+    "healthScore":"8510.694915",
+    "healthRank":"285",
+    "crimeScore":"17579.27119",
+    "crimeRank":"176",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"47",
+    "areaName":"Sefton District",
+    "educationScore":"17217.86316",
+    "educationRank":"157",
+    "healthScore":"9359.057895",
+    "healthRank":"278",
+    "crimeScore":"20009.98947",
+    "crimeRank":"131",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"48",
+    "areaName":"Wirral District",
+    "educationScore":"17836.71014",
+    "educationRank":"140",
+    "healthScore":"8672.855072",
+    "healthRank":"281",
+    "crimeScore":"22084.71498",
+    "crimeRank":"83",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"49",
+    "areaName":"Barnsley District",
+    "educationScore":"8813.204082",
+    "educationRank":"316",
+    "healthScore":"9958.428571",
+    "healthRank":"271",
+    "crimeScore":"15239.01361",
+    "crimeRank":"223",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"50",
+    "areaName":"Doncaster District",
+    "educationScore":"10134.55959",
+    "educationRank":"304",
+    "healthScore":"8912.015544",
+    "healthRank":"280",
+    "crimeScore":"8810.476684",
+    "crimeRank":"301",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"51",
+    "areaName":"Rotherham District",
+    "educationScore":"10202.48795",
+    "educationRank":"303",
+    "healthScore":"6696.590361",
+    "healthRank":"305",
+    "crimeScore":"12683.4759",
+    "crimeRank":"258",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"52",
+    "areaName":"Sheffield District",
+    "educationScore":"13205.24484",
+    "educationRank":"240",
+    "healthScore":"11385.67847",
+    "healthRank":"256",
+    "crimeScore":"10661.86431",
+    "crimeRank":"284",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"53",
+    "areaName":"Gateshead District",
+    "educationScore":"12134.83333",
+    "educationRank":"263",
+    "healthScore":"6057.857143",
+    "healthRank":"312",
+    "crimeScore":"17873.07937",
+    "crimeRank":"172",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"54",
+    "areaName":"Newcastle upon Tyne District",
+    "educationScore":"13667.08671",
+    "educationRank":"226",
+    "healthScore":"6214.485549",
+    "healthRank":"309",
+    "crimeScore":"15820.3815",
+    "crimeRank":"204",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"55",
+    "areaName":"North Tyneside District",
+    "educationScore":"15805.86822",
+    "educationRank":"186",
+    "healthScore":"11981.37984",
+    "healthRank":"246",
+    "crimeScore":"21552.99225",
+    "crimeRank":"93",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"56",
+    "areaName":"South Tyneside District",
+    "educationScore":"11633.54369",
+    "educationRank":"274",
+    "healthScore":"10524.71845",
+    "healthRank":"261",
+    "crimeScore":"17647.14563",
+    "crimeRank":"175",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"57",
+    "areaName":"Sunderland District",
+    "educationScore":"10888.29787",
+    "educationRank":"289",
+    "healthScore":"6632.760638",
+    "healthRank":"306",
+    "crimeScore":"16453.86702",
+    "crimeRank":"193",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"58",
+    "areaName":"Birmingham District",
+    "educationScore":"11851.3869",
+    "educationRank":"271",
+    "healthScore":"8196.567863",
+    "healthRank":"288",
+    "crimeScore":"11317.02652",
+    "crimeRank":"277",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"59",
+    "areaName":"Coventry District",
+    "educationScore":"12682.2335",
+    "educationRank":"251",
+    "healthScore":"12239.07614",
+    "healthRank":"243",
+    "crimeScore":"12655.37056",
+    "crimeRank":"260",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"60",
+    "areaName":"Dudley District",
+    "educationScore":"12644.07426",
+    "educationRank":"253",
+    "healthScore":"17842.4901",
+    "healthRank":"173",
+    "crimeScore":"18808.5198",
+    "crimeRank":"156",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"61",
+    "areaName":"Sandwell District",
+    "educationScore":"6772.68984",
+    "educationRank":"325",
+    "healthScore":"5816.946524",
+    "healthRank":"315",
+    "crimeScore":"12601.85027",
+    "crimeRank":"264",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"62",
+    "areaName":"Solihull District",
+    "educationScore":"19475.03759",
+    "educationRank":"92",
+    "healthScore":"20469.33083",
+    "healthRank":"140",
+    "crimeScore":"15643.04511",
+    "crimeRank":"209",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"63",
+    "areaName":"Walsall District",
+    "educationScore":"9315.532544",
+    "educationRank":"312",
+    "healthScore":"9756.544379",
+    "healthRank":"276",
+    "crimeScore":"14459.10059",
+    "crimeRank":"236",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"64",
+    "areaName":"City of Wolverhampton District",
+    "educationScore":"10371.46203",
+    "educationRank":"299",
+    "healthScore":"8064.981013",
+    "healthRank":"289",
+    "crimeScore":"13231.55063",
+    "crimeRank":"254",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"65",
+    "areaName":"Bradford District",
+    "educationScore":"11290.28013",
+    "educationRank":"281",
+    "healthScore":"8401.045603",
+    "healthRank":"286",
+    "crimeScore":"11363.91205",
+    "crimeRank":"276",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"66",
+    "areaName":"Calderdale District",
+    "educationScore":"15169.46512",
+    "educationRank":"194",
+    "healthScore":"14155.52713",
+    "healthRank":"219",
+    "crimeScore":"13071.09302",
+    "crimeRank":"255",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"67",
+    "areaName":"Kirklees District",
+    "educationScore":"13879.39231",
+    "educationRank":"222",
+    "healthScore":"14704.39231",
+    "healthRank":"210",
+    "crimeScore":"10964.86538",
+    "crimeRank":"281",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"68",
+    "areaName":"Leeds District",
+    "educationScore":"14308.78782",
+    "educationRank":"216",
+    "healthScore":"14002.42647",
+    "healthRank":"222",
+    "crimeScore":"11263.82773",
+    "crimeRank":"278",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"69",
+    "areaName":"Wakefield District",
+    "educationScore":"10666.85167",
+    "educationRank":"294",
+    "healthScore":"9851.794258",
+    "healthRank":"275",
+    "crimeScore":"12422.70813",
+    "crimeRank":"268",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"70",
+    "areaName":"Hartlepool",
+    "educationScore":"11797",
+    "educationRank":"272",
+    "healthScore":"6388.862069",
+    "healthRank":"307",
+    "crimeScore":"15099.05172",
+    "crimeRank":"227",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"71",
+    "areaName":"Middlesbrough",
+    "educationScore":"10335.15909",
+    "educationRank":"301",
+    "healthScore":"5108.545455",
+    "healthRank":"321",
+    "crimeScore":"9673.022727",
+    "crimeRank":"296",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"72",
+    "areaName":"Redcar and Cleveland",
+    "educationScore":"12412.61957",
+    "educationRank":"258",
+    "healthScore":"6910.565217",
+    "healthRank":"301",
+    "crimeScore":"15723.95652",
+    "crimeRank":"208",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"73",
+    "areaName":"Stockton-on-Tees",
+    "educationScore":"14836.40171",
+    "educationRank":"201",
+    "healthScore":"10445.67521",
+    "healthRank":"264",
+    "crimeScore":"19078.99145",
+    "crimeRank":"154",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"74",
+    "areaName":"Darlington",
+    "educationScore":"15073.49206",
+    "educationRank":"196",
+    "healthScore":"6830.873016",
+    "healthRank":"303",
+    "crimeScore":"15127.20635",
+    "crimeRank":"226",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"75",
+    "areaName":"Durham County",
+    "educationScore":"12641.23125",
+    "educationRank":"254",
+    "healthScore":"7462.040625",
+    "healthRank":"295",
+    "crimeScore":"17258.45938",
+    "crimeRank":"181",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"76",
+    "areaName":"Northumberland",
+    "educationScore":"16277.11558",
+    "educationRank":"180",
+    "healthScore":"14186.90955",
+    "healthRank":"217",
+    "crimeScore":"23217.74874",
+    "crimeRank":"64",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"77",
+    "areaName":"Cheshire East",
+    "educationScore":"21413.28139",
+    "educationRank":"66",
+    "healthScore":"19078.57576",
+    "healthRank":"158",
+    "crimeScore":"22083.88745",
+    "crimeRank":"84",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"78",
+    "areaName":"Halton",
+    "educationScore":"12378.5443",
+    "educationRank":"260",
+    "healthScore":"5728.911392",
+    "healthRank":"316",
+    "crimeScore":"12608.82278",
+    "crimeRank":"263",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"79",
+    "areaName":"Warrington",
+    "educationScore":"19035.712",
+    "educationRank":"105",
+    "healthScore":"13376.952",
+    "healthRank":"229",
+    "crimeScore":"19519.912",
+    "crimeRank":"142",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"80",
+    "areaName":"Cheshire West and Chester",
+    "educationScore":"18609.27014",
+    "educationRank":"116",
+    "healthScore":"17601.95261",
+    "healthRank":"176",
+    "crimeScore":"18370.92891",
+    "crimeRank":"161",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"81",
+    "areaName":"Blackburn with Darwen",
+    "educationScore":"10754.32967",
+    "educationRank":"291",
+    "healthScore":"6163.241758",
+    "healthRank":"311",
+    "crimeScore":"13833.40659",
+    "crimeRank":"244",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"82",
+    "areaName":"Blackpool",
+    "educationScore":"9042.265957",
+    "educationRank":"314",
+    "healthScore":"4624.234043",
+    "healthRank":"323",
+    "crimeScore":"11186",
+    "crimeRank":"279",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"83",
+    "areaName":"City of Kingston upon Hull",
+    "educationScore":"6622.312883",
+    "educationRank":"326",
+    "healthScore":"9950.680982",
+    "healthRank":"272",
+    "crimeScore":"7933.202454",
+    "crimeRank":"310",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"84",
+    "areaName":"East Riding of Yorkshire",
+    "educationScore":"17249.6555",
+    "educationRank":"154",
+    "healthScore":"21930.73684",
+    "healthRank":"112",
+    "crimeScore":"22030.49282",
+    "crimeRank":"85",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"85",
+    "areaName":"North East Lincolnshire",
+    "educationScore":"10297.48598",
+    "educationRank":"302",
+    "healthScore":"11760.26168",
+    "healthRank":"249",
+    "crimeScore":"9461.121495",
+    "crimeRank":"298",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"86",
+    "areaName":"North Lincolnshire",
+    "educationScore":"12830.93",
+    "educationRank":"247",
+    "healthScore":"14299.7",
+    "healthRank":"214",
+    "crimeScore":"13406.94",
+    "crimeRank":"251",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"87",
+    "areaName":"York",
+    "educationScore":"20085.01695",
+    "educationRank":"86",
+    "healthScore":"23021.5",
+    "healthRank":"91",
+    "crimeScore":"16098.36441",
+    "crimeRank":"199",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"88",
+    "areaName":"City of Derby",
+    "educationScore":"13973.46259",
+    "educationRank":"221",
+    "healthScore":"15725.94558",
+    "healthRank":"199",
+    "crimeScore":"14361.90476",
+    "crimeRank":"237",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"89",
+    "areaName":"City of Leicester",
+    "educationScore":"9618.053476",
+    "educationRank":"309",
+    "healthScore":"7920.481283",
+    "healthRank":"290",
+    "crimeScore":"7932.032086",
+    "crimeRank":"311",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"90",
+    "areaName":"Rutland",
+    "educationScore":"23071.34783",
+    "educationRank":"31",
+    "healthScore":"22031.21739",
+    "healthRank":"108",
+    "crimeScore":"24393",
+    "crimeRank":"46",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"91",
+    "areaName":"City of Nottingham",
+    "educationScore":"9076.982955",
+    "educationRank":"313",
+    "healthScore":"6293.375",
+    "healthRank":"308",
+    "crimeScore":"5175.903409",
+    "crimeRank":"322",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"92",
+    "areaName":"County of Herefordshire",
+    "educationScore":"17455.63793",
+    "educationRank":"146",
+    "healthScore":"20649.30172",
+    "healthRank":"137",
+    "crimeScore":"23499.48276",
+    "crimeRank":"59",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"93",
+    "areaName":"Telford and Wrekin",
+    "educationScore":"12672.02778",
+    "educationRank":"252",
+    "healthScore":"12408.10185",
+    "healthRank":"240",
+    "crimeScore":"15903.83333",
+    "crimeRank":"202",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"94",
+    "areaName":"Shropshire",
+    "educationScore":"18198.80729",
+    "educationRank":"126",
+    "healthScore":"18091.81771",
+    "healthRank":"171",
+    "crimeScore":"23044.05208",
+    "crimeRank":"66",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"95",
+    "areaName":"City of Stoke-on-Trent",
+    "educationScore":"7589.475",
+    "educationRank":"324",
+    "healthScore":"6198.8",
+    "healthRank":"310",
+    "crimeScore":"9907.71875",
+    "crimeRank":"292",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"96",
+    "areaName":"Bath and North East Somerset",
+    "educationScore":"21417.33913",
+    "educationRank":"65",
+    "healthScore":"22919.18261",
+    "healthRank":"94",
+    "crimeScore":"19237.63478",
+    "crimeRank":"148",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"97",
+    "areaName":"City of Bristol",
+    "educationScore":"14263.97222",
+    "educationRank":"217",
+    "healthScore":"14388.89286",
+    "healthRank":"213",
+    "crimeScore":"6438.468254",
+    "crimeRank":"318",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"98",
+    "areaName":"North Somerset",
+    "educationScore":"19215.20161",
+    "educationRank":"101",
+    "healthScore":"21504.29032",
+    "healthRank":"119",
+    "crimeScore":"19408.91129",
+    "crimeRank":"145",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"99",
+    "areaName":"South Gloucestershire",
+    "educationScore":"17856.72222",
+    "educationRank":"138",
+    "healthScore":"26028.00617",
+    "healthRank":"45",
+    "crimeScore":"17246.82716",
+    "crimeRank":"183",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"100",
+    "areaName":"Cornwall",
+    "educationScore":"16001.56575",
+    "educationRank":"182",
+    "healthScore":"17186.69113",
+    "healthRank":"182",
+    "crimeScore":"23566.36086",
+    "crimeRank":"58",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"101",
+    "areaName":"Isles of Scilly",
+    "educationScore":"28230",
+    "educationRank":"1",
+    "healthScore":"21940",
+    "healthRank":"111",
+    "crimeScore":"31690",
+    "crimeRank":"1",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"102",
+    "areaName":"City of Plymouth",
+    "educationScore":"13801.76875",
+    "educationRank":"224",
+    "healthScore":"11517.6625",
+    "healthRank":"253",
+    "crimeScore":"14239.29375",
+    "crimeRank":"238",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"103",
+    "areaName":"Torbay",
+    "educationScore":"13309.60674",
+    "educationRank":"237",
+    "healthScore":"12050.97753",
+    "healthRank":"245",
+    "crimeScore":"16995.95506",
+    "crimeRank":"186",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"104",
+    "areaName":"Bournemouth",
+    "educationScore":"15714.93458",
+    "educationRank":"187",
+    "healthScore":"12902.46729",
+    "healthRank":"232",
+    "crimeScore":"13394.8972",
+    "crimeRank":"252",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"105",
+    "areaName":"Poole",
+    "educationScore":"17054.58242",
+    "educationRank":"162",
+    "healthScore":"17295.08791",
+    "healthRank":"180",
+    "crimeScore":"18624.54945",
+    "crimeRank":"160",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"106",
+    "areaName":"Swindon",
+    "educationScore":"14765.11765",
+    "educationRank":"203",
+    "healthScore":"20934.54622",
+    "healthRank":"129",
+    "crimeScore":"15097.2605",
+    "crimeRank":"228",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"107",
+    "areaName":"Wiltshire",
+    "educationScore":"18883.81851",
+    "educationRank":"110",
+    "healthScore":"23014.54448",
+    "healthRank":"92",
+    "crimeScore":"23734.12811",
+    "crimeRank":"54",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"108",
+    "areaName":"City of Peterborough",
+    "educationScore":"12614.59615",
+    "educationRank":"256",
+    "healthScore":"16317.47115",
+    "healthRank":"191",
+    "crimeScore":"8409.634615",
+    "crimeRank":"304",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"109",
+    "areaName":"Luton",
+    "educationScore":"11889.02479",
+    "educationRank":"266",
+    "healthScore":"13043.87603",
+    "healthRank":"231",
+    "crimeScore":"10469.26446",
+    "crimeRank":"289",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"110",
+    "areaName":"Bedford Unitary",
+    "educationScore":"17420.94118",
+    "educationRank":"148",
+    "healthScore":"17434.13725",
+    "healthRank":"179",
+    "crimeScore":"18137.15686",
+    "crimeRank":"163",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"111",
+    "areaName":"Central Bedfordshire",
+    "educationScore":"18929.24026",
+    "educationRank":"109",
+    "healthScore":"24469.11688",
+    "healthRank":"61",
+    "crimeScore":"19480.78571",
+    "crimeRank":"144",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"112",
+    "areaName":"Southend-on-Sea",
+    "educationScore":"14390.19626",
+    "educationRank":"210",
+    "healthScore":"13449.60748",
+    "healthRank":"227",
+    "crimeScore":"16099.8972",
+    "crimeRank":"198",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"113",
+    "areaName":"Thurrock",
+    "educationScore":"9407.021053",
+    "educationRank":"310",
+    "healthScore":"22228.6",
+    "healthRank":"105",
+    "crimeScore":"13456.31579",
+    "crimeRank":"250",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"114",
+    "areaName":"Medway",
+    "educationScore":"11864.28049",
+    "educationRank":"268",
+    "healthScore":"17013.39024",
+    "healthRank":"184",
+    "crimeScore":"14983.95122",
+    "crimeRank":"232",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"115",
+    "areaName":"Bracknell Forest",
+    "educationScore":"19368.66216",
+    "educationRank":"96",
+    "healthScore":"27209.43243",
+    "healthRank":"26",
+    "crimeScore":"18082",
+    "crimeRank":"164",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"116",
+    "areaName":"West Berkshire",
+    "educationScore":"20381.03093",
+    "educationRank":"81",
+    "healthScore":"25237.56701",
+    "healthRank":"52",
+    "crimeScore":"16299.23711",
+    "crimeRank":"194",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"117",
+    "areaName":"Reading",
+    "educationScore":"16524.01075",
+    "educationRank":"177",
+    "healthScore":"14212.63441",
+    "healthRank":"216",
+    "crimeScore":"7078.247312",
+    "crimeRank":"314",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"118",
+    "areaName":"Slough",
+    "educationScore":"15213.65385",
+    "educationRank":"193",
+    "healthScore":"16952.01282",
+    "healthRank":"185",
+    "crimeScore":"4327.410256",
+    "crimeRank":"325",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"119",
+    "areaName":"Windsor and Maidenhead",
+    "educationScore":"25118.06818",
+    "educationRank":"17",
+    "healthScore":"28389.77273",
+    "healthRank":"8",
+    "crimeScore":"12633.67045",
+    "crimeRank":"262",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"120",
+    "areaName":"Wokingham",
+    "educationScore":"26309.55",
+    "educationRank":"6",
+    "healthScore":"30857.12",
+    "healthRank":"2",
+    "crimeScore":"21743.16",
+    "crimeRank":"89",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"121",
+    "areaName":"Milton Keynes",
+    "educationScore":"16809.00719",
+    "educationRank":"170",
+    "healthScore":"23550.69065",
+    "healthRank":"82",
+    "crimeScore":"12993.89928",
+    "crimeRank":"256",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"122",
+    "areaName":"The City of Brighton & Hove",
+    "educationScore":"19401.02439",
+    "educationRank":"94",
+    "healthScore":"8521.695122",
+    "healthRank":"283",
+    "crimeScore":"16901.43902",
+    "crimeRank":"187",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"123",
+    "areaName":"City of Portsmouth",
+    "educationScore":"12067.39024",
+    "educationRank":"264",
+    "healthScore":"15252.26829",
+    "healthRank":"204",
+    "crimeScore":"10643.52033",
+    "crimeRank":"285",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"124",
+    "areaName":"City of Southampton",
+    "educationScore":"12947.72603",
+    "educationRank":"245",
+    "healthScore":"13395.18493",
+    "healthRank":"228",
+    "crimeScore":"6973.753425",
+    "crimeRank":"315",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"125",
+    "areaName":"Isle of Wight",
+    "educationScore":"13815.31461",
+    "educationRank":"223",
+    "healthScore":"13579.33708",
+    "healthRank":"224",
+    "crimeScore":"21187.70787",
+    "crimeRank":"102",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"126",
+    "areaName":"Aylesbury Vale District",
+    "educationScore":"20996.55357",
+    "educationRank":"73",
+    "healthScore":"25343.33929",
+    "healthRank":"49",
+    "crimeScore":"21345.40179",
+    "crimeRank":"98",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"127",
+    "areaName":"Chiltern District",
+    "educationScore":"26840.77193",
+    "educationRank":"4",
+    "healthScore":"28396.10526",
+    "healthRank":"7",
+    "crimeScore":"17673.24561",
+    "crimeRank":"174",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"128",
+    "areaName":"South Bucks District",
+    "educationScore":"24826.875",
+    "educationRank":"20",
+    "healthScore":"29355.1",
+    "healthRank":"4",
+    "crimeScore":"9957.175",
+    "crimeRank":"291",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"129",
+    "areaName":"Wycombe District",
+    "educationScore":"22256.19626",
+    "educationRank":"47",
+    "healthScore":"24302.2243",
+    "healthRank":"67",
+    "crimeScore":"15513.58879",
+    "crimeRank":"212",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"130",
+    "areaName":"Cambridge District",
+    "educationScore":"21881.38235",
+    "educationRank":"56",
+    "healthScore":"16230.88235",
+    "healthRank":"194",
+    "crimeScore":"10950.76471",
+    "crimeRank":"282",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"131",
+    "areaName":"East Cambridgeshire District",
+    "educationScore":"17658.80851",
+    "educationRank":"143",
+    "healthScore":"25880.61702",
+    "healthRank":"46",
+    "crimeScore":"22493.80851",
+    "crimeRank":"71",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"132",
+    "areaName":"Fenland District",
+    "educationScore":"8892.222222",
+    "educationRank":"315",
+    "healthScore":"15797.61111",
+    "healthRank":"198",
+    "crimeScore":"17353.37037",
+    "crimeRank":"178",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"133",
+    "areaName":"Huntingdonshire District",
+    "educationScore":"18882.16981",
+    "educationRank":"111",
+    "healthScore":"23915.77358",
+    "healthRank":"74",
+    "crimeScore":"22188.51887",
+    "crimeRank":"80",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"134",
+    "areaName":"South Cambridgeshire District",
+    "educationScore":"25063.68889",
+    "educationRank":"18",
+    "healthScore":"27016.07778",
+    "healthRank":"30",
+    "crimeScore":"23584.16667",
+    "crimeRank":"57",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"135",
+    "areaName":"Allerdale District",
+    "educationScore":"14777.21667",
+    "educationRank":"202",
+    "healthScore":"11725.08333",
+    "healthRank":"250",
+    "crimeScore":"20744.25",
+    "crimeRank":"115",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"136",
+    "areaName":"Barrow-in-Furness District",
+    "educationScore":"13384.78",
+    "educationRank":"235",
+    "healthScore":"3986.58",
+    "healthRank":"324",
+    "crimeScore":"20976.74",
+    "crimeRank":"109",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"137",
+    "areaName":"Carlisle District",
+    "educationScore":"12633.39706",
+    "educationRank":"255",
+    "healthScore":"10409.52941",
+    "healthRank":"265",
+    "crimeScore":"19636.76471",
+    "crimeRank":"140",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"138",
+    "areaName":"Copeland District",
+    "educationScore":"11863.14286",
+    "educationRank":"269",
+    "healthScore":"7686.163265",
+    "healthRank":"293",
+    "crimeScore":"23368.81633",
+    "crimeRank":"61",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"139",
+    "areaName":"Eden District",
+    "educationScore":"17162.25",
+    "educationRank":"159",
+    "healthScore":"21577.22222",
+    "healthRank":"117",
+    "crimeScore":"28486.13889",
+    "crimeRank":"5",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"140",
+    "areaName":"South Lakeland District",
+    "educationScore":"22394.9322",
+    "educationRank":"46",
+    "healthScore":"16703.32203",
+    "healthRank":"188",
+    "crimeScore":"27611.44068",
+    "crimeRank":"9",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"141",
+    "areaName":"Amber Valley District",
+    "educationScore":"13537.85897",
+    "educationRank":"227",
+    "healthScore":"18762.58974",
+    "healthRank":"160",
+    "crimeScore":"19312.62821",
+    "crimeRank":"147",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"142",
+    "areaName":"Bolsover District",
+    "educationScore":"8546.354167",
+    "educationRank":"318",
+    "healthScore":"10111.35417",
+    "healthRank":"270",
+    "crimeScore":"13813.91667",
+    "crimeRank":"245",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"143",
+    "areaName":"Chesterfield District",
+    "educationScore":"12884.94118",
+    "educationRank":"246",
+    "healthScore":"11193.32353",
+    "healthRank":"257",
+    "crimeScore":"15775.51471",
+    "crimeRank":"207",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"144",
+    "areaName":"Derbyshire Dales District",
+    "educationScore":"21587.11628",
+    "educationRank":"62",
+    "healthScore":"23883.93023",
+    "healthRank":"76",
+    "crimeScore":"24573.25581",
+    "crimeRank":"42",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"145",
+    "areaName":"Erewash District",
+    "educationScore":"13778.45205",
+    "educationRank":"225",
+    "healthScore":"18587.08219",
+    "healthRank":"162",
+    "crimeScore":"13590.35616",
+    "crimeRank":"248",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"146",
+    "areaName":"High Peak District",
+    "educationScore":"18437.67797",
+    "educationRank":"122",
+    "healthScore":"15148.64407",
+    "healthRank":"205",
+    "crimeScore":"18637.64407",
+    "crimeRank":"159",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"147",
+    "areaName":"North East Derbyshire District",
+    "educationScore":"14318.53968",
+    "educationRank":"214",
+    "healthScore":"18126.57143",
+    "healthRank":"170",
+    "crimeScore":"21191.79365",
+    "crimeRank":"101",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"148",
+    "areaName":"South Derbyshire District",
+    "educationScore":"16638.07407",
+    "educationRank":"175",
+    "healthScore":"20478.18519",
+    "healthRank":"139",
+    "crimeScore":"20905.31481",
+    "crimeRank":"111",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"149",
+    "areaName":"East Devon District",
+    "educationScore":"19394.53659",
+    "educationRank":"95",
+    "healthScore":"24033.85366",
+    "healthRank":"72",
+    "crimeScore":"25292.45122",
+    "crimeRank":"33",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"150",
+    "areaName":"Exeter District",
+    "educationScore":"15976.35616",
+    "educationRank":"183",
+    "healthScore":"18320.63014",
+    "healthRank":"167",
+    "crimeScore":"17812.41096",
+    "crimeRank":"173",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"151",
+    "areaName":"Mid Devon District",
+    "educationScore":"16285.83721",
+    "educationRank":"179",
+    "healthScore":"23193.11628",
+    "healthRank":"87",
+    "crimeScore":"24100.62791",
+    "crimeRank":"49",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"152",
+    "areaName":"North Devon District",
+    "educationScore":"14492.60345",
+    "educationRank":"208",
+    "healthScore":"16282.72414",
+    "healthRank":"192",
+    "crimeScore":"21864.67241",
+    "crimeRank":"88",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"153",
+    "areaName":"South Hams District",
+    "educationScore":"22736.87755",
+    "educationRank":"36",
+    "healthScore":"22195.71429",
+    "healthRank":"106",
+    "crimeScore":"27679.02041",
+    "crimeRank":"7",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"154",
+    "areaName":"Teignbridge District",
+    "educationScore":"17969.63095",
+    "educationRank":"136",
+    "healthScore":"20596.02381",
+    "healthRank":"138",
+    "crimeScore":"25512.28571",
+    "crimeRank":"29",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"155",
+    "areaName":"Torridge District",
+    "educationScore":"13260.62162",
+    "educationRank":"239",
+    "healthScore":"19469.32432",
+    "healthRank":"154",
+    "crimeScore":"25255.10811",
+    "crimeRank":"34",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"156",
+    "areaName":"West Devon District",
+    "educationScore":"19289.09677",
+    "educationRank":"97",
+    "healthScore":"20685.83871",
+    "healthRank":"135",
+    "crimeScore":"27329.6129",
+    "crimeRank":"13",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"157",
+    "areaName":"Christchurch District",
+    "educationScore":"19558.96667",
+    "educationRank":"90",
+    "healthScore":"22927.1",
+    "healthRank":"93",
+    "crimeScore":"23141.33333",
+    "crimeRank":"65",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"158",
+    "areaName":"East Dorset District",
+    "educationScore":"21429.31579",
+    "educationRank":"64",
+    "healthScore":"27393.63158",
+    "healthRank":"23",
+    "crimeScore":"27509.91228",
+    "crimeRank":"10",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"159",
+    "areaName":"North Dorset District",
+    "educationScore":"17487.25714",
+    "educationRank":"145",
+    "healthScore":"20173.45714",
+    "healthRank":"145",
+    "crimeScore":"26171.54286",
+    "crimeRank":"22",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"160",
+    "areaName":"Purbeck District",
+    "educationScore":"16805.06897",
+    "educationRank":"173",
+    "healthScore":"19712.13793",
+    "healthRank":"148",
+    "crimeScore":"25133.55172",
+    "crimeRank":"35",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"161",
+    "areaName":"West Dorset District",
+    "educationScore":"20392.14035",
+    "educationRank":"80",
+    "healthScore":"17246.47368",
+    "healthRank":"181",
+    "crimeScore":"24636.40351",
+    "crimeRank":"40",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"162",
+    "areaName":"Weymouth and Portland District",
+    "educationScore":"14135.76923",
+    "educationRank":"219",
+    "healthScore":"8217.128205",
+    "healthRank":"287",
+    "crimeScore":"15191.05128",
+    "crimeRank":"224",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"163",
+    "areaName":"Eastbourne District",
+    "educationScore":"14961.25424",
+    "educationRank":"198",
+    "healthScore":"9899.559322",
+    "healthRank":"274",
+    "crimeScore":"17947.08475",
+    "crimeRank":"169",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"164",
+    "areaName":"Hastings District",
+    "educationScore":"9871.056604",
+    "educationRank":"306",
+    "healthScore":"5851.849057",
+    "healthRank":"314",
+    "crimeScore":"11650.77358",
+    "crimeRank":"273",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"165",
+    "areaName":"Lewes District",
+    "educationScore":"17298.75806",
+    "educationRank":"153",
+    "healthScore":"17464.3871",
+    "healthRank":"178",
+    "crimeScore":"21930.46774",
+    "crimeRank":"87",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"166",
+    "areaName":"Rother District",
+    "educationScore":"16667.36207",
+    "educationRank":"174",
+    "healthScore":"14966.13793",
+    "healthRank":"206",
+    "crimeScore":"22248.25862",
+    "crimeRank":"77",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"167",
+    "areaName":"Wealden District",
+    "educationScore":"21293.07368",
+    "educationRank":"69",
+    "healthScore":"23755.47368",
+    "healthRank":"79",
+    "crimeScore":"26462.62105",
+    "crimeRank":"19",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"168",
+    "areaName":"Basildon District",
+    "educationScore":"11096",
+    "educationRank":"287",
+    "healthScore":"20372.88182",
+    "healthRank":"142",
+    "crimeScore":"15875.06364",
+    "crimeRank":"203",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"169",
+    "areaName":"Braintree District",
+    "educationScore":"14546.7619",
+    "educationRank":"207",
+    "healthScore":"25102.84524",
+    "healthRank":"56",
+    "crimeScore":"23860.78571",
+    "crimeRank":"52",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"170",
+    "areaName":"Brentwood District",
+    "educationScore":"22203.02222",
+    "educationRank":"49",
+    "healthScore":"27885.17778",
+    "healthRank":"15",
+    "crimeScore":"22555.84444",
+    "crimeRank":"70",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"171",
+    "areaName":"Castle Point District",
+    "educationScore":"11502.19298",
+    "educationRank":"279",
+    "healthScore":"23362.96491",
+    "healthRank":"83",
+    "crimeScore":"19752.26316",
+    "crimeRank":"135",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"172",
+    "areaName":"Chelmsford District",
+    "educationScore":"20244.68269",
+    "educationRank":"84",
+    "healthScore":"27576.28846",
+    "healthRank":"20",
+    "crimeScore":"24598.86538",
+    "crimeRank":"41",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"173",
+    "areaName":"Colchester District",
+    "educationScore":"17009.50962",
+    "educationRank":"163",
+    "healthScore":"20713.15385",
+    "healthRank":"134",
+    "crimeScore":"20406.52885",
+    "crimeRank":"125",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"174",
+    "areaName":"Epping Forest District",
+    "educationScore":"16893.73077",
+    "educationRank":"167",
+    "healthScore":"21523.05128",
+    "healthRank":"118",
+    "crimeScore":"16173.98718",
+    "crimeRank":"196",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"175",
+    "areaName":"Harlow District",
+    "educationScore":"9323.722222",
+    "educationRank":"311",
+    "healthScore":"11502.12963",
+    "healthRank":"254",
+    "crimeScore":"11690.09259",
+    "crimeRank":"272",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"176",
+    "areaName":"Maldon District",
+    "educationScore":"14920.46341",
+    "educationRank":"200",
+    "healthScore":"24116.5122",
+    "healthRank":"71",
+    "crimeScore":"26227.97561",
+    "crimeRank":"21",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"177",
+    "areaName":"Rochford District",
+    "educationScore":"16622.9434",
+    "educationRank":"176",
+    "healthScore":"27858.32075",
+    "healthRank":"16",
+    "crimeScore":"26652.69811",
+    "crimeRank":"16",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"178",
+    "areaName":"Tendring District",
+    "educationScore":"9914.433333",
+    "educationRank":"305",
+    "healthScore":"14920.63333",
+    "healthRank":"209",
+    "crimeScore":"21013.86667",
+    "crimeRank":"106",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"179",
+    "areaName":"Uttlesford District",
+    "educationScore":"23709.51163",
+    "educationRank":"28",
+    "healthScore":"28158.2093",
+    "healthRank":"13",
+    "crimeScore":"27331.32558",
+    "crimeRank":"12",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"180",
+    "areaName":"Cheltenham District",
+    "educationScore":"21756.14667",
+    "educationRank":"59",
+    "healthScore":"23219.57333",
+    "healthRank":"86",
+    "crimeScore":"15068.44",
+    "crimeRank":"230",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"181",
+    "areaName":"Cotswold District",
+    "educationScore":"22681.21569",
+    "educationRank":"37",
+    "healthScore":"26545.45098",
+    "healthRank":"37",
+    "crimeScore":"24790.01961",
+    "crimeRank":"38",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"182",
+    "areaName":"Forest of Dean District",
+    "educationScore":"14958.02",
+    "educationRank":"199",
+    "healthScore":"21920.74",
+    "healthRank":"113",
+    "crimeScore":"22359.7",
+    "crimeRank":"74",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"183",
+    "areaName":"Gloucester District",
+    "educationScore":"13984.90541",
+    "educationRank":"220",
+    "healthScore":"19644.16216",
+    "healthRank":"150",
+    "crimeScore":"13634.71622",
+    "crimeRank":"247",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"184",
+    "areaName":"Stroud District",
+    "educationScore":"21194.88406",
+    "educationRank":"71",
+    "healthScore":"24291.37681",
+    "healthRank":"68",
+    "crimeScore":"20008.88406",
+    "crimeRank":"132",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"185",
+    "areaName":"Tewkesbury District",
+    "educationScore":"21254.9375",
+    "educationRank":"70",
+    "healthScore":"27067.22917",
+    "healthRank":"29",
+    "crimeScore":"23352.27083",
+    "crimeRank":"63",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"186",
+    "areaName":"Basingstoke and Deane District",
+    "educationScore":"18819.72115",
+    "educationRank":"112",
+    "healthScore":"24467.00962",
+    "healthRank":"63",
+    "crimeScore":"17335.13462",
+    "crimeRank":"180",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"187",
+    "areaName":"East Hampshire District",
+    "educationScore":"22471.97222",
+    "educationRank":"42",
+    "healthScore":"25215.84722",
+    "healthRank":"53",
+    "crimeScore":"21114.81944",
+    "crimeRank":"103",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"188",
+    "areaName":"Eastleigh District",
+    "educationScore":"18652.46753",
+    "educationRank":"115",
+    "healthScore":"26048.92208",
+    "healthRank":"44",
+    "crimeScore":"16748.84416",
+    "crimeRank":"189",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"189",
+    "areaName":"Fareham District",
+    "educationScore":"20892.18919",
+    "educationRank":"75",
+    "healthScore":"29324.90541",
+    "healthRank":"5",
+    "crimeScore":"23024.2973",
+    "crimeRank":"67",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"190",
+    "areaName":"Gosport District",
+    "educationScore":"11857.51923",
+    "educationRank":"270",
+    "healthScore":"18596.65385",
+    "healthRank":"161",
+    "crimeScore":"13955.21154",
+    "crimeRank":"242",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"191",
+    "areaName":"Hart District",
+    "educationScore":"26088.92453",
+    "educationRank":"8",
+    "healthScore":"31393.22642",
+    "healthRank":"1",
+    "crimeScore":"24350.77358",
+    "crimeRank":"47",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"192",
+    "areaName":"Havant District",
+    "educationScore":"12828.03846",
+    "educationRank":"248",
+    "healthScore":"19682.02564",
+    "healthRank":"149",
+    "crimeScore":"14047.32051",
+    "crimeRank":"239",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"193",
+    "areaName":"New Forest District",
+    "educationScore":"19257.30702",
+    "educationRank":"98",
+    "healthScore":"24821.14035",
+    "healthRank":"58",
+    "crimeScore":"19999.5",
+    "crimeRank":"133",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"194",
+    "areaName":"Rushmoor District",
+    "educationScore":"15452",
+    "educationRank":"188",
+    "healthScore":"20861.83051",
+    "healthRank":"131",
+    "crimeScore":"17980.22034",
+    "crimeRank":"166",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"195",
+    "areaName":"Test Valley District",
+    "educationScore":"20215.08571",
+    "educationRank":"85",
+    "healthScore":"26223.21429",
+    "healthRank":"42",
+    "crimeScore":"19680.01429",
+    "crimeRank":"138",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"196",
+    "areaName":"Winchester District",
+    "educationScore":"25337.97101",
+    "educationRank":"16",
+    "healthScore":"26281.37681",
+    "healthRank":"40",
+    "crimeScore":"22170.88406",
+    "crimeRank":"81",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"197",
+    "areaName":"Broxbourne District",
+    "educationScore":"13466.78571",
+    "educationRank":"229",
+    "healthScore":"23658.125",
+    "healthRank":"81",
+    "crimeScore":"13708.375",
+    "crimeRank":"246",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"198",
+    "areaName":"Dacorum District",
+    "educationScore":"19880.27957",
+    "educationRank":"87",
+    "healthScore":"25255.03226",
+    "healthRank":"51",
+    "crimeScore":"19081.89247",
+    "crimeRank":"153",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"199",
+    "areaName":"East Hertfordshire District",
+    "educationScore":"24892.51765",
+    "educationRank":"19",
+    "healthScore":"27771.68235",
+    "healthRank":"18",
+    "crimeScore":"22735.98824",
+    "crimeRank":"68",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"200",
+    "areaName":"Hertsmere District",
+    "educationScore":"20972.12903",
+    "educationRank":"74",
+    "healthScore":"25290.20968",
+    "healthRank":"50",
+    "crimeScore":"18896.35484",
+    "crimeRank":"155",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"201",
+    "areaName":"North Hertfordshire District",
+    "educationScore":"21319.60759",
+    "educationRank":"67",
+    "healthScore":"24465",
+    "healthRank":"64",
+    "crimeScore":"21358.8481",
+    "crimeRank":"97",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"202",
+    "areaName":"St. Albans District",
+    "educationScore":"27317.83721",
+    "educationRank":"3",
+    "healthScore":"28150.5814",
+    "healthRank":"14",
+    "crimeScore":"20215.68605",
+    "crimeRank":"128",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"203",
+    "areaName":"Stevenage District",
+    "educationScore":"12381.32692",
+    "educationRank":"259",
+    "healthScore":"19501.76923",
+    "healthRank":"153",
+    "crimeScore":"15508.51923",
+    "crimeRank":"213",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"204",
+    "areaName":"Three Rivers District",
+    "educationScore":"22509.58491",
+    "educationRank":"40",
+    "healthScore":"28322.83019",
+    "healthRank":"10",
+    "crimeScore":"22466.54717",
+    "crimeRank":"73",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"205",
+    "areaName":"Watford District",
+    "educationScore":"19228.0566",
+    "educationRank":"100",
+    "healthScore":"18536.41509",
+    "healthRank":"164",
+    "crimeScore":"17544.30189",
+    "crimeRank":"177",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"206",
+    "areaName":"Welwyn Hatfield District",
+    "educationScore":"19204.96875",
+    "educationRank":"102",
+    "healthScore":"23716.15625",
+    "healthRank":"80",
+    "crimeScore":"19498.125",
+    "crimeRank":"143",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"207",
+    "areaName":"Ashford District",
+    "educationScore":"15390.21429",
+    "educationRank":"189",
+    "healthScore":"20387.52857",
+    "healthRank":"141",
+    "crimeScore":"20767.12857",
+    "crimeRank":"114",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"208",
+    "areaName":"Canterbury District",
+    "educationScore":"17087.7",
+    "educationRank":"160",
+    "healthScore":"15321.47778",
+    "healthRank":"202",
+    "crimeScore":"21245.53333",
+    "crimeRank":"99",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"209",
+    "areaName":"Dartford District",
+    "educationScore":"14422.72414",
+    "educationRank":"209",
+    "healthScore":"23149.87931",
+    "healthRank":"88",
+    "crimeScore":"12463.86207",
+    "crimeRank":"267",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"210",
+    "areaName":"Dover District",
+    "educationScore":"14380.50746",
+    "educationRank":"212",
+    "healthScore":"13979.92537",
+    "healthRank":"223",
+    "crimeScore":"20469.25373",
+    "crimeRank":"122",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"211",
+    "areaName":"Gravesham District",
+    "educationScore":"12703.1746",
+    "educationRank":"250",
+    "healthScore":"21970.11111",
+    "healthRank":"110",
+    "crimeScore":"12524.12698",
+    "crimeRank":"265",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"212",
+    "areaName":"Maidstone District",
+    "educationScore":"18031.57609",
+    "educationRank":"132",
+    "healthScore":"21124.45652",
+    "healthRank":"126",
+    "crimeScore":"20491.15217",
+    "crimeRank":"121",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"213",
+    "areaName":"Sevenoaks District",
+    "educationScore":"20599.51351",
+    "educationRank":"78",
+    "healthScore":"27431.10811",
+    "healthRank":"22",
+    "crimeScore":"21965.04054",
+    "crimeRank":"86",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"214",
+    "areaName":"Shepway District",
+    "educationScore":"13040.72308",
+    "educationRank":"242",
+    "healthScore":"12334.53846",
+    "healthRank":"241",
+    "crimeScore":"20082.44615",
+    "crimeRank":"129",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"215",
+    "areaName":"Swale District",
+    "educationScore":"10680.23171",
+    "educationRank":"292",
+    "healthScore":"14172.56098",
+    "healthRank":"218",
+    "crimeScore":"13987.26829",
+    "crimeRank":"241",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"216",
+    "areaName":"Thanet District",
+    "educationScore":"11583.82143",
+    "educationRank":"277",
+    "healthScore":"11553.15476",
+    "healthRank":"252",
+    "crimeScore":"15187.13095",
+    "crimeRank":"225",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"217",
+    "areaName":"Tonbridge and Malling District",
+    "educationScore":"19072.28571",
+    "educationRank":"103",
+    "healthScore":"25114.01429",
+    "healthRank":"55",
+    "crimeScore":"23419.8",
+    "crimeRank":"60",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"218",
+    "areaName":"Tunbridge Wells District",
+    "educationScore":"23065.11765",
+    "educationRank":"33",
+    "healthScore":"20751.38235",
+    "healthRank":"133",
+    "crimeScore":"23811.5",
+    "crimeRank":"53",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"219",
+    "areaName":"Burnley District",
+    "educationScore":"9683.05",
+    "educationRank":"308",
+    "healthScore":"5253.75",
+    "healthRank":"319",
+    "crimeScore":"8528.633333",
+    "crimeRank":"303",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"220",
+    "areaName":"Chorley District",
+    "educationScore":"18481.22727",
+    "educationRank":"119",
+    "healthScore":"10459.5303",
+    "healthRank":"262",
+    "crimeScore":"22222.34848",
+    "crimeRank":"79",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"221",
+    "areaName":"Fylde District",
+    "educationScore":"22548.35294",
+    "educationRank":"39",
+    "healthScore":"17765.17647",
+    "healthRank":"174",
+    "crimeScore":"25721.64706",
+    "crimeRank":"26",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"222",
+    "areaName":"Hyndburn District",
+    "educationScore":"11218.92453",
+    "educationRank":"282",
+    "healthScore":"6746.811321",
+    "healthRank":"304",
+    "crimeScore":"17252",
+    "crimeRank":"182",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"223",
+    "areaName":"Lancaster District",
+    "educationScore":"18014.14607",
+    "educationRank":"133",
+    "healthScore":"10308.04494",
+    "healthRank":"266",
+    "crimeScore":"19733.97753",
+    "crimeRank":"136",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"224",
+    "areaName":"Pendle District",
+    "educationScore":"10335.26316",
+    "educationRank":"300",
+    "healthScore":"7197.087719",
+    "healthRank":"298",
+    "crimeScore":"15364.98246",
+    "crimeRank":"218",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"225",
+    "areaName":"Preston District",
+    "educationScore":"14310.52381",
+    "educationRank":"215",
+    "healthScore":"5919.630952",
+    "healthRank":"313",
+    "crimeScore":"14613.41667",
+    "crimeRank":"234",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"226",
+    "areaName":"Ribble Valley District",
+    "educationScore":"24569.775",
+    "educationRank":"24",
+    "healthScore":"21269.55",
+    "healthRank":"121",
+    "crimeScore":"28660.3",
+    "crimeRank":"4",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"227",
+    "areaName":"Rossendale District",
+    "educationScore":"15359.25",
+    "educationRank":"190",
+    "healthScore":"7525.931818",
+    "healthRank":"294",
+    "crimeScore":"17335.77273",
+    "crimeRank":"179",
+    "areaGov":"North West"
+  }
+  {
+    "areaID":"228",
+    "areaName":"South Ribble District",
+    "educationScore":"18467.36232",
+    "educationRank":"120",
+    "healthScore":"12570.78261",
+    "healthRank":"236",
+    "crimeScore":"20871.85507",
+    "crimeRank":"112",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"229",
+    "areaName":"West Lancashire District",
+    "educationScore":"18007.16438",
+    "educationRank":"134",
+    "healthScore":"11644.39726",
+    "healthRank":"251",
+    "crimeScore":"20675.57534",
+    "crimeRank":"117",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"230",
+    "areaName":"Wyre District",
+    "educationScore":"16978.91304",
+    "educationRank":"165",
+    "healthScore":"16077.97101",
+    "healthRank":"195",
+    "crimeScore":"22607.21739",
+    "crimeRank":"69",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"231",
+    "areaName":"Blaby District",
+    "educationScore":"16909.38333",
+    "educationRank":"166",
+    "healthScore":"23224.43333",
+    "healthRank":"85",
+    "crimeScore":"18731.91667",
+    "crimeRank":"158",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"232",
+    "areaName":"Charnwood District",
+    "educationScore":"17450.12",
+    "educationRank":"147",
+    "healthScore":"21140.72",
+    "healthRank":"125",
+    "crimeScore":"15352.75",
+    "crimeRank":"219",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"233",
+    "areaName":"Harborough District",
+    "educationScore":"22611.91489",
+    "educationRank":"38",
+    "healthScore":"26393.38298",
+    "healthRank":"39",
+    "crimeScore":"24156.31915",
+    "crimeRank":"48",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"234",
+    "areaName":"Hinckley and Bosworth District",
+    "educationScore":"15823.95455",
+    "educationRank":"184",
+    "healthScore":"22842.86364",
+    "healthRank":"95",
+    "crimeScore":"20048.5",
+    "crimeRank":"130",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"235",
+    "areaName":"Melton District",
+    "educationScore":"17409",
+    "educationRank":"149",
+    "healthScore":"26252.46667",
+    "healthRank":"41",
+    "crimeScore":"17978.06667",
+    "crimeRank":"167",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"236",
+    "areaName":"North West Leicestershire District",
+    "educationScore":"14359.82456",
+    "educationRank":"213",
+    "healthScore":"16871.50877",
+    "healthRank":"186",
+    "crimeScore":"16127.73684",
+    "crimeRank":"197",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"237",
+    "areaName":"Oadby and Wigston District",
+    "educationScore":"18039.88889",
+    "educationRank":"131",
+    "healthScore":"21322.11111",
+    "healthRank":"120",
+    "crimeScore":"22085.77778",
+    "crimeRank":"82",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"238",
+    "areaName":"Boston District",
+    "educationScore":"9813.388889",
+    "educationRank":"307",
+    "healthScore":"12725.47222",
+    "healthRank":"233",
+    "crimeScore":"18250.19444",
+    "crimeRank":"162",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"239",
+    "areaName":"East Lindsey District",
+    "educationScore":"12338.3",
+    "educationRank":"261",
+    "healthScore":"11463.4125",
+    "healthRank":"255",
+    "crimeScore":"21461.0875",
+    "crimeRank":"95",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"240",
+    "areaName":"Lincoln District",
+    "educationScore":"12977.26316",
+    "educationRank":"243",
+    "healthScore":"7704.035088",
+    "healthRank":"292",
+    "crimeScore":"11786.10526",
+    "crimeRank":"270",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"241",
+    "areaName":"North Kesteven District",
+    "educationScore":"18955.68333",
+    "educationRank":"107",
+    "healthScore":"22286.13333",
+    "healthRank":"104",
+    "crimeScore":"26491.13333",
+    "crimeRank":"17",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"242",
+    "areaName":"South Holland District",
+    "educationScore":"10775.125",
+    "educationRank":"290",
+    "healthScore":"20253.3125",
+    "healthRank":"144",
+    "crimeScore":"20438.22917",
+    "crimeRank":"123",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"243",
+    "areaName":"South Kesteven District",
+    "educationScore":"18667.13924",
+    "educationRank":"114",
+    "healthScore":"23149.46835",
+    "healthRank":"89",
+    "crimeScore":"21685.6962",
+    "crimeRank":"91",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"244",
+    "areaName":"West Lindsey District",
+    "educationScore":"17773.84906",
+    "educationRank":"141",
+    "healthScore":"16425.77358",
+    "healthRank":"190",
+    "crimeScore":"22471.43396",
+    "crimeRank":"72",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"245",
+    "areaName":"Breckland District",
+    "educationScore":"11873.75641",
+    "educationRank":"267",
+    "healthScore":"23135.96154",
+    "healthRank":"90",
+    "crimeScore":"26472.41026",
+    "crimeRank":"18",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"246",
+    "areaName":"Broadland District",
+    "educationScore":"16989.32143",
+    "educationRank":"164",
+    "healthScore":"27197.02381",
+    "healthRank":"27",
+    "crimeScore":"29434.39286",
+    "crimeRank":"3",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"247",
+    "areaName":"Great Yarmouth District",
+    "educationScore":"8675.557377",
+    "educationRank":"317",
+    "healthScore":"16021.36066",
+    "healthRank":"196",
+    "crimeScore":"19216.31148",
+    "crimeRank":"149",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"248",
+    "areaName":"King's Lynn and West Norfolk District",
+    "educationScore":"10678.83908",
+    "educationRank":"293",
+    "healthScore":"14540.33333",
+    "healthRank":"212",
+    "crimeScore":"24649.64368",
+    "crimeRank":"39",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"249",
+    "areaName":"North Norfolk District",
+    "educationScore":"11519.41935",
+    "educationRank":"278",
+    "healthScore":"20892.67742",
+    "healthRank":"130",
+    "crimeScore":"27154.82258",
+    "crimeRank":"14",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"250",
+    "areaName":"Norwich District",
+    "educationScore":"11716.51899",
+    "educationRank":"273",
+    "healthScore":"14261.89873",
+    "healthRank":"215",
+    "crimeScore":"13278.22785",
+    "crimeRank":"253",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"251",
+    "areaName":"South Norfolk District",
+    "educationScore":"18559.60759",
+    "educationRank":"117",
+    "healthScore":"26919.08861",
+    "healthRank":"31",
+    "crimeScore":"27899.11392",
+    "crimeRank":"6",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"252",
+    "areaName":"Corby District",
+    "educationScore":"8029.135135",
+    "educationRank":"322",
+    "healthScore":"7763.783784",
+    "healthRank":"291",
+    "crimeScore":"7718.72973",
+    "crimeRank":"312",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"253",
+    "areaName":"Daventry District",
+    "educationScore":"20576.4",
+    "educationRank":"79",
+    "healthScore":"21847.64444",
+    "healthRank":"114",
+    "crimeScore":"17938.35556",
+    "crimeRank":"170",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"254",
+    "areaName":"East Northamptonshire District",
+    "educationScore":"16811.08333",
+    "educationRank":"169",
+    "healthScore":"24485.95833",
+    "healthRank":"60",
+    "crimeScore":"16614.52083",
+    "crimeRank":"190",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"255",
+    "areaName":"Kettering District",
+    "educationScore":"15282.92453",
+    "educationRank":"191",
+    "healthScore":"19506.75472",
+    "healthRank":"152",
+    "crimeScore":"16498.32075",
+    "crimeRank":"191",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"256",
+    "areaName":"Northampton District",
+    "educationScore":"12486.50388",
+    "educationRank":"257",
+    "healthScore":"13487.09302",
+    "healthRank":"226",
+    "crimeScore":"10617.72868",
+    "crimeRank":"286",
+    "areaGov":"North East"
+  }
+  {
+    "areaID":"257",
+    "areaName":"South Northamptonshire District",
+    "educationScore":"22140.79167",
+    "educationRank":"51",
+    "healthScore":"27691",
+    "healthRank":"19",
+    "crimeScore":"25324.375",
+    "crimeRank":"32",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"258",
+    "areaName":"Wellingborough District",
+    "educationScore":"12277.59574",
+    "educationRank":"262",
+    "healthScore":"18143.31915",
+    "healthRank":"169",
+    "crimeScore":"10544.61702",
+    "crimeRank":"287",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"259",
+    "areaName":"Craven District",
+    "educationScore":"22000.53125",
+    "educationRank":"53",
+    "healthScore":"21032.375",
+    "healthRank":"128",
+    "crimeScore":"26981.28125",
+    "crimeRank":"15",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"260",
+    "areaName":"Hambleton District",
+    "educationScore":"21932.35294",
+    "educationRank":"55",
+    "healthScore":"23922.41176",
+    "healthRank":"73",
+    "crimeScore":"25714.5098",
+    "crimeRank":"27",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"261",
+    "areaName":"Harrogate District",
+    "educationScore":"23771.39423",
+    "educationRank":"27",
+    "healthScore":"22608.79808",
+    "healthRank":"98",
+    "crimeScore":"25472.06731",
+    "crimeRank":"31",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"262",
+    "areaName":"Richmondshire District",
+    "educationScore":"19732.125",
+    "educationRank":"88",
+    "healthScore":"22474.875",
+    "healthRank":"101",
+    "crimeScore":"26396.34375",
+    "crimeRank":"20",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"263",
+    "areaName":"Ryedale District",
+    "educationScore":"18114.23333",
+    "educationRank":"129",
+    "healthScore":"24895.56667",
+    "healthRank":"57",
+    "crimeScore":"27502.13333",
+    "crimeRank":"11",
+    "areaGov":"Yorkshire and The Humber"
+  }
+  {
+    "areaID":"264",
+    "areaName":"Scarborough District",
+    "educationScore":"14383.83099",
+    "educationRank":"211",
+    "healthScore":"10716.35211",
+    "healthRank":"259",
+    "crimeScore":"20678.14085",
+    "crimeRank":"116",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"265",
+    "areaName":"Selby District",
+    "educationScore":"17243.62",
+    "educationRank":"155",
+    "healthScore":"24467.48",
+    "healthRank":"62",
+    "crimeScore":"21008.92",
+    "crimeRank":"107",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"266",
+    "areaName":"Ashfield District",
+    "educationScore":"7969.162162",
+    "educationRank":"323",
+    "healthScore":"10909.74324",
+    "healthRank":"258",
+    "crimeScore":"7946.797297",
+    "crimeRank":"309",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"267",
+    "areaName":"Bassetlaw District",
+    "educationScore":"11599.9",
+    "educationRank":"276",
+    "healthScore":"9272.914286",
+    "healthRank":"279",
+    "crimeScore":"11399.54286",
+    "crimeRank":"275",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"268",
+    "areaName":"Broxtowe District",
+    "educationScore":"17757.94521",
+    "educationRank":"142",
+    "healthScore":"21247.64384",
+    "healthRank":"122",
+    "crimeScore":"15026.9863",
+    "crimeRank":"231",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"269",
+    "areaName":"Gedling District",
+    "educationScore":"17203.93506",
+    "educationRank":"158",
+    "healthScore":"18145.67532",
+    "healthRank":"168",
+    "crimeScore":"14809.14286",
+    "crimeRank":"233",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"270",
+    "areaName":"Mansfield District",
+    "educationScore":"8340.984848",
+    "educationRank":"319",
+    "healthScore":"8583.727273",
+    "healthRank":"282",
+    "crimeScore":"8405.545455",
+    "crimeRank":"305",
+    "areaGov":"East Midlands"
+  }
+  {
+    "areaID":"271",
+    "areaName":"Newark and Sherwood District",
+    "educationScore":"14758.21739",
+    "educationRank":"204",
+    "healthScore":"14956.17391",
+    "healthRank":"208",
+    "crimeScore":"15441.92754",
+    "crimeRank":"217",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"272",
+    "areaName":"Rushcliffe District",
+    "educationScore":"25873.10294",
+    "educationRank":"12",
+    "healthScore":"27488.33824",
+    "healthRank":"21",
+    "crimeScore":"20407.35294",
+    "crimeRank":"124",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"273",
+    "areaName":"Cherwell District",
+    "educationScore":"17340.37363",
+    "educationRank":"151",
+    "healthScore":"21201.08791",
+    "healthRank":"124",
+    "crimeScore":"21696.83516",
+    "crimeRank":"90",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"274",
+    "areaName":"Oxford District",
+    "educationScore":"18219.65882",
+    "educationRank":"124",
+    "healthScore":"15660.29412",
+    "healthRank":"200",
+    "crimeScore":"9661",
+    "crimeRank":"297",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"275",
+    "areaName":"South Oxfordshire District",
+    "educationScore":"22430.08989",
+    "educationRank":"44",
+    "healthScore":"26183.74157",
+    "healthRank":"43",
+    "crimeScore":"22339.33708",
+    "crimeRank":"76",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"276",
+    "areaName":"Vale of White Horse District",
+    "educationScore":"22486.74667",
+    "educationRank":"41",
+    "healthScore":"27841.22667",
+    "healthRank":"17",
+    "crimeScore":"24434.26667",
+    "crimeRank":"45",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"277",
+    "areaName":"West Oxfordshire District",
+    "educationScore":"21496.9375",
+    "educationRank":"63",
+    "healthScore":"26716.29688",
+    "healthRank":"35",
+    "crimeScore":"23686.95313",
+    "crimeRank":"55",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"278",
+    "areaName":"Mendip District",
+    "educationScore":"17079.32836",
+    "educationRank":"161",
+    "healthScore":"18437.34328",
+    "healthRank":"166",
+    "crimeScore":"21577.49254",
+    "crimeRank":"92",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"279",
+    "areaName":"Sedgemoor District",
+    "educationScore":"14618.89706",
+    "educationRank":"206",
+    "healthScore":"17871.92647",
+    "healthRank":"172",
+    "crimeScore":"20322.61765",
+    "crimeRank":"126",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"280",
+    "areaName":"South Somerset District",
+    "educationScore":"16443.37864",
+    "educationRank":"178",
+    "healthScore":"21240.53398",
+    "healthRank":"123",
+    "crimeScore":"21232.71845",
+    "crimeRank":"100",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"281",
+    "areaName":"Taunton Deane District",
+    "educationScore":"18522.95455",
+    "educationRank":"118",
+    "healthScore":"17522.51515",
+    "healthRank":"177",
+    "crimeScore":"19600.10606",
+    "crimeRank":"141",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"282",
+    "areaName":"West Somerset District",
+    "educationScore":"13449.69565",
+    "educationRank":"231",
+    "healthScore":"12286.73913",
+    "healthRank":"242",
+    "crimeScore":"23951.91304",
+    "crimeRank":"50",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"283",
+    "areaName":"Cannock Chase District",
+    "educationScore":"10394.53333",
+    "educationRank":"298",
+    "healthScore":"14010.5",
+    "healthRank":"221",
+    "crimeScore":"17216.55",
+    "crimeRank":"184",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"284",
+    "areaName":"East Staffordshire District",
+    "educationScore":"16101.15714",
+    "educationRank":"181",
+    "healthScore":"16282.1",
+    "healthRank":"193",
+    "crimeScore":"19206.07143",
+    "crimeRank":"150",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"285",
+    "areaName":"Lichfield District",
+    "educationScore":"19445.59649",
+    "educationRank":"93",
+    "healthScore":"22150.78947",
+    "healthRank":"107",
+    "crimeScore":"20909.26316",
+    "crimeRank":"110",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"286",
+    "areaName":"Newcastle-under-Lyme District",
+    "educationScore":"15025.75309",
+    "educationRank":"197",
+    "healthScore":"13537.98765",
+    "healthRank":"225",
+    "crimeScore":"17904.32099",
+    "crimeRank":"171",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"287",
+    "areaName":"South Staffordshire District",
+    "educationScore":"18128.14706",
+    "educationRank":"128",
+    "healthScore":"24365.58824",
+    "healthRank":"65",
+    "crimeScore":"19646.97059",
+    "crimeRank":"139",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"288",
+    "areaName":"Stafford District",
+    "educationScore":"20668.025",
+    "educationRank":"77",
+    "healthScore":"20667.0125",
+    "healthRank":"136",
+    "crimeScore":"22236.825",
+    "crimeRank":"78",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"289",
+    "areaName":"Staffordshire Moorlands District",
+    "educationScore":"16825.54237",
+    "educationRank":"168",
+    "healthScore":"17166.62712",
+    "healthRank":"183",
+    "crimeScore":"20249.57627",
+    "crimeRank":"127",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"290",
+    "areaName":"Tamworth District",
+    "educationScore":"10461.86",
+    "educationRank":"297",
+    "healthScore":"17623.7",
+    "healthRank":"175",
+    "crimeScore":"14022.2",
+    "crimeRank":"240",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"291",
+    "areaName":"Babergh District",
+    "educationScore":"18044.92593",
+    "educationRank":"130",
+    "healthScore":"23328.77778",
+    "healthRank":"84",
+    "crimeScore":"23943.05556",
+    "crimeRank":"51",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"292",
+    "areaName":"Forest Heath District",
+    "educationScore":"13404.17647",
+    "educationRank":"234",
+    "healthScore":"24330",
+    "healthRank":"66",
+    "crimeScore":"19400.47059",
+    "crimeRank":"146",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"293",
+    "areaName":"Ipswich District",
+    "educationScore":"11629.62025",
+    "educationRank":"275",
+    "healthScore":"14685.63291",
+    "healthRank":"211",
+    "crimeScore":"12645.21519",
+    "crimeRank":"261",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"294",
+    "areaName":"Mid Suffolk District",
+    "educationScore":"19232.03704",
+    "educationRank":"99",
+    "healthScore":"28237.92593",
+    "healthRank":"11",
+    "crimeScore":"27665.59259",
+    "crimeRank":"8",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"295",
+    "areaName":"St. Edmundsbury District",
+    "educationScore":"17525.55738",
+    "educationRank":"144",
+    "healthScore":"21051.47541",
+    "healthRank":"127",
+    "crimeScore":"23368.78689",
+    "crimeRank":"62",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"296",
+    "areaName":"Suffolk Coastal District",
+    "educationScore":"18976.46479",
+    "educationRank":"106",
+    "healthScore":"24288.28169",
+    "healthRank":"69",
+    "crimeScore":"26026.5493",
+    "crimeRank":"23",
+    "areaGov":"East of England"
+  }
+  {
+    "areaID":"297",
+    "areaName":"Waveney District",
+    "educationScore":"10493.45205",
+    "educationRank":"296",
+    "healthScore":"18451.9589",
+    "healthRank":"165",
+    "crimeScore":"21093.36986",
+    "crimeRank":"104",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"298",
+    "areaName":"Elmbridge District",
+    "educationScore":"26000.23457",
+    "educationRank":"9",
+    "healthScore":"29067.1358",
+    "healthRank":"6",
+    "crimeScore":"20767.67901",
+    "crimeRank":"113",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"299",
+    "areaName":"Epsom and Ewell District",
+    "educationScore":"24671.90909",
+    "educationRank":"23",
+    "healthScore":"27093.02273",
+    "healthRank":"28",
+    "crimeScore":"22345.59091",
+    "crimeRank":"75",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"300",
+    "areaName":"Guildford District",
+    "educationScore":"23070.22619",
+    "educationRank":"32",
+    "healthScore":"26442.03571",
+    "healthRank":"38",
+    "crimeScore":"21441.86905",
+    "crimeRank":"96",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"301",
+    "areaName":"Mole Valley District",
+    "educationScore":"25388.85185",
+    "educationRank":"15",
+    "healthScore":"27293",
+    "healthRank":"25",
+    "crimeScore":"25762.51852",
+    "crimeRank":"25",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"302",
+    "areaName":"Reigate and Banstead District",
+    "educationScore":"21748.01163",
+    "educationRank":"61",
+    "healthScore":"23839.45349",
+    "healthRank":"77",
+    "crimeScore":"20623.90698",
+    "crimeRank":"118",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"303",
+    "areaName":"Runnymede District",
+    "educationScore":"20333.69231",
+    "educationRank":"82",
+    "healthScore":"25571.53846",
+    "healthRank":"48",
+    "crimeScore":"19695.80769",
+    "crimeRank":"137",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"304",
+    "areaName":"Spelthorne District",
+    "educationScore":"18200.98333",
+    "educationRank":"125",
+    "healthScore":"24521.7",
+    "healthRank":"59",
+    "crimeScore":"15080.05",
+    "crimeRank":"229",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"305",
+    "areaName":"Surrey Heath District",
+    "educationScore":"24695.32727",
+    "educationRank":"22",
+    "healthScore":"28191.74545",
+    "healthRank":"12",
+    "crimeScore":"25056.85455",
+    "crimeRank":"36",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"306",
+    "areaName":"Tandridge District",
+    "educationScore":"21821.54",
+    "educationRank":"57",
+    "healthScore":"26883.66",
+    "healthRank":"32",
+    "crimeScore":"19170.84",
+    "crimeRank":"151",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"307",
+    "areaName":"Waverley District",
+    "educationScore":"25682.53659",
+    "educationRank":"13",
+    "healthScore":"26676.68293",
+    "healthRank":"36",
+    "crimeScore":"25498.76829",
+    "crimeRank":"30",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"308",
+    "areaName":"Woking District",
+    "educationScore":"22833.04918",
+    "educationRank":"35",
+    "healthScore":"22827.39344",
+    "healthRank":"96",
+    "crimeScore":"19168.14754",
+    "crimeRank":"152",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"309",
+    "areaName":"North Warwickshire District",
+    "educationScore":"13073.92105",
+    "educationRank":"241",
+    "healthScore":"18569.71053",
+    "healthRank":"163",
+    "crimeScore":"17948.92105",
+    "crimeRank":"168",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"310",
+    "areaName":"Nuneaton and Bedworth District",
+    "educationScore":"11163.81707",
+    "educationRank":"284",
+    "healthScore":"12662.5122",
+    "healthRank":"234",
+    "crimeScore":"12834.86585",
+    "crimeRank":"257",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"311",
+    "areaName":"Rugby District",
+    "educationScore":"18220.53448",
+    "educationRank":"123",
+    "healthScore":"19767.7069",
+    "healthRank":"147",
+    "crimeScore":"16999.25862",
+    "crimeRank":"185",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"312",
+    "areaName":"Stratford-on-Avon District",
+    "educationScore":"23239.04225",
+    "educationRank":"29",
+    "healthScore":"22552.59155",
+    "healthRank":"99",
+    "crimeScore":"24435.70423",
+    "crimeRank":"44",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"313",
+    "areaName":"Warwick District",
+    "educationScore":"22402.67857",
+    "educationRank":"45",
+    "healthScore":"21777.45238",
+    "healthRank":"115",
+    "crimeScore":"19790.17857",
+    "crimeRank":"134",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"314",
+    "areaName":"Adur District",
+    "educationScore":"11150.7619",
+    "educationRank":"285",
+    "healthScore":"13358.02381",
+    "healthRank":"230",
+    "crimeScore":"21531.30952",
+    "crimeRank":"94",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"315",
+    "areaName":"Arun District",
+    "educationScore":"14719.15957",
+    "educationRank":"205",
+    "healthScore":"15841.29787",
+    "healthRank":"197",
+    "crimeScore":"20491.38298",
+    "crimeRank":"120",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"316",
+    "areaName":"Chichester District",
+    "educationScore":"20282.44444",
+    "educationRank":"83",
+    "healthScore":"22651.11111",
+    "healthRank":"97",
+    "crimeScore":"23594.91667",
+    "crimeRank":"56",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"317",
+    "areaName":"Crawley District",
+    "educationScore":"13433.81538",
+    "educationRank":"232",
+    "healthScore":"19418.12308",
+    "healthRank":"155",
+    "crimeScore":"16001.78462",
+    "crimeRank":"201",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"318",
+    "areaName":"Horsham District",
+    "educationScore":"24756.37037",
+    "educationRank":"21",
+    "healthScore":"26825.66667",
+    "healthRank":"33",
+    "crimeScore":"25691",
+    "crimeRank":"28",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"319",
+    "areaName":"Mid Sussex District",
+    "educationScore":"23830.38095",
+    "educationRank":"26",
+    "healthScore":"25633.97619",
+    "healthRank":"47",
+    "crimeScore":"25853.70238",
+    "crimeRank":"24",
+    "areaGov":"South East"
+  }
+  {
+    "areaID":"320",
+    "areaName":"Worthing District",
+    "educationScore":"17332.6",
+    "educationRank":"152",
+    "healthScore":"12557.6",
+    "healthRank":"237",
+    "crimeScore":"21043.87692",
+    "crimeRank":"105",
+    "areaGov":"South West"
+  }
+  {
+    "areaID":"321",
+    "areaName":"Bromsgrove District",
+    "educationScore":"21769.31579",
+    "educationRank":"58",
+    "healthScore":"21648.14035",
+    "healthRank":"116",
+    "crimeScore":"20571.40351",
+    "crimeRank":"119",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"322",
+    "areaName":"Malvern Hills District",
+    "educationScore":"22840.91111",
+    "educationRank":"34",
+    "healthScore":"20352.26667",
+    "healthRank":"143",
+    "crimeScore":"24999.55556",
+    "crimeRank":"37",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"323",
+    "areaName":"Redditch District",
+    "educationScore":"12816.29091",
+    "educationRank":"249",
+    "healthScore":"10302.18182",
+    "healthRank":"267",
+    "crimeScore":"18047.90909",
+    "crimeRank":"165",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"324",
+    "areaName":"Worcester District",
+    "educationScore":"16806.32787",
+    "educationRank":"172",
+    "healthScore":"15580.68852",
+    "healthRank":"201",
+    "crimeScore":"15816.67213",
+    "crimeRank":"205",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"325",
+    "areaName":"Wychavon District",
+    "educationScore":"18955.39744",
+    "educationRank":"108",
+    "healthScore":"22012.48718",
+    "healthRank":"109",
+    "crimeScore":"24440.89744",
+    "crimeRank":"43",
+    "areaGov":"West Midlands"
+  }
+  {
+    "areaID":"326",
+    "areaName":"Wyre Forest District",
+    "educationScore":"13423.53846",
+    "educationRank":"233",
+    "healthScore":"16699.58462",
+    "healthRank":"189",
+    "crimeScore":"15587.72308",
+    "crimeRank":"210",
+    "areaGov":"West Midlands"
+  }
