@@ -1,4 +1,4 @@
-  {
+[{
     "areaID":"1",
     "areaName":"City of London",
     "educationScore":"26711.6",
@@ -8,7 +8,7 @@
     "crimeScore":"30753.6",
     "crimeRank":"2",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"2",
     "areaName":"Barking and Dagenham",
@@ -19,7 +19,7 @@
     "crimeScore":"6632.330275",
     "crimeRank":"317",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"3",
     "areaName":"Barnet",
@@ -30,7 +30,7 @@
     "crimeScore":"13562.22857",
     "crimeRank":"249",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"4",
     "areaName":"Bexley",
@@ -41,7 +41,7 @@
     "crimeScore":"15812.46575",
     "crimeRank":"206",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"5",
     "areaName":"Brent",
@@ -52,7 +52,7 @@
     "crimeScore":"8747.867816",
     "crimeRank":"302",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"6",
     "areaName":"Bromley",
@@ -63,7 +63,7 @@
     "crimeScore":"12352.6599",
     "crimeRank":"269",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"7",
     "areaName":"Camden",
@@ -74,7 +74,7 @@
     "crimeScore":"12672.66165",
     "crimeRank":"259",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"8",
     "areaName":"Croydon",
@@ -85,7 +85,7 @@
     "crimeScore":"11528.17727",
     "crimeRank":"274",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"9",
     "areaName":"Ealing",
@@ -96,7 +96,7 @@
     "crimeScore":"10204.66154",
     "crimeRank":"290",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"10",
     "areaName":"Enfield",
@@ -107,7 +107,7 @@
     "crimeScore":"11713.64641",
     "crimeRank":"271",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"11",
     "areaName":"Greenwich",
@@ -118,7 +118,7 @@
     "crimeScore":"5083.370629",
     "crimeRank":"323",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"12",
     "areaName":"Hackney",
@@ -129,7 +129,7 @@
     "crimeScore":"7519.890511",
     "crimeRank":"313",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"13",
     "areaName":"Hammersmith and Fulham",
@@ -140,7 +140,7 @@
     "crimeScore":"9060.522523",
     "crimeRank":"300",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"14",
     "areaName":"Haringey",
@@ -151,7 +151,7 @@
     "crimeScore":"5588.541667",
     "crimeRank":"320",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"15",
     "areaName":"Harrow",
@@ -162,7 +162,7 @@
     "crimeScore":"16198.47445",
     "crimeRank":"195",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"16",
     "areaName":"Havering",
@@ -173,7 +173,7 @@
     "crimeScore":"15499.24832",
     "crimeRank":"215",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"17",
     "areaName":"Hillingdon",
@@ -184,7 +184,7 @@
     "crimeScore":"10784.31902",
     "crimeRank":"283",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"18",
     "areaName":"Hounslow",
@@ -195,7 +195,7 @@
     "crimeScore":"11072.2518",
     "crimeRank":"280",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"19",
     "areaName":"Islington",
@@ -206,7 +206,7 @@
     "crimeScore":"6851.788136",
     "crimeRank":"316",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"20",
     "areaName":"Kensington and Chelsea",
@@ -217,7 +217,7 @@
     "crimeScore":"15448.03883",
     "crimeRank":"216",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"21",
     "areaName":"Kingston upon Thames",
@@ -228,7 +228,7 @@
     "crimeScore":"20987.5567",
     "crimeRank":"108",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"22",
     "areaName":"Lambeth",
@@ -239,7 +239,7 @@
     "crimeScore":"8239.028249",
     "crimeRank":"307",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"23",
     "areaName":"Lewisham",
@@ -250,7 +250,7 @@
     "crimeScore":"5990.542169",
     "crimeRank":"319",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"24",
     "areaName":"Merton",
@@ -261,7 +261,7 @@
     "crimeScore":"15508.03226",
     "crimeRank":"214",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"25",
     "areaName":"Newham",
@@ -272,7 +272,7 @@
     "crimeScore":"4089.735849",
     "crimeRank":"326",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"26",
     "areaName":"Redbridge",
@@ -283,7 +283,7 @@
     "crimeScore":"10495.23899",
     "crimeRank":"288",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"27",
     "areaName":"Richmond upon Thames",
@@ -294,7 +294,7 @@
     "crimeScore":"18771.07018",
     "crimeRank":"157",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"28",
     "areaName":"Southwark",
@@ -305,7 +305,7 @@
     "crimeScore":"7952.218182",
     "crimeRank":"308",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"29",
     "areaName":"Sutton",
@@ -316,7 +316,7 @@
     "crimeScore":"15350.92562",
     "crimeRank":"221",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"30",
     "areaName":"Tower Hamlets",
@@ -327,7 +327,7 @@
     "crimeScore":"9876.030769",
     "crimeRank":"294",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"31",
     "areaName":"Waltham Forest",
@@ -338,7 +338,7 @@
     "crimeScore":"5405.510345",
     "crimeRank":"321",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"32",
     "areaName":"Wandsworth",
@@ -349,7 +349,7 @@
     "crimeScore":"12496.9023",
     "crimeRank":"266",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"33",
     "areaName":"City of Westminster",
@@ -360,7 +360,7 @@
     "crimeScore":"15351.75833",
     "crimeRank":"220",
     "areaGov":"London"
-  }
+  },
   {
     "areaID":"34",
     "areaName":"Bolton District",
@@ -371,7 +371,7 @@
     "crimeScore":"14578.21714",
     "crimeRank":"235",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"35",
     "areaName":"Bury District",
@@ -382,7 +382,7 @@
     "crimeScore":"16455.55833",
     "crimeRank":"192",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"36",
     "areaName":"Manchester District",
@@ -393,7 +393,7 @@
     "crimeScore":"5011.150579",
     "crimeRank":"324",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"37",
     "areaName":"Oldham District",
@@ -404,7 +404,7 @@
     "crimeScore":"15257.65278",
     "crimeRank":"222",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"38",
     "areaName":"Rochdale District",
@@ -415,7 +415,7 @@
     "crimeScore":"8298.185185",
     "crimeRank":"306",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"39",
     "areaName":"Salford District",
@@ -426,7 +426,7 @@
     "crimeScore":"9280.791667",
     "crimeRank":"299",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"40",
     "areaName":"Stockport District",
@@ -437,7 +437,7 @@
     "crimeScore":"16078.71053",
     "crimeRank":"200",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"41",
     "areaName":"Tameside District",
@@ -448,7 +448,7 @@
     "crimeScore":"9883.411348",
     "crimeRank":"293",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"42",
     "areaName":"Trafford District",
@@ -459,7 +459,7 @@
     "crimeScore":"16855.86232",
     "crimeRank":"188",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"43",
     "areaName":"Wigan District",
@@ -470,7 +470,7 @@
     "crimeScore":"15532.8",
     "crimeRank":"211",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"44",
     "areaName":"Knowsley District",
@@ -481,7 +481,7 @@
     "crimeScore":"13847.9697",
     "crimeRank":"243",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"45",
     "areaName":"Liverpool District",
@@ -492,7 +492,7 @@
     "crimeScore":"9826.457045",
     "crimeRank":"295",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"46",
     "areaName":"St. Helens District",
@@ -503,7 +503,7 @@
     "crimeScore":"17579.27119",
     "crimeRank":"176",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"47",
     "areaName":"Sefton District",
@@ -514,7 +514,7 @@
     "crimeScore":"20009.98947",
     "crimeRank":"131",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"48",
     "areaName":"Wirral District",
@@ -525,7 +525,7 @@
     "crimeScore":"22084.71498",
     "crimeRank":"83",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"49",
     "areaName":"Barnsley District",
@@ -536,7 +536,7 @@
     "crimeScore":"15239.01361",
     "crimeRank":"223",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"50",
     "areaName":"Doncaster District",
@@ -547,7 +547,7 @@
     "crimeScore":"8810.476684",
     "crimeRank":"301",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"51",
     "areaName":"Rotherham District",
@@ -558,7 +558,7 @@
     "crimeScore":"12683.4759",
     "crimeRank":"258",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"52",
     "areaName":"Sheffield District",
@@ -569,7 +569,7 @@
     "crimeScore":"10661.86431",
     "crimeRank":"284",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"53",
     "areaName":"Gateshead District",
@@ -580,7 +580,7 @@
     "crimeScore":"17873.07937",
     "crimeRank":"172",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"54",
     "areaName":"Newcastle upon Tyne District",
@@ -591,7 +591,7 @@
     "crimeScore":"15820.3815",
     "crimeRank":"204",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"55",
     "areaName":"North Tyneside District",
@@ -602,7 +602,7 @@
     "crimeScore":"21552.99225",
     "crimeRank":"93",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"56",
     "areaName":"South Tyneside District",
@@ -613,7 +613,7 @@
     "crimeScore":"17647.14563",
     "crimeRank":"175",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"57",
     "areaName":"Sunderland District",
@@ -624,7 +624,7 @@
     "crimeScore":"16453.86702",
     "crimeRank":"193",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"58",
     "areaName":"Birmingham District",
@@ -635,7 +635,7 @@
     "crimeScore":"11317.02652",
     "crimeRank":"277",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"59",
     "areaName":"Coventry District",
@@ -646,7 +646,7 @@
     "crimeScore":"12655.37056",
     "crimeRank":"260",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"60",
     "areaName":"Dudley District",
@@ -657,7 +657,7 @@
     "crimeScore":"18808.5198",
     "crimeRank":"156",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"61",
     "areaName":"Sandwell District",
@@ -668,7 +668,7 @@
     "crimeScore":"12601.85027",
     "crimeRank":"264",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"62",
     "areaName":"Solihull District",
@@ -679,7 +679,7 @@
     "crimeScore":"15643.04511",
     "crimeRank":"209",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"63",
     "areaName":"Walsall District",
@@ -690,7 +690,7 @@
     "crimeScore":"14459.10059",
     "crimeRank":"236",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"64",
     "areaName":"City of Wolverhampton District",
@@ -701,7 +701,7 @@
     "crimeScore":"13231.55063",
     "crimeRank":"254",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"65",
     "areaName":"Bradford District",
@@ -712,7 +712,7 @@
     "crimeScore":"11363.91205",
     "crimeRank":"276",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"66",
     "areaName":"Calderdale District",
@@ -723,7 +723,7 @@
     "crimeScore":"13071.09302",
     "crimeRank":"255",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"67",
     "areaName":"Kirklees District",
@@ -734,7 +734,7 @@
     "crimeScore":"10964.86538",
     "crimeRank":"281",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"68",
     "areaName":"Leeds District",
@@ -745,7 +745,7 @@
     "crimeScore":"11263.82773",
     "crimeRank":"278",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"69",
     "areaName":"Wakefield District",
@@ -756,7 +756,7 @@
     "crimeScore":"12422.70813",
     "crimeRank":"268",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"70",
     "areaName":"Hartlepool",
@@ -767,7 +767,7 @@
     "crimeScore":"15099.05172",
     "crimeRank":"227",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"71",
     "areaName":"Middlesbrough",
@@ -778,7 +778,7 @@
     "crimeScore":"9673.022727",
     "crimeRank":"296",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"72",
     "areaName":"Redcar and Cleveland",
@@ -789,7 +789,7 @@
     "crimeScore":"15723.95652",
     "crimeRank":"208",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"73",
     "areaName":"Stockton-on-Tees",
@@ -800,7 +800,7 @@
     "crimeScore":"19078.99145",
     "crimeRank":"154",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"74",
     "areaName":"Darlington",
@@ -811,7 +811,7 @@
     "crimeScore":"15127.20635",
     "crimeRank":"226",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"75",
     "areaName":"Durham County",
@@ -822,7 +822,7 @@
     "crimeScore":"17258.45938",
     "crimeRank":"181",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"76",
     "areaName":"Northumberland",
@@ -833,7 +833,7 @@
     "crimeScore":"23217.74874",
     "crimeRank":"64",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"77",
     "areaName":"Cheshire East",
@@ -844,7 +844,7 @@
     "crimeScore":"22083.88745",
     "crimeRank":"84",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"78",
     "areaName":"Halton",
@@ -855,7 +855,7 @@
     "crimeScore":"12608.82278",
     "crimeRank":"263",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"79",
     "areaName":"Warrington",
@@ -866,7 +866,7 @@
     "crimeScore":"19519.912",
     "crimeRank":"142",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"80",
     "areaName":"Cheshire West and Chester",
@@ -877,7 +877,7 @@
     "crimeScore":"18370.92891",
     "crimeRank":"161",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"81",
     "areaName":"Blackburn with Darwen",
@@ -888,7 +888,7 @@
     "crimeScore":"13833.40659",
     "crimeRank":"244",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"82",
     "areaName":"Blackpool",
@@ -899,7 +899,7 @@
     "crimeScore":"11186",
     "crimeRank":"279",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"83",
     "areaName":"City of Kingston upon Hull",
@@ -910,7 +910,7 @@
     "crimeScore":"7933.202454",
     "crimeRank":"310",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"84",
     "areaName":"East Riding of Yorkshire",
@@ -921,7 +921,7 @@
     "crimeScore":"22030.49282",
     "crimeRank":"85",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"85",
     "areaName":"North East Lincolnshire",
@@ -932,7 +932,7 @@
     "crimeScore":"9461.121495",
     "crimeRank":"298",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"86",
     "areaName":"North Lincolnshire",
@@ -943,7 +943,7 @@
     "crimeScore":"13406.94",
     "crimeRank":"251",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"87",
     "areaName":"York",
@@ -954,7 +954,7 @@
     "crimeScore":"16098.36441",
     "crimeRank":"199",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"88",
     "areaName":"City of Derby",
@@ -965,7 +965,7 @@
     "crimeScore":"14361.90476",
     "crimeRank":"237",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"89",
     "areaName":"City of Leicester",
@@ -976,7 +976,7 @@
     "crimeScore":"7932.032086",
     "crimeRank":"311",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"90",
     "areaName":"Rutland",
@@ -987,7 +987,7 @@
     "crimeScore":"24393",
     "crimeRank":"46",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"91",
     "areaName":"City of Nottingham",
@@ -998,7 +998,7 @@
     "crimeScore":"5175.903409",
     "crimeRank":"322",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"92",
     "areaName":"County of Herefordshire",
@@ -1009,7 +1009,7 @@
     "crimeScore":"23499.48276",
     "crimeRank":"59",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"93",
     "areaName":"Telford and Wrekin",
@@ -1020,7 +1020,7 @@
     "crimeScore":"15903.83333",
     "crimeRank":"202",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"94",
     "areaName":"Shropshire",
@@ -1031,7 +1031,7 @@
     "crimeScore":"23044.05208",
     "crimeRank":"66",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"95",
     "areaName":"City of Stoke-on-Trent",
@@ -1042,7 +1042,7 @@
     "crimeScore":"9907.71875",
     "crimeRank":"292",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"96",
     "areaName":"Bath and North East Somerset",
@@ -1053,7 +1053,7 @@
     "crimeScore":"19237.63478",
     "crimeRank":"148",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"97",
     "areaName":"City of Bristol",
@@ -1064,7 +1064,7 @@
     "crimeScore":"6438.468254",
     "crimeRank":"318",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"98",
     "areaName":"North Somerset",
@@ -1075,7 +1075,7 @@
     "crimeScore":"19408.91129",
     "crimeRank":"145",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"99",
     "areaName":"South Gloucestershire",
@@ -1086,7 +1086,7 @@
     "crimeScore":"17246.82716",
     "crimeRank":"183",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"100",
     "areaName":"Cornwall",
@@ -1097,7 +1097,7 @@
     "crimeScore":"23566.36086",
     "crimeRank":"58",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"101",
     "areaName":"Isles of Scilly",
@@ -1108,7 +1108,7 @@
     "crimeScore":"31690",
     "crimeRank":"1",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"102",
     "areaName":"City of Plymouth",
@@ -1119,7 +1119,7 @@
     "crimeScore":"14239.29375",
     "crimeRank":"238",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"103",
     "areaName":"Torbay",
@@ -1130,7 +1130,7 @@
     "crimeScore":"16995.95506",
     "crimeRank":"186",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"104",
     "areaName":"Bournemouth",
@@ -1141,7 +1141,7 @@
     "crimeScore":"13394.8972",
     "crimeRank":"252",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"105",
     "areaName":"Poole",
@@ -1152,7 +1152,7 @@
     "crimeScore":"18624.54945",
     "crimeRank":"160",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"106",
     "areaName":"Swindon",
@@ -1163,7 +1163,7 @@
     "crimeScore":"15097.2605",
     "crimeRank":"228",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"107",
     "areaName":"Wiltshire",
@@ -1174,7 +1174,7 @@
     "crimeScore":"23734.12811",
     "crimeRank":"54",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"108",
     "areaName":"City of Peterborough",
@@ -1185,7 +1185,7 @@
     "crimeScore":"8409.634615",
     "crimeRank":"304",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"109",
     "areaName":"Luton",
@@ -1196,7 +1196,7 @@
     "crimeScore":"10469.26446",
     "crimeRank":"289",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"110",
     "areaName":"Bedford Unitary",
@@ -1207,7 +1207,7 @@
     "crimeScore":"18137.15686",
     "crimeRank":"163",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"111",
     "areaName":"Central Bedfordshire",
@@ -1218,7 +1218,7 @@
     "crimeScore":"19480.78571",
     "crimeRank":"144",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"112",
     "areaName":"Southend-on-Sea",
@@ -1229,7 +1229,7 @@
     "crimeScore":"16099.8972",
     "crimeRank":"198",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"113",
     "areaName":"Thurrock",
@@ -1240,7 +1240,7 @@
     "crimeScore":"13456.31579",
     "crimeRank":"250",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"114",
     "areaName":"Medway",
@@ -1251,7 +1251,7 @@
     "crimeScore":"14983.95122",
     "crimeRank":"232",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"115",
     "areaName":"Bracknell Forest",
@@ -1262,7 +1262,7 @@
     "crimeScore":"18082",
     "crimeRank":"164",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"116",
     "areaName":"West Berkshire",
@@ -1273,7 +1273,7 @@
     "crimeScore":"16299.23711",
     "crimeRank":"194",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"117",
     "areaName":"Reading",
@@ -1284,7 +1284,7 @@
     "crimeScore":"7078.247312",
     "crimeRank":"314",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"118",
     "areaName":"Slough",
@@ -1295,7 +1295,7 @@
     "crimeScore":"4327.410256",
     "crimeRank":"325",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"119",
     "areaName":"Windsor and Maidenhead",
@@ -1306,7 +1306,7 @@
     "crimeScore":"12633.67045",
     "crimeRank":"262",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"120",
     "areaName":"Wokingham",
@@ -1317,7 +1317,7 @@
     "crimeScore":"21743.16",
     "crimeRank":"89",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"121",
     "areaName":"Milton Keynes",
@@ -1328,7 +1328,7 @@
     "crimeScore":"12993.89928",
     "crimeRank":"256",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"122",
     "areaName":"The City of Brighton & Hove",
@@ -1339,7 +1339,7 @@
     "crimeScore":"16901.43902",
     "crimeRank":"187",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"123",
     "areaName":"City of Portsmouth",
@@ -1350,7 +1350,7 @@
     "crimeScore":"10643.52033",
     "crimeRank":"285",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"124",
     "areaName":"City of Southampton",
@@ -1361,7 +1361,7 @@
     "crimeScore":"6973.753425",
     "crimeRank":"315",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"125",
     "areaName":"Isle of Wight",
@@ -1372,7 +1372,7 @@
     "crimeScore":"21187.70787",
     "crimeRank":"102",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"126",
     "areaName":"Aylesbury Vale District",
@@ -1383,7 +1383,7 @@
     "crimeScore":"21345.40179",
     "crimeRank":"98",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"127",
     "areaName":"Chiltern District",
@@ -1394,7 +1394,7 @@
     "crimeScore":"17673.24561",
     "crimeRank":"174",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"128",
     "areaName":"South Bucks District",
@@ -1405,7 +1405,7 @@
     "crimeScore":"9957.175",
     "crimeRank":"291",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"129",
     "areaName":"Wycombe District",
@@ -1416,7 +1416,7 @@
     "crimeScore":"15513.58879",
     "crimeRank":"212",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"130",
     "areaName":"Cambridge District",
@@ -1427,7 +1427,7 @@
     "crimeScore":"10950.76471",
     "crimeRank":"282",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"131",
     "areaName":"East Cambridgeshire District",
@@ -1438,7 +1438,7 @@
     "crimeScore":"22493.80851",
     "crimeRank":"71",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"132",
     "areaName":"Fenland District",
@@ -1449,7 +1449,7 @@
     "crimeScore":"17353.37037",
     "crimeRank":"178",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"133",
     "areaName":"Huntingdonshire District",
@@ -1460,7 +1460,7 @@
     "crimeScore":"22188.51887",
     "crimeRank":"80",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"134",
     "areaName":"South Cambridgeshire District",
@@ -1471,7 +1471,7 @@
     "crimeScore":"23584.16667",
     "crimeRank":"57",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"135",
     "areaName":"Allerdale District",
@@ -1482,7 +1482,7 @@
     "crimeScore":"20744.25",
     "crimeRank":"115",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"136",
     "areaName":"Barrow-in-Furness District",
@@ -1493,7 +1493,7 @@
     "crimeScore":"20976.74",
     "crimeRank":"109",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"137",
     "areaName":"Carlisle District",
@@ -1504,7 +1504,7 @@
     "crimeScore":"19636.76471",
     "crimeRank":"140",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"138",
     "areaName":"Copeland District",
@@ -1515,7 +1515,7 @@
     "crimeScore":"23368.81633",
     "crimeRank":"61",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"139",
     "areaName":"Eden District",
@@ -1526,7 +1526,7 @@
     "crimeScore":"28486.13889",
     "crimeRank":"5",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"140",
     "areaName":"South Lakeland District",
@@ -1537,7 +1537,7 @@
     "crimeScore":"27611.44068",
     "crimeRank":"9",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"141",
     "areaName":"Amber Valley District",
@@ -1548,7 +1548,7 @@
     "crimeScore":"19312.62821",
     "crimeRank":"147",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"142",
     "areaName":"Bolsover District",
@@ -1559,7 +1559,7 @@
     "crimeScore":"13813.91667",
     "crimeRank":"245",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"143",
     "areaName":"Chesterfield District",
@@ -1570,7 +1570,7 @@
     "crimeScore":"15775.51471",
     "crimeRank":"207",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"144",
     "areaName":"Derbyshire Dales District",
@@ -1581,7 +1581,7 @@
     "crimeScore":"24573.25581",
     "crimeRank":"42",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"145",
     "areaName":"Erewash District",
@@ -1592,7 +1592,7 @@
     "crimeScore":"13590.35616",
     "crimeRank":"248",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"146",
     "areaName":"High Peak District",
@@ -1603,7 +1603,7 @@
     "crimeScore":"18637.64407",
     "crimeRank":"159",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"147",
     "areaName":"North East Derbyshire District",
@@ -1614,7 +1614,7 @@
     "crimeScore":"21191.79365",
     "crimeRank":"101",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"148",
     "areaName":"South Derbyshire District",
@@ -1625,7 +1625,7 @@
     "crimeScore":"20905.31481",
     "crimeRank":"111",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"149",
     "areaName":"East Devon District",
@@ -1636,7 +1636,7 @@
     "crimeScore":"25292.45122",
     "crimeRank":"33",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"150",
     "areaName":"Exeter District",
@@ -1647,7 +1647,7 @@
     "crimeScore":"17812.41096",
     "crimeRank":"173",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"151",
     "areaName":"Mid Devon District",
@@ -1658,7 +1658,7 @@
     "crimeScore":"24100.62791",
     "crimeRank":"49",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"152",
     "areaName":"North Devon District",
@@ -1669,7 +1669,7 @@
     "crimeScore":"21864.67241",
     "crimeRank":"88",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"153",
     "areaName":"South Hams District",
@@ -1680,7 +1680,7 @@
     "crimeScore":"27679.02041",
     "crimeRank":"7",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"154",
     "areaName":"Teignbridge District",
@@ -1691,7 +1691,7 @@
     "crimeScore":"25512.28571",
     "crimeRank":"29",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"155",
     "areaName":"Torridge District",
@@ -1702,7 +1702,7 @@
     "crimeScore":"25255.10811",
     "crimeRank":"34",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"156",
     "areaName":"West Devon District",
@@ -1713,7 +1713,7 @@
     "crimeScore":"27329.6129",
     "crimeRank":"13",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"157",
     "areaName":"Christchurch District",
@@ -1724,7 +1724,7 @@
     "crimeScore":"23141.33333",
     "crimeRank":"65",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"158",
     "areaName":"East Dorset District",
@@ -1735,7 +1735,7 @@
     "crimeScore":"27509.91228",
     "crimeRank":"10",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"159",
     "areaName":"North Dorset District",
@@ -1746,7 +1746,7 @@
     "crimeScore":"26171.54286",
     "crimeRank":"22",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"160",
     "areaName":"Purbeck District",
@@ -1757,7 +1757,7 @@
     "crimeScore":"25133.55172",
     "crimeRank":"35",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"161",
     "areaName":"West Dorset District",
@@ -1768,7 +1768,7 @@
     "crimeScore":"24636.40351",
     "crimeRank":"40",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"162",
     "areaName":"Weymouth and Portland District",
@@ -1779,7 +1779,7 @@
     "crimeScore":"15191.05128",
     "crimeRank":"224",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"163",
     "areaName":"Eastbourne District",
@@ -1790,7 +1790,7 @@
     "crimeScore":"17947.08475",
     "crimeRank":"169",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"164",
     "areaName":"Hastings District",
@@ -1801,7 +1801,7 @@
     "crimeScore":"11650.77358",
     "crimeRank":"273",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"165",
     "areaName":"Lewes District",
@@ -1812,7 +1812,7 @@
     "crimeScore":"21930.46774",
     "crimeRank":"87",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"166",
     "areaName":"Rother District",
@@ -1823,7 +1823,7 @@
     "crimeScore":"22248.25862",
     "crimeRank":"77",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"167",
     "areaName":"Wealden District",
@@ -1834,7 +1834,7 @@
     "crimeScore":"26462.62105",
     "crimeRank":"19",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"168",
     "areaName":"Basildon District",
@@ -1845,7 +1845,7 @@
     "crimeScore":"15875.06364",
     "crimeRank":"203",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"169",
     "areaName":"Braintree District",
@@ -1856,7 +1856,7 @@
     "crimeScore":"23860.78571",
     "crimeRank":"52",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"170",
     "areaName":"Brentwood District",
@@ -1867,7 +1867,7 @@
     "crimeScore":"22555.84444",
     "crimeRank":"70",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"171",
     "areaName":"Castle Point District",
@@ -1878,7 +1878,7 @@
     "crimeScore":"19752.26316",
     "crimeRank":"135",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"172",
     "areaName":"Chelmsford District",
@@ -1889,7 +1889,7 @@
     "crimeScore":"24598.86538",
     "crimeRank":"41",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"173",
     "areaName":"Colchester District",
@@ -1900,7 +1900,7 @@
     "crimeScore":"20406.52885",
     "crimeRank":"125",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"174",
     "areaName":"Epping Forest District",
@@ -1911,7 +1911,7 @@
     "crimeScore":"16173.98718",
     "crimeRank":"196",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"175",
     "areaName":"Harlow District",
@@ -1922,7 +1922,7 @@
     "crimeScore":"11690.09259",
     "crimeRank":"272",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"176",
     "areaName":"Maldon District",
@@ -1933,7 +1933,7 @@
     "crimeScore":"26227.97561",
     "crimeRank":"21",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"177",
     "areaName":"Rochford District",
@@ -1944,7 +1944,7 @@
     "crimeScore":"26652.69811",
     "crimeRank":"16",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"178",
     "areaName":"Tendring District",
@@ -1955,7 +1955,7 @@
     "crimeScore":"21013.86667",
     "crimeRank":"106",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"179",
     "areaName":"Uttlesford District",
@@ -1966,7 +1966,7 @@
     "crimeScore":"27331.32558",
     "crimeRank":"12",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"180",
     "areaName":"Cheltenham District",
@@ -1977,7 +1977,7 @@
     "crimeScore":"15068.44",
     "crimeRank":"230",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"181",
     "areaName":"Cotswold District",
@@ -1988,7 +1988,7 @@
     "crimeScore":"24790.01961",
     "crimeRank":"38",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"182",
     "areaName":"Forest of Dean District",
@@ -1999,7 +1999,7 @@
     "crimeScore":"22359.7",
     "crimeRank":"74",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"183",
     "areaName":"Gloucester District",
@@ -2010,7 +2010,7 @@
     "crimeScore":"13634.71622",
     "crimeRank":"247",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"184",
     "areaName":"Stroud District",
@@ -2021,7 +2021,7 @@
     "crimeScore":"20008.88406",
     "crimeRank":"132",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"185",
     "areaName":"Tewkesbury District",
@@ -2032,7 +2032,7 @@
     "crimeScore":"23352.27083",
     "crimeRank":"63",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"186",
     "areaName":"Basingstoke and Deane District",
@@ -2043,7 +2043,7 @@
     "crimeScore":"17335.13462",
     "crimeRank":"180",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"187",
     "areaName":"East Hampshire District",
@@ -2054,7 +2054,7 @@
     "crimeScore":"21114.81944",
     "crimeRank":"103",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"188",
     "areaName":"Eastleigh District",
@@ -2065,7 +2065,7 @@
     "crimeScore":"16748.84416",
     "crimeRank":"189",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"189",
     "areaName":"Fareham District",
@@ -2076,7 +2076,7 @@
     "crimeScore":"23024.2973",
     "crimeRank":"67",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"190",
     "areaName":"Gosport District",
@@ -2087,7 +2087,7 @@
     "crimeScore":"13955.21154",
     "crimeRank":"242",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"191",
     "areaName":"Hart District",
@@ -2098,7 +2098,7 @@
     "crimeScore":"24350.77358",
     "crimeRank":"47",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"192",
     "areaName":"Havant District",
@@ -2109,7 +2109,7 @@
     "crimeScore":"14047.32051",
     "crimeRank":"239",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"193",
     "areaName":"New Forest District",
@@ -2120,7 +2120,7 @@
     "crimeScore":"19999.5",
     "crimeRank":"133",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"194",
     "areaName":"Rushmoor District",
@@ -2131,7 +2131,7 @@
     "crimeScore":"17980.22034",
     "crimeRank":"166",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"195",
     "areaName":"Test Valley District",
@@ -2142,7 +2142,7 @@
     "crimeScore":"19680.01429",
     "crimeRank":"138",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"196",
     "areaName":"Winchester District",
@@ -2153,7 +2153,7 @@
     "crimeScore":"22170.88406",
     "crimeRank":"81",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"197",
     "areaName":"Broxbourne District",
@@ -2164,7 +2164,7 @@
     "crimeScore":"13708.375",
     "crimeRank":"246",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"198",
     "areaName":"Dacorum District",
@@ -2175,7 +2175,7 @@
     "crimeScore":"19081.89247",
     "crimeRank":"153",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"199",
     "areaName":"East Hertfordshire District",
@@ -2186,7 +2186,7 @@
     "crimeScore":"22735.98824",
     "crimeRank":"68",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"200",
     "areaName":"Hertsmere District",
@@ -2197,7 +2197,7 @@
     "crimeScore":"18896.35484",
     "crimeRank":"155",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"201",
     "areaName":"North Hertfordshire District",
@@ -2208,7 +2208,7 @@
     "crimeScore":"21358.8481",
     "crimeRank":"97",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"202",
     "areaName":"St. Albans District",
@@ -2219,7 +2219,7 @@
     "crimeScore":"20215.68605",
     "crimeRank":"128",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"203",
     "areaName":"Stevenage District",
@@ -2230,7 +2230,7 @@
     "crimeScore":"15508.51923",
     "crimeRank":"213",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"204",
     "areaName":"Three Rivers District",
@@ -2241,7 +2241,7 @@
     "crimeScore":"22466.54717",
     "crimeRank":"73",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"205",
     "areaName":"Watford District",
@@ -2252,7 +2252,7 @@
     "crimeScore":"17544.30189",
     "crimeRank":"177",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"206",
     "areaName":"Welwyn Hatfield District",
@@ -2263,7 +2263,7 @@
     "crimeScore":"19498.125",
     "crimeRank":"143",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"207",
     "areaName":"Ashford District",
@@ -2274,7 +2274,7 @@
     "crimeScore":"20767.12857",
     "crimeRank":"114",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"208",
     "areaName":"Canterbury District",
@@ -2285,7 +2285,7 @@
     "crimeScore":"21245.53333",
     "crimeRank":"99",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"209",
     "areaName":"Dartford District",
@@ -2296,7 +2296,7 @@
     "crimeScore":"12463.86207",
     "crimeRank":"267",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"210",
     "areaName":"Dover District",
@@ -2307,7 +2307,7 @@
     "crimeScore":"20469.25373",
     "crimeRank":"122",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"211",
     "areaName":"Gravesham District",
@@ -2318,7 +2318,7 @@
     "crimeScore":"12524.12698",
     "crimeRank":"265",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"212",
     "areaName":"Maidstone District",
@@ -2329,7 +2329,7 @@
     "crimeScore":"20491.15217",
     "crimeRank":"121",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"213",
     "areaName":"Sevenoaks District",
@@ -2340,7 +2340,7 @@
     "crimeScore":"21965.04054",
     "crimeRank":"86",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"214",
     "areaName":"Shepway District",
@@ -2351,7 +2351,7 @@
     "crimeScore":"20082.44615",
     "crimeRank":"129",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"215",
     "areaName":"Swale District",
@@ -2362,7 +2362,7 @@
     "crimeScore":"13987.26829",
     "crimeRank":"241",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"216",
     "areaName":"Thanet District",
@@ -2373,7 +2373,7 @@
     "crimeScore":"15187.13095",
     "crimeRank":"225",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"217",
     "areaName":"Tonbridge and Malling District",
@@ -2384,7 +2384,7 @@
     "crimeScore":"23419.8",
     "crimeRank":"60",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"218",
     "areaName":"Tunbridge Wells District",
@@ -2395,7 +2395,7 @@
     "crimeScore":"23811.5",
     "crimeRank":"53",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"219",
     "areaName":"Burnley District",
@@ -2406,7 +2406,7 @@
     "crimeScore":"8528.633333",
     "crimeRank":"303",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"220",
     "areaName":"Chorley District",
@@ -2417,7 +2417,7 @@
     "crimeScore":"22222.34848",
     "crimeRank":"79",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"221",
     "areaName":"Fylde District",
@@ -2428,7 +2428,7 @@
     "crimeScore":"25721.64706",
     "crimeRank":"26",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"222",
     "areaName":"Hyndburn District",
@@ -2439,7 +2439,7 @@
     "crimeScore":"17252",
     "crimeRank":"182",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"223",
     "areaName":"Lancaster District",
@@ -2450,7 +2450,7 @@
     "crimeScore":"19733.97753",
     "crimeRank":"136",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"224",
     "areaName":"Pendle District",
@@ -2461,7 +2461,7 @@
     "crimeScore":"15364.98246",
     "crimeRank":"218",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"225",
     "areaName":"Preston District",
@@ -2472,7 +2472,7 @@
     "crimeScore":"14613.41667",
     "crimeRank":"234",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"226",
     "areaName":"Ribble Valley District",
@@ -2483,7 +2483,7 @@
     "crimeScore":"28660.3",
     "crimeRank":"4",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"227",
     "areaName":"Rossendale District",
@@ -2494,7 +2494,7 @@
     "crimeScore":"17335.77273",
     "crimeRank":"179",
     "areaGov":"North West"
-  }
+  },
   {
     "areaID":"228",
     "areaName":"South Ribble District",
@@ -2505,7 +2505,7 @@
     "crimeScore":"20871.85507",
     "crimeRank":"112",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"229",
     "areaName":"West Lancashire District",
@@ -2516,7 +2516,7 @@
     "crimeScore":"20675.57534",
     "crimeRank":"117",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"230",
     "areaName":"Wyre District",
@@ -2527,7 +2527,7 @@
     "crimeScore":"22607.21739",
     "crimeRank":"69",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"231",
     "areaName":"Blaby District",
@@ -2538,7 +2538,7 @@
     "crimeScore":"18731.91667",
     "crimeRank":"158",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"232",
     "areaName":"Charnwood District",
@@ -2549,7 +2549,7 @@
     "crimeScore":"15352.75",
     "crimeRank":"219",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"233",
     "areaName":"Harborough District",
@@ -2560,7 +2560,7 @@
     "crimeScore":"24156.31915",
     "crimeRank":"48",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"234",
     "areaName":"Hinckley and Bosworth District",
@@ -2571,7 +2571,7 @@
     "crimeScore":"20048.5",
     "crimeRank":"130",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"235",
     "areaName":"Melton District",
@@ -2582,7 +2582,7 @@
     "crimeScore":"17978.06667",
     "crimeRank":"167",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"236",
     "areaName":"North West Leicestershire District",
@@ -2593,7 +2593,7 @@
     "crimeScore":"16127.73684",
     "crimeRank":"197",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"237",
     "areaName":"Oadby and Wigston District",
@@ -2604,7 +2604,7 @@
     "crimeScore":"22085.77778",
     "crimeRank":"82",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"238",
     "areaName":"Boston District",
@@ -2615,7 +2615,7 @@
     "crimeScore":"18250.19444",
     "crimeRank":"162",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"239",
     "areaName":"East Lindsey District",
@@ -2626,7 +2626,7 @@
     "crimeScore":"21461.0875",
     "crimeRank":"95",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"240",
     "areaName":"Lincoln District",
@@ -2637,7 +2637,7 @@
     "crimeScore":"11786.10526",
     "crimeRank":"270",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"241",
     "areaName":"North Kesteven District",
@@ -2648,7 +2648,7 @@
     "crimeScore":"26491.13333",
     "crimeRank":"17",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"242",
     "areaName":"South Holland District",
@@ -2659,7 +2659,7 @@
     "crimeScore":"20438.22917",
     "crimeRank":"123",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"243",
     "areaName":"South Kesteven District",
@@ -2670,7 +2670,7 @@
     "crimeScore":"21685.6962",
     "crimeRank":"91",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"244",
     "areaName":"West Lindsey District",
@@ -2681,7 +2681,7 @@
     "crimeScore":"22471.43396",
     "crimeRank":"72",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"245",
     "areaName":"Breckland District",
@@ -2692,7 +2692,7 @@
     "crimeScore":"26472.41026",
     "crimeRank":"18",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"246",
     "areaName":"Broadland District",
@@ -2703,7 +2703,7 @@
     "crimeScore":"29434.39286",
     "crimeRank":"3",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"247",
     "areaName":"Great Yarmouth District",
@@ -2714,7 +2714,7 @@
     "crimeScore":"19216.31148",
     "crimeRank":"149",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"248",
     "areaName":"King's Lynn and West Norfolk District",
@@ -2725,7 +2725,7 @@
     "crimeScore":"24649.64368",
     "crimeRank":"39",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"249",
     "areaName":"North Norfolk District",
@@ -2736,7 +2736,7 @@
     "crimeScore":"27154.82258",
     "crimeRank":"14",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"250",
     "areaName":"Norwich District",
@@ -2747,7 +2747,7 @@
     "crimeScore":"13278.22785",
     "crimeRank":"253",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"251",
     "areaName":"South Norfolk District",
@@ -2758,7 +2758,7 @@
     "crimeScore":"27899.11392",
     "crimeRank":"6",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"252",
     "areaName":"Corby District",
@@ -2769,7 +2769,7 @@
     "crimeScore":"7718.72973",
     "crimeRank":"312",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"253",
     "areaName":"Daventry District",
@@ -2780,7 +2780,7 @@
     "crimeScore":"17938.35556",
     "crimeRank":"170",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"254",
     "areaName":"East Northamptonshire District",
@@ -2791,7 +2791,7 @@
     "crimeScore":"16614.52083",
     "crimeRank":"190",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"255",
     "areaName":"Kettering District",
@@ -2802,7 +2802,7 @@
     "crimeScore":"16498.32075",
     "crimeRank":"191",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"256",
     "areaName":"Northampton District",
@@ -2813,7 +2813,7 @@
     "crimeScore":"10617.72868",
     "crimeRank":"286",
     "areaGov":"North East"
-  }
+  },
   {
     "areaID":"257",
     "areaName":"South Northamptonshire District",
@@ -2824,7 +2824,7 @@
     "crimeScore":"25324.375",
     "crimeRank":"32",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"258",
     "areaName":"Wellingborough District",
@@ -2835,7 +2835,7 @@
     "crimeScore":"10544.61702",
     "crimeRank":"287",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"259",
     "areaName":"Craven District",
@@ -2846,7 +2846,7 @@
     "crimeScore":"26981.28125",
     "crimeRank":"15",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"260",
     "areaName":"Hambleton District",
@@ -2857,7 +2857,7 @@
     "crimeScore":"25714.5098",
     "crimeRank":"27",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"261",
     "areaName":"Harrogate District",
@@ -2868,7 +2868,7 @@
     "crimeScore":"25472.06731",
     "crimeRank":"31",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"262",
     "areaName":"Richmondshire District",
@@ -2879,7 +2879,7 @@
     "crimeScore":"26396.34375",
     "crimeRank":"20",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"263",
     "areaName":"Ryedale District",
@@ -2890,7 +2890,7 @@
     "crimeScore":"27502.13333",
     "crimeRank":"11",
     "areaGov":"Yorkshire and The Humber"
-  }
+  },
   {
     "areaID":"264",
     "areaName":"Scarborough District",
@@ -2901,7 +2901,7 @@
     "crimeScore":"20678.14085",
     "crimeRank":"116",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"265",
     "areaName":"Selby District",
@@ -2912,7 +2912,7 @@
     "crimeScore":"21008.92",
     "crimeRank":"107",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"266",
     "areaName":"Ashfield District",
@@ -2923,7 +2923,7 @@
     "crimeScore":"7946.797297",
     "crimeRank":"309",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"267",
     "areaName":"Bassetlaw District",
@@ -2934,7 +2934,7 @@
     "crimeScore":"11399.54286",
     "crimeRank":"275",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"268",
     "areaName":"Broxtowe District",
@@ -2945,7 +2945,7 @@
     "crimeScore":"15026.9863",
     "crimeRank":"231",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"269",
     "areaName":"Gedling District",
@@ -2956,7 +2956,7 @@
     "crimeScore":"14809.14286",
     "crimeRank":"233",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"270",
     "areaName":"Mansfield District",
@@ -2967,7 +2967,7 @@
     "crimeScore":"8405.545455",
     "crimeRank":"305",
     "areaGov":"East Midlands"
-  }
+  },
   {
     "areaID":"271",
     "areaName":"Newark and Sherwood District",
@@ -2978,7 +2978,7 @@
     "crimeScore":"15441.92754",
     "crimeRank":"217",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"272",
     "areaName":"Rushcliffe District",
@@ -2989,7 +2989,7 @@
     "crimeScore":"20407.35294",
     "crimeRank":"124",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"273",
     "areaName":"Cherwell District",
@@ -3000,7 +3000,7 @@
     "crimeScore":"21696.83516",
     "crimeRank":"90",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"274",
     "areaName":"Oxford District",
@@ -3011,7 +3011,7 @@
     "crimeScore":"9661",
     "crimeRank":"297",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"275",
     "areaName":"South Oxfordshire District",
@@ -3022,7 +3022,7 @@
     "crimeScore":"22339.33708",
     "crimeRank":"76",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"276",
     "areaName":"Vale of White Horse District",
@@ -3033,7 +3033,7 @@
     "crimeScore":"24434.26667",
     "crimeRank":"45",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"277",
     "areaName":"West Oxfordshire District",
@@ -3044,7 +3044,7 @@
     "crimeScore":"23686.95313",
     "crimeRank":"55",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"278",
     "areaName":"Mendip District",
@@ -3055,7 +3055,7 @@
     "crimeScore":"21577.49254",
     "crimeRank":"92",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"279",
     "areaName":"Sedgemoor District",
@@ -3066,7 +3066,7 @@
     "crimeScore":"20322.61765",
     "crimeRank":"126",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"280",
     "areaName":"South Somerset District",
@@ -3077,7 +3077,7 @@
     "crimeScore":"21232.71845",
     "crimeRank":"100",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"281",
     "areaName":"Taunton Deane District",
@@ -3088,7 +3088,7 @@
     "crimeScore":"19600.10606",
     "crimeRank":"141",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"282",
     "areaName":"West Somerset District",
@@ -3099,7 +3099,7 @@
     "crimeScore":"23951.91304",
     "crimeRank":"50",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"283",
     "areaName":"Cannock Chase District",
@@ -3110,7 +3110,7 @@
     "crimeScore":"17216.55",
     "crimeRank":"184",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"284",
     "areaName":"East Staffordshire District",
@@ -3121,7 +3121,7 @@
     "crimeScore":"19206.07143",
     "crimeRank":"150",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"285",
     "areaName":"Lichfield District",
@@ -3132,7 +3132,7 @@
     "crimeScore":"20909.26316",
     "crimeRank":"110",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"286",
     "areaName":"Newcastle-under-Lyme District",
@@ -3143,7 +3143,7 @@
     "crimeScore":"17904.32099",
     "crimeRank":"171",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"287",
     "areaName":"South Staffordshire District",
@@ -3154,7 +3154,7 @@
     "crimeScore":"19646.97059",
     "crimeRank":"139",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"288",
     "areaName":"Stafford District",
@@ -3165,7 +3165,7 @@
     "crimeScore":"22236.825",
     "crimeRank":"78",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"289",
     "areaName":"Staffordshire Moorlands District",
@@ -3176,7 +3176,7 @@
     "crimeScore":"20249.57627",
     "crimeRank":"127",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"290",
     "areaName":"Tamworth District",
@@ -3187,7 +3187,7 @@
     "crimeScore":"14022.2",
     "crimeRank":"240",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"291",
     "areaName":"Babergh District",
@@ -3198,7 +3198,7 @@
     "crimeScore":"23943.05556",
     "crimeRank":"51",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"292",
     "areaName":"Forest Heath District",
@@ -3209,7 +3209,7 @@
     "crimeScore":"19400.47059",
     "crimeRank":"146",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"293",
     "areaName":"Ipswich District",
@@ -3220,7 +3220,7 @@
     "crimeScore":"12645.21519",
     "crimeRank":"261",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"294",
     "areaName":"Mid Suffolk District",
@@ -3231,7 +3231,7 @@
     "crimeScore":"27665.59259",
     "crimeRank":"8",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"295",
     "areaName":"St. Edmundsbury District",
@@ -3242,7 +3242,7 @@
     "crimeScore":"23368.78689",
     "crimeRank":"62",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"296",
     "areaName":"Suffolk Coastal District",
@@ -3253,7 +3253,7 @@
     "crimeScore":"26026.5493",
     "crimeRank":"23",
     "areaGov":"East of England"
-  }
+  },
   {
     "areaID":"297",
     "areaName":"Waveney District",
@@ -3264,7 +3264,7 @@
     "crimeScore":"21093.36986",
     "crimeRank":"104",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"298",
     "areaName":"Elmbridge District",
@@ -3275,7 +3275,7 @@
     "crimeScore":"20767.67901",
     "crimeRank":"113",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"299",
     "areaName":"Epsom and Ewell District",
@@ -3286,7 +3286,7 @@
     "crimeScore":"22345.59091",
     "crimeRank":"75",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"300",
     "areaName":"Guildford District",
@@ -3297,7 +3297,7 @@
     "crimeScore":"21441.86905",
     "crimeRank":"96",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"301",
     "areaName":"Mole Valley District",
@@ -3308,7 +3308,7 @@
     "crimeScore":"25762.51852",
     "crimeRank":"25",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"302",
     "areaName":"Reigate and Banstead District",
@@ -3319,7 +3319,7 @@
     "crimeScore":"20623.90698",
     "crimeRank":"118",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"303",
     "areaName":"Runnymede District",
@@ -3330,7 +3330,7 @@
     "crimeScore":"19695.80769",
     "crimeRank":"137",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"304",
     "areaName":"Spelthorne District",
@@ -3341,7 +3341,7 @@
     "crimeScore":"15080.05",
     "crimeRank":"229",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"305",
     "areaName":"Surrey Heath District",
@@ -3352,7 +3352,7 @@
     "crimeScore":"25056.85455",
     "crimeRank":"36",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"306",
     "areaName":"Tandridge District",
@@ -3363,7 +3363,7 @@
     "crimeScore":"19170.84",
     "crimeRank":"151",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"307",
     "areaName":"Waverley District",
@@ -3374,7 +3374,7 @@
     "crimeScore":"25498.76829",
     "crimeRank":"30",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"308",
     "areaName":"Woking District",
@@ -3385,7 +3385,7 @@
     "crimeScore":"19168.14754",
     "crimeRank":"152",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"309",
     "areaName":"North Warwickshire District",
@@ -3396,7 +3396,7 @@
     "crimeScore":"17948.92105",
     "crimeRank":"168",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"310",
     "areaName":"Nuneaton and Bedworth District",
@@ -3407,7 +3407,7 @@
     "crimeScore":"12834.86585",
     "crimeRank":"257",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"311",
     "areaName":"Rugby District",
@@ -3418,7 +3418,7 @@
     "crimeScore":"16999.25862",
     "crimeRank":"185",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"312",
     "areaName":"Stratford-on-Avon District",
@@ -3429,7 +3429,7 @@
     "crimeScore":"24435.70423",
     "crimeRank":"44",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"313",
     "areaName":"Warwick District",
@@ -3440,7 +3440,7 @@
     "crimeScore":"19790.17857",
     "crimeRank":"134",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"314",
     "areaName":"Adur District",
@@ -3451,7 +3451,7 @@
     "crimeScore":"21531.30952",
     "crimeRank":"94",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"315",
     "areaName":"Arun District",
@@ -3462,7 +3462,7 @@
     "crimeScore":"20491.38298",
     "crimeRank":"120",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"316",
     "areaName":"Chichester District",
@@ -3473,7 +3473,7 @@
     "crimeScore":"23594.91667",
     "crimeRank":"56",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"317",
     "areaName":"Crawley District",
@@ -3484,7 +3484,7 @@
     "crimeScore":"16001.78462",
     "crimeRank":"201",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"318",
     "areaName":"Horsham District",
@@ -3495,7 +3495,7 @@
     "crimeScore":"25691",
     "crimeRank":"28",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"319",
     "areaName":"Mid Sussex District",
@@ -3506,7 +3506,7 @@
     "crimeScore":"25853.70238",
     "crimeRank":"24",
     "areaGov":"South East"
-  }
+  },
   {
     "areaID":"320",
     "areaName":"Worthing District",
@@ -3517,7 +3517,7 @@
     "crimeScore":"21043.87692",
     "crimeRank":"105",
     "areaGov":"South West"
-  }
+  },
   {
     "areaID":"321",
     "areaName":"Bromsgrove District",
@@ -3528,7 +3528,7 @@
     "crimeScore":"20571.40351",
     "crimeRank":"119",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"322",
     "areaName":"Malvern Hills District",
@@ -3539,7 +3539,7 @@
     "crimeScore":"24999.55556",
     "crimeRank":"37",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"323",
     "areaName":"Redditch District",
@@ -3550,7 +3550,7 @@
     "crimeScore":"18047.90909",
     "crimeRank":"165",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"324",
     "areaName":"Worcester District",
@@ -3561,7 +3561,7 @@
     "crimeScore":"15816.67213",
     "crimeRank":"205",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"325",
     "areaName":"Wychavon District",
@@ -3572,7 +3572,7 @@
     "crimeScore":"24440.89744",
     "crimeRank":"43",
     "areaGov":"West Midlands"
-  }
+  },
   {
     "areaID":"326",
     "areaName":"Wyre Forest District",
@@ -3583,4 +3583,4 @@
     "crimeScore":"15587.72308",
     "crimeRank":"210",
     "areaGov":"West Midlands"
-  }
+  }]
