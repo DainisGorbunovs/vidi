@@ -19,7 +19,7 @@
         if (count($rows) == 1)
         {
             // first (and only) row
-            $rows1 = query("SELECT healthRank, educationRank, crimeRank FROM areaRank WHERE areaName = ?", $_POST["name"]);
+            $rows1 = query("SELECT healthRank, educationRank, crimeRank, areaGov FROM areaRank WHERE areaName = ?", $_POST["name"]);
 
             $vars = $rows1[0];
 

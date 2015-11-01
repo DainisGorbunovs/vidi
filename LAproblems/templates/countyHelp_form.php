@@ -2,25 +2,31 @@
 <p>Your Local Authority's Educational services rank is: <?= htmlspecialchars($vars["educationRank"]) ?></p>
 <p>Your Local Authority's Crime rate rank is: <?= htmlspecialchars($vars["crimeRank"]) ?></p>
 
-<!-- 
-<table>
 
-	<tr>
-		<td><?= htmlspecialchars($vars["health"]) ?></td>
-		<td>More</td>
-		<td>Start a charity!</td>
-	</tr>
 
-	<tr>
-		<td><?= htmlspecialchars($vars["socioeconomic"]) ?></td>
-		<td>More</td>
-		<td>Start a charity!</td>
-	</tr>
+<p>Your Local Authority's main issue is: 
 
-	<tr>
-		<td><?= htmlspecialchars($vars["environmental"]) ?></td>
-		<td>More</td>
-		<td>Start a charity!</td>
-	</tr>
-</table>
--->
+<?php
+
+	if($vars["educationRank"] > $vars["healthRank"] && $vars["educationRank"] > $vars["crimeRank"]){
+		echo "Education deprivation. <br><a  href='http://www.charitychoice.co.uk/charities/search?sector=&region=";
+		echo $vars["areaGov"];
+		echo "&q=education&distance=&postcode='> Find local charities </a>";
+	}
+	else if($vars["crimeRank"] > $vars["healthRank"]){
+		echo "Crime.";
+		echo "<br><a  href='http://www.charitychoice.co.uk/charities/search?sector=&region=";
+		echo $vars["areaGov"];
+		echo "&q=crime&distance=&postcode='> Find local charities </a>";
+		$help = "crime";
+	}
+	else {
+		echo "Health-care deprivation.";
+		echo "<br><a  href='http://www.charitychoice.co.uk/charities/search?sector=&region=";
+		echo $vars["areaGov"];
+		echo "&q=health&distance=&postcode='> Find local charities </a>";
+		$help = "health";
+	}
+?>
+
+</p>
