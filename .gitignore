@@ -14,3 +14,4 @@ bower_components
 
 # MAC OS X
 __MACOSX
+.DS_Store
