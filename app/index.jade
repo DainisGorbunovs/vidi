@@ -47,6 +47,15 @@ html(lang="en").
 	  <!-- For shared styles, shared-styles.html import in elements.html -->
 	  <style is="custom-style" include="shared-styles"></style>
 
+		<style>
+		#grad1 {
+		    height: 30px;
+		    background: -webkit-linear-gradient(left, #f03299 , #000099); /* For Safari 5.1 to 6.0 */
+		    background: -o-linear-gradient(right, #f03299 , #000099); /* For Opera 11.1 to 12.0 */
+		    background: -moz-linear-gradient(right, #f03299 , #000099); /* For Firefox 3.6 to 15 */
+		    background: linear-gradient(to right, #f03299 , #000099); /* Standard syntax (must be last) */
+		}
+		</style>
 	</head>
 
 	<body unresolved class="fullbleed layout vertical">
@@ -193,8 +202,11 @@ html(lang="en").
 			      </script>
 			      <script async defer
 				      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBgVOMZAP6bgiZKXqmQDiw-R3JR49mNaM&signed_in=true&callback=initMap"></script>
-				<p style="display: inline; color: #f03299; margin:5px;">Highest</p>
-				<p style="display: inline; color: #000099; margin: 5px;">Lowest</p>
+				<div style="text-align: center;">
+					<span style="display: inline; color: #f03299; margin: 5px;">Highest</span>
+					<span style="display: inline; color: #000099; margin: 5px;">Lowest</span>
+				</div>
+				<div id="grad1"></div>
 			    </paper-material>
 			  </div>
 			  <div class="inline" id="divright">
