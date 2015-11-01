@@ -83,8 +83,8 @@ html(lang="en").
 		    <div class="bottom-title paper-font-subhead">Country-wide statistics.</div>
 		    <div class="bottom self-end flex">
 		      <paper-tabs attr-for-selected="data-route" selected="{{route}}">
-			<paper-tab data-route="finished">Finished</paper-tab>
-			<paper-tab data-route="inprogress">In progress</paper-tab>
+			<paper-tab data-route="category">Category</paper-tab>
+			<paper-tab data-route="locale">Locale</paper-tab>
 		      </paper-tabs>
 		    </div>
 		    
@@ -95,6 +95,11 @@ html(lang="en").
 		<!-- Main Content -->
 		<div class="content">
 
+		  <neon-animated-pages attr-for-selected="data-route" selected="{{route}}">
+		    <portfolio-finished data-route="category"></portfolio-finished>
+		    <portfolio-inprogress data-route="locale"></portfolio-inprogress>
+		  </neon-animated-pages>
+		  
 		  <style>
 		    #container {
 		    margin-left: 5%;
