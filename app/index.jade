@@ -131,6 +131,10 @@ html(lang="en").
 			      <div class="layout vertical">
 				<p class="paper-font-title">What would you like to look at?</p>
 				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+				<form action="index.php" method="post">
+				<input name="name" type="text" placeholder="Your county" required autofocus>
+				<input type="submit" class="btn-login">
+				</form>
 				<paper-dropdown-menu label="Choose a factor">
 				  <paper-menu class="dropdown-content">
 				    <paper-item>Living Environment</paper-item>
