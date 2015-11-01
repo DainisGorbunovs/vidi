@@ -114,7 +114,24 @@ html(lang="en").
 		      <div class="layout horizontal" id="container">
 			<div class="flex" id="divleft">
 			  <paper-material elevation="1">
-			    <p class="paper-font-subhead">Section for map</p>
+			    <p class="paper-font-subhead">MAP</p>
+
+			    <div id="map" style="height: 400px;"></div>
+			    <script>
+			      var map;
+			      function initMap() {
+			      map = new google.maps.Map(document.getElementById('map'), {
+			      zoom: 8,
+			      center: {lat: 51.5142, lng: -0.0931}
+			      });
+
+			      // NOTE: This uses cross-domain XHR, and may not work on older browsers.
+			      map.data.loadGeoJson('LA/lad.json');
+			      }
+			    </script>
+			    <script async defer
+				    src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBgVOMZAP6bgiZKXqmQDiw-R3JR49mNaM&signed_in=true&callback=initMap"></script>
+
 			  </paper-material>
 			</div>
 			<div class="inline" id="divright">
