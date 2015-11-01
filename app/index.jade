@@ -82,80 +82,85 @@ html(lang="en").
 		  <div class="bottom bottom-container center horizontal layout">
 		    <div class="bottom-title paper-font-subhead">Country-wide statistics.</div>
 		    <div class="bottom self-end flex">
-		      <paper-tabs attr-for-selected="data-route" selected="{{route}}">
-			<paper-tab data-route="category">Category</paper-tab>
-			<paper-tab data-route="locale">Locale</paper-tab>
+		      <paper-tabs selected="0">
+			<paper-tab>Category</paper-tab>
+			<paper-tab>Locale</paper-tab>
 		      </paper-tabs>
 		    </div>
 		    
 		  </div>
 
 		</paper-toolbar>
+		  <iron-pages selected="0">
+		    <div>
+		      <style type="text/css">
+			#container {
+			margin-left: 5%;
+			margin-right: 5%;
+			padding: 0px;
+			}
+			#container > #divleft {
+			padding: 16px;
+			margin-left: 0px;
+			
+			}
+			#container > #divright {
+			padding: 16px;
+			margin-right: 0px;
+			max-width: 30%;
+			}
+		      </style>
 
-		<!-- Main Content -->
-		<div class="content">
-
-		  <neon-animated-pages attr-for-selected="data-route" selected="{{route}}">
-		    <portfolio-finished data-route="category"></portfolio-finished>
-		    <portfolio-inprogress data-route="locale"></portfolio-inprogress>
-		  </neon-animated-pages>
-		  
-		  <style>
-		    #container {
-		    margin-left: 5%;
-		    margin-right: 5%;
-		    padding: 0px;
-		    }
-		    #container > #divleft {
-		    padding: 16px;
-		    margin-left: 0px;
-		    
-		    }
-		    #container > #divright {
-		    padding: 16px;
-		    margin-right: 0px;
-		    max-width: 30%;
-		    }
-		  </style>
-		  
-		  <div class="layout horizontal" id="container">
-		    <div class="flex" id="divleft">
-		      <paper-material elevation="1">
-			<p class="paper-font-subhead">Section for map</p>
-		      </paper-material>
-		    </div>
-		    <div class="inline" id="divright">
-		      <paper-material elevation="1">
-			<div class="layout vertical">
-			  <p class="paper-font-title">What would you like to look at?</p>
-			  <p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
-			  <paper-dropdown-menu label="Choose a factor">
-		            <paper-menu class="dropdown-content">
-		              <paper-item>Living Environment</paper-item>
-		              <paper-item>PCT Summaries</paper-item>
-		              <paper-item>Education, Skills and Training</paper-item>
-			      <paper-item>Barriers to Housing & Services</paper-item>
-		              <paper-item>Population Denominators</paper-item>
-			      <paper-item>County Summaries</paper-item>
-			      <paper-item>Employment Domain</paper-item>
-			      <paper-item>Supplementary Indices</paper-item>
-			      <paper-item>Deprivation</paper-item>
-			      <paper-item>Local Authority Summaries</paper-item>
-			      <paper-item>Overall</paper-item>
-			      <paper-item>Living Environment</paper-item>
-			      <paper-item>Children & Older People</paper-item>
-			      <paper-item>Barriers to Housing & Services</paper-item>
-			      <paper-item>Income</paper-item>
-			      <paper-item>Crime</paper-item>
-			      <paper-item>Health, Deprivation & Disability</paper-item>
-		          </paper-dropdown-menu>
-			  <p>From there you can see how each part of the country stacks up and filter down to see your area.</p>
-		      </paper-material>
+		      <div class="layout horizontal" id="container">
+			<div class="flex" id="divleft">
+			  <paper-material elevation="1">
+			    <p class="paper-font-subhead">Section for map</p>
+			  </paper-material>
+			</div>
+			<div class="inline" id="divright">
+			  <paper-material elevation="1">
+			    <div class="layout vertical">
+			      <p class="paper-font-title">What would you like to look at?</p>
+			      <p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+			      <paper-dropdown-menu label="Choose a factor">
+				<paper-menu class="dropdown-content">
+				  <paper-item>Living Environment</paper-item>
+				  <paper-item>PCT Summaries</paper-item>
+				  <paper-item>Education, Skills and Training</paper-item>
+				  <paper-item>Barriers to Housing & Services</paper-item>
+				  <paper-item>Population Denominators</paper-item>
+				  <paper-item>County Summaries</paper-item>
+				  <paper-item>Employment Domain</paper-item>
+				  <paper-item>Supplementary Indices</paper-item>
+				  <paper-item>Deprivation</paper-item>
+				  <paper-item>Local Authority Summaries</paper-item>
+				  <paper-item>Overall</paper-item>
+				  <paper-item>Living Environment</paper-item>
+				  <paper-item>Children & Older People</paper-item>
+				  <paper-item>Barriers to Housing & Services</paper-item>
+				  <paper-item>Income</paper-item>
+				  <paper-item>Crime</paper-item>
+				  <paper-item>Health, Deprivation & Disability</paper-item>
+			      </paper-dropdown-menu>
+			      <p>From there you can see how each part of the country stacks up and filter down to see your area.</p>
+			  </paper-material>
+			  </div>
+			</div>
 		      </div>
 		    </div>
-		  </div>
-		  
-		  <iron-pages attr-for-selected="data-route" selected="{{route}}">
+		    <div>Page Two</div>
+		  </iron-pages>
+
+		  <script>
+		    var pages = document.querySelector('iron-pages');
+		    var tabs = document.querySelector('paper-tabs');
+
+		    tabs.addEventListener('iron-select', function() { 
+		    pages.selected = tabs.selected;
+		    });
+		  </script>
+				  
+		  <!-- <iron-pages attr-for-selected="data-route" selected="{{route}}">
 
 		    <section data-route="home">
 		      <paper-material elevation="1">
@@ -225,7 +230,7 @@ html(lang="en").
 		      </paper-material>
 		    </section>
 
-		  </iron-pages>
+		  </iron-pages> -->
 		</div>
 	      </paper-scroll-header-panel>
 
