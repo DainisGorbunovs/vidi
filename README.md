@@ -66,3 +66,12 @@ Some data on hospitals:
 - http://www.bbc.co.uk/news/health-15897345
 - 
 https://data.gov.uk/dataset/index-of-multiple-deprivation
+
+
+// Script to insert csv to sql
+
+LOAD DATA INFILE 'deprivation.csv' 
+INTO TABLE discounts 
+FIELDS TERMINATED BY ',' 
+LINES TERMINATED BY '\n'
+IGNORE 1 ROWS;
