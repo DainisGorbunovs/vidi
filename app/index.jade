@@ -132,7 +132,7 @@ html(lang="en").
 
 						map.data.setStyle(function(feature) {
 						 return {
-						 fillColor: getColor(feature.getProperty(dropDownMenuData)), // call function to get color for state based on the COLI (Cost of Living Index)
+						 fillColor: getColor(feature.getProperty(dropDownMenuData), dropDownMenuData), // call function to get color for state based on the COLI (Cost of Living Index)
 						 fillOpacity: 0.8,
 						 strokeColor: '#b3b3b3',
 						 strokeWeight: 1,
@@ -142,34 +142,54 @@ html(lang="en").
 					}
 				}
 				// returns a color based on the value given when the function is called
-				function getColor(info) {	
+				function getColor(coli, scoreType) {	
 					var multiply = 0;
-					switch(dropDownMenuData) {
+					switch(scoreType) {
 			    case "educationScore":
-			        multiply = 1-(info-6622.312883)/28230;
+			        multiply = 1-(coli-6622.312883)/28230;
 			        break;
 			    case "healthScore":
-			        multiply = 1-(info-2772.007722)/31393.22642;
+			        multiply = 1-(coli-2772.007722)/31393.22642;
 			        break;
 			    case "crimeScore":
-			        multiply = 1-(info-4089.735849)/31690;
+			        multiply = 1-(coli-4089.735849)/31690;
 			        break;
 					}
 
-					if (typeof info === "undefined")
-						multiply = 0;
-					var red = (256 * multiply).toString(16).slice(0,2);
-					var green = (150 * multiply).toString(16).slice(0,2);
-					var blue = (150 * multiply).toString(16).slice(0,2);
-					if (multiply == 0)
-						console.log(red + ":" + green + ":" + blue + " [" + multiply + "], " + info + " and " + localAuthority);
-					var color = "#" + (256 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2) + (80 * multiply).toString(16).slice(0,2);
+					var red = (240 * multiply).toString(16);
+					var green = (50 * multiply).toString(16);
+
+					var maxblue = 0 * 1/multiply;
+					if (maxblue > 255) {
+						maxblue = 255;
+						console.log("We hit the max");
+					}
+					var blue = maxblue.toString(16);
+					//console.log("Blue: " + blue);
+					if (multiply > 1)
+						console.log("Multiply higher than 100%, weird");
+					if (red.indexOf(".") > 0)
+						red = red.substring(0,red.indexOf("."));
+					if (green.indexOf(".") > 0)
+						green = green.substring(0,green.indexOf("."));
+					if (blue.indexOf(".") > 0)
+						blue = blue.substring(0,blue.indexOf("."))
+					
+					if (red.length < 2)
+						red = "0" + red;
+					if (green.length < 2)
+						green = "0" + green;
+					if (blue.length < 2)
+						blue = "0" + blue;
+
+						console.log("Red " + red + ":Green " + green + ":Blue " + blue + " [" + multiply + "], " + coli);
+					var color = "#" + red + green + "99";
 				 return color;
 
-				 return info >= 121 ? '#89a844' :
-				 info > 110 ? '#acd033' :
-				 info > 102.5 ? '#cbd97c' :
-				 info > 100 ? '#c2c083' :
+				 return coli >= 121 ? '#89a844' :
+				 coli > 110 ? '#acd033' :
+				 coli > 102.5 ? '#cbd97c' :
+				 coli > 100 ? '#c2c083' :
 				 '#d1ccad';
 				}
 			      </script>
