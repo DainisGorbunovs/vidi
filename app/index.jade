@@ -76,17 +76,15 @@ html(lang="en").
 
 		  <!-- Application name -->
 
-		  
+		  <div class="middle middle-container center horizontal layout">
+	        <div class="app-name">Vidi</div>
+	      </div>
 
-		  <div class="middle middle-container center horizontal layout" style="margin: 12px;">
-		    <div class="app-name" style="margin-right: 24px;">VIDI: I saw, I helped.</div>
-		    <div>
-		    <paper-tabs selected="0">
-			<paper-tab id="test">Category</paper-tab>
-			<paper-tab link><a href="http://192.168.66.64">Locale</a></paper-tab>
-		    </paper-tabs>
-		    </div>
-		  </div>
+	      <!-- Application sub title -->
+	      <div class="bottom bottom-container center horizontal layout">
+	        <div class="bottom-title paper-font-subhead">I saw, I helped.</div>
+	      </div>
+	  </div>
 
 		</paper-toolbar>
 		  <iron-pages selected="0">
@@ -195,17 +193,14 @@ html(lang="en").
 			      </script>
 			      <script async defer
 				      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDBgVOMZAP6bgiZKXqmQDiw-R3JR49mNaM&signed_in=true&callback=initMap"></script>
-
+				<p style="display: inline; color: #f03299; margin:5px;">Highest</p>
+				<p style="display: inline; color: #000099; margin: 5px;">Lowest</p>
 			    </paper-material>
 			  </div>
 			  <div class="inline" id="divright">
 			    <paper-material elevation="1">
 			      <div class="layout vertical">
 				  
-				<form action="index.php" method="post">
-				<input name="name" type="text" placeholder="Your county" required autofocus>
-				<input type="submit" class="btn-login">
-				</form>
 				
 				<p class="paper-font-title">What would you like to look at?</p>
 				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
@@ -233,15 +228,23 @@ html(lang="en").
 				    <paper-item>Health, Deprivation & Disability</paper-item>
 				</paper-dropdown-menu>
 				<p>From there you can see how each part of the country stacks up and filter down to see your area.</p>
-				<p>Scroll down to view rankings.</p>
-			    </paper-material>
+				<paper-button label="Cut through the noise" onclick="javascript:location.href='http://192.168.66.64/'">Cut through the noise.</paper-button>
+			    
+
 			    </div>
+			    </paper-material>
+			    <paper-material>
+			    <p class="paper-font-title">Morgan-Stanley Code-a-thon</p>
+			    <p>Dainis Gorbunovs</p>
+			    <p>Georgios Kontgiannis</p>
+			    <p>David Wells</p>
+			    <p>Vlad Visan</p>
+			    <p>Jordan Cross</p>
+			</paper-material>
 			  </div>
 			</div>
 		      </div>
 		      <div id="container">
-			<paper-material elevation="1">
-			</paper-material>
 		      </div>
 		    </div>
 		    <!-- <div>
