@@ -109,6 +109,7 @@ html(lang="en").
 			max-width: 30%;
 			}
 		      </style>
+			  
 		      <div class="layout vertical">
 			<div class="layout horizontal" id="container">
 			  <div class="flex" id="divleft">
@@ -121,7 +122,7 @@ html(lang="en").
 				var dropDownMenuData="none";
 				function initMap() {
 					map = new google.maps.Map(document.getElementById('map'), {
-					zoom: 8,
+					zoom: 6,
 					center: {lat: 51.5142, lng: -0.0931}
 					});
 
@@ -180,13 +181,17 @@ html(lang="en").
 			  <div class="inline" id="divright">
 			    <paper-material elevation="1">
 			      <div class="layout vertical">
-				<p class="paper-font-title">What would you like to look at?</p>
-				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
-				
+				  
 				<form action="index.php" method="post">
 				<input name="name" type="text" placeholder="Your county" required autofocus>
 				<input type="submit" class="btn-login">
 				</form>
+				
+				<p class="paper-font-title">What would you like to look at?</p>
+				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
+				
+
+				
 				<paper-dropdown-menu label="Choose a factor" id="dropDownMenu">
 				  <paper-menu class="dropdown-content" onclick="myfunction()">
 				    <paper-item>Living Environment</paper-item>
@@ -226,10 +231,8 @@ html(lang="en").
 
 		  <script>
 		  
-		  function myfunction(){
-			document.getElementById("test").innerHTML=document.getElementById("dropDownMenu").selectedItemLabel;
-			
-			
+		  function myfunction(){			
+	
 			switch (document.getElementById("dropDownMenu").selectedItemLabel){
 				case "Crime":
 					dropDownMenuData = "crimeScore";
@@ -237,15 +240,16 @@ html(lang="en").
 				case "Education, Skills and Training":
 					dropDownMenuData="educationScore";
 					break;
-				case "Health, Deprivation & Disability"
-					dropDownMenuData="healthScore;
+				case "Health, Deprivation & Disability":
+					dropDownMenuData="healthScore";
 					break;
-				default
+				default :
 					dropDownMenuData = "none";
 			}
 			
-			initMap();
-			
+			if (dropDownMenuData!="none"){
+				initMap();
+			}
 		  }
 		    var pages = document.querySelector('iron-pages');
 		    var tabs = document.querySelector('paper-tabs');
