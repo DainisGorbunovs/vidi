@@ -71,7 +71,7 @@ https://data.gov.uk/dataset/index-of-multiple-deprivation
 // Script to insert csv to sql
 
 LOAD DATA INFILE 'deprivation.csv' 
-INTO TABLE discounts 
+INTO TABLE areaRank 
 FIELDS TERMINATED BY ',' 
 LINES TERMINATED BY '\n'
 IGNORE 1 ROWS;
