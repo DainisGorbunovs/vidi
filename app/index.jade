@@ -75,7 +75,7 @@ html(lang="en").
 		    <div class="app-name" style="margin-right: 24px;">VIDI: I saw, I helped.</div>
 		    <div>
 		    <paper-tabs selected="0">
-			<paper-tab>Category</paper-tab>
+			<paper-tab id="test">Category</paper-tab>
 			<paper-tab>Locale</paper-tab>
 		    </paper-tabs>
 		    </div>
@@ -111,24 +111,27 @@ html(lang="en").
 			      <div id="map" style="height: 600px;"></div>
 			      <script>
 				var map;
+				var dropDownMenuData="none";
 				function initMap() {
 					map = new google.maps.Map(document.getElementById('map'), {
 					zoom: 8,
 					center: {lat: 51.5142, lng: -0.0931}
 					});
 
-					// NOTE: This uses cross-domain XHR, and may not work on older browsers.
-					map.data.loadGeoJson('LA/ladata.json');
+					if(dropDownMenuData != "none"){
+						// NOTE: This uses cross-domain XHR, and may not work on older browsers.
+						map.data.loadGeoJson('LA/ladata.json');
 
-					map.data.setStyle(function(feature) {
-					 return {
-					 fillColor: getColor(feature.getProperty('crimeScore')), // call function to get color for state based on the COLI (Cost of Living Index)
-					 fillOpacity: 0.8,
-					 strokeColor: '#b3b3b3',
-					 strokeWeight: 1,
-					 zIndex: 1
-					 };
-					});
+						map.data.setStyle(function(feature) {
+						 return {
+						 fillColor: getColor(feature.getProperty(dropDownMenuData)), // call function to get color for state based on the COLI (Cost of Living Index)
+						 fillOpacity: 0.8,
+						 strokeColor: '#b3b3b3',
+						 strokeWeight: 1,
+						 zIndex: 1
+						 };
+						});
+					}
 				}
 				// returns a color based on the value given when the function is called
 				function getColor(coli) {
@@ -150,8 +153,8 @@ html(lang="en").
 			      <div class="layout vertical">
 				<p class="paper-font-title">What would you like to look at?</p>
 				<p class="paper-font-body">Choose from a wide range of social, economic, environmental and wellness factors to see a country-wide heatmap.</p>
-				<paper-dropdown-menu label="Choose a factor">
-				  <paper-menu class="dropdown-content">
+				<paper-dropdown-menu label="Choose a factor" id="dropDownMenu">
+				  <paper-menu class="dropdown-content" onclick="myfunction()">
 				    <paper-item>Living Environment</paper-item>
 				    <paper-item>PCT Summaries</paper-item>
 				    <paper-item>Education, Skills and Training</paper-item>
@@ -186,6 +189,28 @@ html(lang="en").
 		  </iron-pages>
 
 		  <script>
+		  
+		  function myfunction(){
+			document.getElementById("test").innerHTML=document.getElementById("dropDownMenu").selectedItemLabel;
+			
+			
+			switch (document.getElementById("dropDownMenu").selectedItemLabel){
+				case "Crime":
+					dropDownMenuData = "crimeScore";
+					break;	
+				case "Education, Skills and Training":
+					dropDownMenuData="educationScore";
+					break;
+				case "Health, Deprivation & Disability"
+					dropDownMenuData="healthScore;
+					break;
+				default
+					dropDownMenuData = "none";
+			}
+			
+			initMap();
+			
+		  }
 		    var pages = document.querySelector('iron-pages');
 		    var tabs = document.querySelector('paper-tabs');
 
